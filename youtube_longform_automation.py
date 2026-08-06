@@ -243,6 +243,7 @@ For each phrase:
 1. English phrase (pure English, zero Polish words) with commas for natural pauses
 2. Polish translation
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Polish. NEVER use German, Spanish, or any other language. Only Polish.
 
 Return as JSON array:
 [{{"english": "...", "polish": "...", "pronunciation": "..."}}]
