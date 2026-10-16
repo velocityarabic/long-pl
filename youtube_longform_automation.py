@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = list(CATEGORIES_POLISH.keys())
 
 # Polish translations
 CATEGORIES_POLISH = {
@@ -98,6 +97,9 @@ CATEGORIES_POLISH = {
     "Cultural Traditions": "Tradycje kulturowe",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_POLISH.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "pl-PL-ZofiaNeural"
