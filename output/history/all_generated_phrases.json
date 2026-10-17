@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Sorry, my bad.",
+      "polish": "Przepraszam, mój błąd.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726203"
+    },
+    {
+      "english": "My apologies, truly.",
+      "polish": "Moje przeprosiny, naprawdę.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726218"
+    },
+    {
+      "english": "I didn't mean to.",
+      "polish": "Nie chciałem, nie chciałam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726221"
+    },
+    {
+      "english": "Can you forgive me?",
+      "polish": "Czy możesz mi wybaczyć?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726223"
+    },
+    {
+      "english": "Please, excuse me.",
+      "polish": "Proszę, wybacz mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726226"
+    },
+    {
+      "english": "It was a mistake.",
+      "polish": "To był błąd.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726229"
+    },
+    {
+      "english": "I hope you understand.",
+      "polish": "Mam nadzieję, że zrozumiesz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726230"
+    },
+    {
+      "english": "Don't be mad at me.",
+      "polish": "Nie gniewaj się na mnie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726235"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "polish": "Zepsułem, przepraszam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726238"
+    },
+    {
+      "english": "Forgetting it, okay?",
+      "polish": "Zapominamy o tym, dobrze?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726240"
+    },
+    {
+      "english": "It won't happen again.",
+      "polish": "To się nie powtórzy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726242"
+    },
+    {
+      "english": "I regret my actions.",
+      "polish": "Żałuję moich czynów.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726244"
+    },
+    {
+      "english": "Can we move past this?",
+      "polish": "Czy możemy przejść przez to?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726246"
+    },
+    {
+      "english": "I truly apologize.",
+      "polish": "Naprawdę przepraszam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726247"
+    },
+    {
+      "english": "Forgive my ignorance.",
+      "polish": "Wybacz moją niewiedzę.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726249"
+    },
+    {
+      "english": "That was careless of me.",
+      "polish": "To było roztargnione z mojej strony.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726250"
+    },
+    {
+      "english": "I owe you an apology.",
+      "polish": "Jestem winien przeprosiny.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726252"
+    },
+    {
+      "english": "Please accept my apology.",
+      "polish": "Proszę, przyjmij moje przeprosiny.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726254"
+    },
+    {
+      "english": "I take full responsibility.",
+      "polish": "Biorę pełną odpowiedzialność.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726257"
+    },
+    {
+      "english": "Let's forget it.",
+      "polish": "Zapomnijmy o tym.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726259"
+    },
+    {
+      "english": "I was out of line.",
+      "polish": "Przekroczyłem/przekroczyłam granicę.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726260"
+    },
+    {
+      "english": "I hope we're still good.",
+      "polish": "Mam nadzieję, że nadal jesteśmy w porządku.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726262"
+    },
+    {
+      "english": "What can I do?",
+      "polish": "Co mogę zrobić?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726264"
+    },
+    {
+      "english": "Please don't hold it against me.",
+      "polish": "Proszę, nie miej mi tego za złe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726266"
+    },
+    {
+      "english": "I feel terrible about it.",
+      "polish": "Okropnie się z tym czuję.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726268"
+    },
+    {
+      "english": "Can we start over?",
+      "polish": "Możemy zacząć od nowa?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726269"
+    },
+    {
+      "english": "My mistake, totally.",
+      "polish": "Mój błąd, całkowicie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726271"
+    },
+    {
+      "english": "I apologize for the inconvenience.",
+      "polish": "Przepraszam za niedogodności.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726273"
+    },
+    {
+      "english": "Can you find it in your heart?",
+      "polish": "Czy możesz to przeboleć?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726275"
+    },
+    {
+      "english": "What happened, exactly?",
+      "polish": "Co dokładnie się stało?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726277"
+    },
+    {
+      "english": "Did I upset you, perhaps?",
+      "polish": "Czy cię zasmuciłem, może?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726279"
+    },
+    {
+      "english": "What should I do now?",
+      "polish": "Co mam teraz zrobić?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726281"
+    },
+    {
+      "english": "How can I make amends?",
+      "polish": "Jak mogę się zrehabilitować?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726283"
+    },
+    {
+      "english": "Are you still angry with me?",
+      "polish": "Jesteś na mnie jeszcze zły?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726285"
+    },
+    {
+      "english": "Tell me, what's bothering you?",
+      "polish": "Powiedz mi, co cię trapi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726288"
+    },
+    {
+      "english": "Can we talk about this?",
+      "polish": "Czy możemy o tym porozmawiać?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726290"
+    },
+    {
+      "english": "What's on your mind?",
+      "polish": "Co ci chodzi po głowie?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726291"
+    },
+    {
+      "english": "Did I cross a line?",
+      "polish": "Czy przekroczyłem granicę?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726293"
+    },
+    {
+      "english": "How did that make you feel?",
+      "polish": "Jak się z tym czułeś/czułaś?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726295"
+    },
+    {
+      "english": "What's the best way forward?",
+      "polish": "Jaka jest najlepsza droga naprzód?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726297"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "polish": "Czy coś przeoczyłem?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726298"
+    },
+    {
+      "english": "What are your expectations?",
+      "polish": "Jakie są twoje oczekiwania?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726301"
+    },
+    {
+      "english": "Can I help clear this up?",
+      "polish": "Czy mogę to wyjaśnić?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726303"
+    },
+    {
+      "english": "Do you need some space?",
+      "polish": "Potrzebujesz trochę przestrzeni?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726305"
+    },
+    {
+      "english": "What advice do you have?",
+      "polish": "Jaką masz radę?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726306"
+    },
+    {
+      "english": "Should I apologize again?",
+      "polish": "Czy powinienem przeprosić ponownie?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726323"
+    },
+    {
+      "english": "What was your intention?",
+      "polish": "Jaka była twoja intencja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726325"
+    },
+    {
+      "english": "Did I misunderstand you?",
+      "polish": "Czy źle cię zrozumiałem?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726326"
+    },
+    {
+      "english": "How can we avoid this?",
+      "polish": "Jak możemy tego uniknąć?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726328"
+    },
+    {
+      "english": "What is your perspective?",
+      "polish": "Jaka jest twoja perspektywa?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726329"
+    },
+    {
+      "english": "Can you explain your feelings?",
+      "polish": "Czy możesz wyjaśnić swoje uczucia?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726331"
+    },
+    {
+      "english": "What lesson did I learn?",
+      "polish": "Jaką lekcję wyciągnąłem?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726333"
+    },
+    {
+      "english": "Are we okay now?",
+      "polish": "Czy jest już między nami dobrze?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726335"
+    },
+    {
+      "english": "What's the real issue?",
+      "polish": "Jaki jest prawdziwy problem?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726337"
+    },
+    {
+      "english": "Did my words hurt you?",
+      "polish": "Czy moje słowa cię zraniły?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726340"
+    },
+    {
+      "english": "What needs to change?",
+      "polish": "Co musi się zmienić?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726342"
+    },
+    {
+      "english": "How do you want to proceed?",
+      "polish": "Jak chcesz postępować?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726343"
+    },
+    {
+      "english": "Can we find a solution?",
+      "polish": "Czy możemy znaleźć rozwiązanie?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726345"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "polish": "Wierz w siebie, zawsze.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726347"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "polish": "Jesteś silniejszy/silniejsza niż myślisz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726349"
+    },
+    {
+      "english": "Let go of past hurts.",
+      "polish": "Puść przeszłe krzywdy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726351"
+    },
+    {
+      "english": "Focus on what truly matters.",
+      "polish": "Skup się na tym, co naprawdę ważne.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726352"
+    },
+    {
+      "english": "Choose peace, not grudges.",
+      "polish": "Wybieraj spokój, nie urazy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726355"
+    },
+    {
+      "english": "Inner peace is your superpower.",
+      "polish": "Wewnętrzny spokój to twoja supermoc.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726356"
+    },
+    {
+      "english": "Forgiveness frees your spirit.",
+      "polish": "Wybaczenie uwalnia twego ducha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726358"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "polish": "Rosnij przez to, przez co przechodzisz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726360"
+    },
+    {
+      "english": "Your resilience is amazing.",
+      "polish": "Twoja odporność jest niesamowita.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726362"
+    },
+    {
+      "english": "Let kindness lead the way.",
+      "polish": "Pozwól życzliwości prowadzić.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726364"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "polish": "Każdy dzień, to nowa szansa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726365"
+    },
+    {
+      "english": "Keep your heart open.",
+      "polish": "Trzymaj serce otwarte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726367"
+    },
+    {
+      "english": "You deserve inner calm.",
+      "polish": "Zasługujesz na wewnętrzny spokój.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726369"
+    },
+    {
+      "english": "Embrace positive energy.",
+      "polish": "Przyjmij pozytywną energię.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726372"
+    },
+    {
+      "english": "Find strength in letting go.",
+      "polish": "Znajdź siłę w odpuszczaniu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726374"
+    },
+    {
+      "english": "Your growth is beautiful.",
+      "polish": "Twój rozwój jest piękny.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726375"
+    },
+    {
+      "english": "Heal yourself first.",
+      "polish": "Ulecz najpierw siebie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726377"
+    },
+    {
+      "english": "Be proud of your progress.",
+      "polish": "Bądź dumny/dumna ze swoich postępów.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726379"
+    },
+    {
+      "english": "Wisdom comes from experience.",
+      "polish": "Mądrość płynie z doświadczenia.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726383"
+    },
+    {
+      "english": "Release what no longer serves.",
+      "polish": "Wypuść to, co już nie służy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726386"
+    },
+    {
+      "english": "Cultivate self-compassion.",
+      "polish": "Pielęgnuj współczucie dla siebie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726387"
+    },
+    {
+      "english": "You are worthy of peace.",
+      "polish": "Jesteś wart/warta spokoju.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726389"
+    },
+    {
+      "english": "Embrace the lessons learned.",
+      "polish": "Przyjmij lekcje, które poznałeś/poznałaś.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726391"
+    },
+    {
+      "english": "Shine your inner light.",
+      "polish": "Świeć swoim wewnętrznym światłem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726392"
+    },
+    {
+      "english": "Transform challenges into triumphs.",
+      "polish": "Przekształć wyzwania w triumfy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726394"
+    },
+    {
+      "english": "Your mind is a garden.",
+      "polish": "Twój umysł to ogród.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726396"
+    },
+    {
+      "english": "Nurture positive thoughts.",
+      "polish": "Pielęgnuj pozytywne myśli.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726397"
+    },
+    {
+      "english": "Let go, and be free.",
+      "polish": "Odpuszczaj, i bądź wolny/wolna.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726399"
+    },
+    {
+      "english": "You are capable of great things.",
+      "polish": "Jesteś zdolny/zdolna do wielkich rzeczy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726402"
+    },
+    {
+      "english": "Peace begins within you.",
+      "polish": "Pokój zaczyna się w tobie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726403"
+    },
+    {
+      "english": "It takes time, to truly heal.",
+      "polish": "Potrzeba czasu, żeby naprawdę się uleczyć.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726405"
+    },
+    {
+      "english": "I'm still processing, my emotions.",
+      "polish": "Nadal przetwarzam, swoje emocje.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726407"
+    },
+    {
+      "english": "This was a difficult, learning experience.",
+      "polish": "To było trudne, doświadczenie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726409"
+    },
+    {
+      "english": "I need space, to reflect.",
+      "polish": "Potrzebuję przestrzeni, żeby przemyśleć.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726411"
+    },
+    {
+      "english": "Can we talk, when I'm ready?",
+      "polish": "Porozmawiamy, jak będę gotowa?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726413"
+    },
+    {
+      "english": "My heart is still heavy.",
+      "polish": "Moje serce jest wciąż ciężkie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726416"
+    },
+    {
+      "english": "Understanding takes patience.",
+      "polish": "Zrozumienie wymaga cierpliwości.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726417"
+    },
+    {
+      "english": "I'm trying, to see your side.",
+      "polish": "Próbuję, zobaczyć twoją perspektywę.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726419"
+    },
+    {
+      "english": "This situation, tested me.",
+      "polish": "Ta sytuacja, mnie przetestowała.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726421"
+    },
+    {
+      "english": "I'm working on, myself.",
+      "polish": "Pracuję, nad sobą.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726423"
+    },
+    {
+      "english": "Let's give it, some breathing room.",
+      "polish": "Dajmy temu, trochę oddechu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726425"
+    },
+    {
+      "english": "This hurt deeply, you know?",
+      "polish": "To bardzo zabolało, wiesz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726429"
+    },
+    {
+      "english": "Rebuilding trust, will take time.",
+      "polish": "Odbudowa zaufania, zajmie czas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726431"
+    },
+    {
+      "english": "I need to feel heard.",
+      "polish": "Potrzebuję poczuć się wysłuchanym.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726432"
+    },
+    {
+      "english": "Is there any, way forward?",
+      "polish": "Czy jest jakaś, droga naprzód?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726435"
+    },
+    {
+      "english": "I'm finding my own, inner strength.",
+      "polish": "Odnajduję swoją, wewnętrzną siłę.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726437"
+    },
+    {
+      "english": "This requires, honest reflection.",
+      "polish": "To wymaga, szczerej refleksji.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726438"
+    },
+    {
+      "english": "Can we be honest, with each other?",
+      "polish": "Czy możemy być szczerzy, wobec siebie?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726440"
+    },
+    {
+      "english": "My feelings are complicated.",
+      "polish": "Moje uczucia są skomplikowane.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726442"
+    },
+    {
+      "english": "I'm learning to forgive, myself too.",
+      "polish": "Uczę się wybaczać, sobie też.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726444"
+    },
+    {
+      "english": "What does closure mean, to you?",
+      "polish": "Co dla ciebie znaczy, zamknięcie?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726446"
+    },
+    {
+      "english": "This is a process, not an event.",
+      "polish": "To jest proces, nie wydarzenie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726448"
+    },
+    {
+      "english": "I need to understand, the impact.",
+      "polish": "Muszę zrozumieć, wpływ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726450"
+    },
+    {
+      "english": "Kindness matters, moving forward.",
+      "polish": "Życzliwość ma znaczenie, w przyszłości.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726452"
+    },
+    {
+      "english": "Let's try again, gently.",
+      "polish": "Spróbujmy ponownie, delikatnie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726454"
+    },
+    {
+      "english": "My perspective, is shifting.",
+      "polish": "Moja perspektywa, się zmienia.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726455"
+    },
+    {
+      "english": "Emotional honesty, is key.",
+      "polish": "Uczciwość emocjonalna, jest kluczem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726457"
+    },
+    {
+      "english": "I am offering, my sincere apology.",
+      "polish": "Ofiaruję, moje szczere przeprosiny.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726459"
+    },
+    {
+      "english": "We can heal, together.",
+      "polish": "Możemy się uleczyć, razem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726460"
+    },
+    {
+      "english": "I accept your apology, thank you.",
+      "polish": "Akceptuję twoje przeprosiny, dziękuję.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726462"
+    },
+    {
+      "english": "Let's focus, on the future.",
+      "polish": "Skupmy się, na przyszłości.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726465"
+    },
+    {
+      "english": "This mistake, won't happen again.",
+      "polish": "Ten błąd, się już nie powtórzy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:35:58.726467"
+    }
+  ],
+  "last_updated": "2026-10-17T07:35:58.726468"
+}
