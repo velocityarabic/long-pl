@@ -719,7 +719,727 @@
       "polish": "Ten błąd, się już nie powtórzy.",
       "category": "Forgiveness",
       "generated_at": "2026-10-17T07:35:58.726467"
+    },
+    {
+      "english": "What are you doing, later?",
+      "polish": "Co robisz, później?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163960"
+    },
+    {
+      "english": "Any plans, for tonight?",
+      "polish": "Masz jakieś plany, na dziś?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163974"
+    },
+    {
+      "english": "Let's meet up, sometime.",
+      "polish": "Spotkajmy się, kiedyś.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163976"
+    },
+    {
+      "english": "How about coffee, tomorrow?",
+      "polish": "Może kawa, jutro?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163978"
+    },
+    {
+      "english": "Are you free, this weekend?",
+      "polish": "Jesteś wolny, w ten weekend?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163980"
+    },
+    {
+      "english": "What do you want, to do?",
+      "polish": "Co chcesz, robić?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163982"
+    },
+    {
+      "english": "Sounds good, I'm in.",
+      "polish": "Brzmi dobrze, jestem za.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163984"
+    },
+    {
+      "english": "I'm busy, unfortunately.",
+      "polish": "Jestem zajęty, niestety.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163988"
+    },
+    {
+      "english": "Maybe another time, okay?",
+      "polish": "Może innym razem, dobra?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163990"
+    },
+    {
+      "english": "Let's grab dinner, tonight.",
+      "polish": "Chodźmy na kolację, dziś.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163994"
+    },
+    {
+      "english": "I'm thinking, about a movie.",
+      "polish": "Myślę, o filmie.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163996"
+    },
+    {
+      "english": "Do you have, suggestions?",
+      "polish": "Masz propozycje?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.163997"
+    },
+    {
+      "english": "When works, for you?",
+      "polish": "Kiedy pasuje, ci?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164000"
+    },
+    {
+      "english": "Let's do this, soon.",
+      "polish": "Zróbmy to, szybko.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164002"
+    },
+    {
+      "english": "What's the plan, exactly?",
+      "polish": "Jaki jest plan, dokładnie?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164004"
+    },
+    {
+      "english": "I'm free, after work.",
+      "polish": "Jestem wolny, po pracy.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164006"
+    },
+    {
+      "english": "Let's go out, somewhere.",
+      "polish": "Wyjdźmy gdzieś.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164007"
+    },
+    {
+      "english": "How about a walk, later?",
+      "polish": "Może spacer, później?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164009"
+    },
+    {
+      "english": "Are you available, Monday?",
+      "polish": "Jesteś dostępny, w poniedziałek?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164010"
+    },
+    {
+      "english": "I'd love to, but...",
+      "polish": "Chętnie, ale...",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164012"
+    },
+    {
+      "english": "We should catch up, soon.",
+      "polish": "Powinniśmy się spotkać, wkrótce.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164014"
+    },
+    {
+      "english": "What are we thinking, for fun?",
+      "polish": "Co myślimy, na rozrywkę?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164016"
+    },
+    {
+      "english": "Let's make a plan, then.",
+      "polish": "Zróbmy więc plan.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164017"
+    },
+    {
+      "english": "I'm open, to ideas.",
+      "polish": "Jestem otwarty, na pomysły.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164019"
+    },
+    {
+      "english": "Can we reschedule, please?",
+      "polish": "Możemy przełożyć, proszę?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164021"
+    },
+    {
+      "english": "Looking forward, to it.",
+      "polish": "Nie mogę się doczekać.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164023"
+    },
+    {
+      "english": "What time, shall we say?",
+      "polish": "O której godzinie, umówmy się?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164024"
+    },
+    {
+      "english": "This sounds, like fun.",
+      "polish": "To brzmi, jak zabawa.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164026"
+    },
+    {
+      "english": "Let's confirm, later.",
+      "polish": "Potwierdźmy, później.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164028"
+    },
+    {
+      "english": "Got any, free time?",
+      "polish": "Masz, wolną chwilę?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164029"
+    },
+    {
+      "english": "Got anything, planned?",
+      "polish": "Masz coś, zaplanowane?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164031"
+    },
+    {
+      "english": "What are you, up to?",
+      "polish": "Co porabiasz, dzisiaj?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164033"
+    },
+    {
+      "english": "Fancy doing, something?",
+      "polish": "Masz ochotę, coś zrobić?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164035"
+    },
+    {
+      "english": "When are you, available?",
+      "polish": "Kiedy jesteś, wolna/wolny?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164037"
+    },
+    {
+      "english": "Is that, a possibility?",
+      "polish": "Czy to, jest możliwe?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164038"
+    },
+    {
+      "english": "Can we brainstorm, ideas?",
+      "polish": "Możemy burzę mózgów, zrobić?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164042"
+    },
+    {
+      "english": "What's your, availability?",
+      "polish": "Jaka jest, twoja dostępność?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164043"
+    },
+    {
+      "english": "Any interest, in that?",
+      "polish": "Masz jakieś, zainteresowanie tym?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164045"
+    },
+    {
+      "english": "What do you, suggest?",
+      "polish": "Co proponujesz?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164047"
+    },
+    {
+      "english": "Let's decide, together.",
+      "polish": "Zdecydujmy, razem.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164049"
+    },
+    {
+      "english": "Does that, work for you?",
+      "polish": "Czy to, ci pasuje?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164051"
+    },
+    {
+      "english": "How about we, try something?",
+      "polish": "Może spróbujemy, czegoś?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164053"
+    },
+    {
+      "english": "What if we, did this?",
+      "polish": "A co, jeśli zrobimy, to?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164055"
+    },
+    {
+      "english": "Are you keen, on that?",
+      "polish": "Chętnie byś, na to poszedł/poszła?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164056"
+    },
+    {
+      "english": "What's your, ideal plan?",
+      "polish": "Jaki jest, twój idealny plan?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164059"
+    },
+    {
+      "english": "Could we, perhaps, meet?",
+      "polish": "Czy moglibyśmy, może, się spotkać?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164061"
+    },
+    {
+      "english": "I'm open, to suggestions.",
+      "polish": "Jestem otwarty/otwarta, na sugestie.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164063"
+    },
+    {
+      "english": "What appeals, to you?",
+      "polish": "Co cię, pociąga?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164064"
+    },
+    {
+      "english": "Let's coordinate, later.",
+      "polish": "Ustalimy, później.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164066"
+    },
+    {
+      "english": "What's the, general idea?",
+      "polish": "Jaki jest, ogólny pomysł?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164068"
+    },
+    {
+      "english": "Are we thinking, big?",
+      "polish": "Myślimy, o czymś dużym?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164070"
+    },
+    {
+      "english": "What vibe, are we going for?",
+      "polish": "Jaki klimat, chcemy stworzyć?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164071"
+    },
+    {
+      "english": "Shall we, lock it in?",
+      "polish": "Może, ustalmy to?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164073"
+    },
+    {
+      "english": "I'm flexible, usually.",
+      "polish": "Jestem elastyczny/elastyczna, zazwyczaj.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164075"
+    },
+    {
+      "english": "What's the, preferred timing?",
+      "polish": "Jaki jest, preferowany czas?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164076"
+    },
+    {
+      "english": "Can we pencil, it in?",
+      "polish": "Możemy to, wpisać?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164078"
+    },
+    {
+      "english": "What have you, got brewing?",
+      "polish": "Co masz, w zanadrzu?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164079"
+    },
+    {
+      "english": "Are we on, the same page?",
+      "polish": "Czy jesteśmy, zgodni?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164081"
+    },
+    {
+      "english": "Let's iron, out details.",
+      "polish": "Wyjaśnijmy, szczegóły.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164083"
+    },
+    {
+      "english": "Believe in your plan, today.",
+      "polish": "Wierz w swój plan, dzisiaj.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164085"
+    },
+    {
+      "english": "You've got this, for sure.",
+      "polish": "Dasz radę, na pewno.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164088"
+    },
+    {
+      "english": "Great idea, let's go!",
+      "polish": "Świetny pomysł, jedziemy!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164092"
+    },
+    {
+      "english": "That's a bold move, nice.",
+      "polish": "Odważny ruch, dobrze.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164094"
+    },
+    {
+      "english": "Your effort, is impressive.",
+      "polish": "Twój wysiłek, jest imponujący.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164096"
+    },
+    {
+      "english": "Positive vibes, only, please.",
+      "polish": "Pozytywne wibracje, tylko, proszę.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164098"
+    },
+    {
+      "english": "This will work, perfectly.",
+      "polish": "To zadziała, idealnie.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164100"
+    },
+    {
+      "english": "Keep that energy, going.",
+      "polish": "Utrzymaj tę energię, dalej.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164101"
+    },
+    {
+      "english": "Big dreams, big results, yes?",
+      "polish": "Wielkie marzenia, wielkie rezultaty, tak?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164103"
+    },
+    {
+      "english": "Don't doubt yourself, at all.",
+      "polish": "Nie wątpij w siebie, wcale.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164105"
+    },
+    {
+      "english": "You're doing, amazing work.",
+      "polish": "Wykonujesz, niesamowitą pracę.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164107"
+    },
+    {
+      "english": "Focus on the goal, always.",
+      "polish": "Skup się na celu, zawsze.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164109"
+    },
+    {
+      "english": "That's a brilliant, idea!",
+      "polish": "To genialny, pomysł!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164111"
+    },
+    {
+      "english": "You're on the right, track.",
+      "polish": "Jesteś na dobrej, drodze.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164113"
+    },
+    {
+      "english": "Let's make it, happen.",
+      "polish": "Zróbmy to, się stało.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164115"
+    },
+    {
+      "english": "Your progress, is fantastic.",
+      "polish": "Twój postęp, jest fantastyczny.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164117"
+    },
+    {
+      "english": "This plan, has potential.",
+      "polish": "Ten plan, ma potencjał.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164118"
+    },
+    {
+      "english": "Stay motivated, friend.",
+      "polish": "Pozostań zmotywowany, przyjacielu.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164121"
+    },
+    {
+      "english": "I believe, in you.",
+      "polish": "Wierzę, w ciebie.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164123"
+    },
+    {
+      "english": "Excellent execution, so far.",
+      "polish": "Doskonałe wykonanie, do tej pory.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164125"
+    },
+    {
+      "english": "This is going, swimmingly.",
+      "polish": "To idzie, gładko.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164127"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "polish": "Pchaj naprzód, dalej.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164128"
+    },
+    {
+      "english": "Your enthusiasm, is contagious.",
+      "polish": "Twój entuzjazm, jest zaraźliwy.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164131"
+    },
+    {
+      "english": "We can achieve, anything.",
+      "polish": "Możemy osiągnąć, wszystko.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164132"
+    },
+    {
+      "english": "Think positive, always.",
+      "polish": "Myśl pozytywnie, zawsze.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164134"
+    },
+    {
+      "english": "That’s genius, truly.",
+      "polish": "To genialne, naprawdę.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164138"
+    },
+    {
+      "english": "You're a natural, planner.",
+      "polish": "Jesteś naturalnym, planistą.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164140"
+    },
+    {
+      "english": "Keep up, the good work.",
+      "polish": "Kontynuuj, dobrą pracę.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164142"
+    },
+    {
+      "english": "Confidence is key, always.",
+      "polish": "Pewność siebie jest kluczem, zawsze.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164146"
+    },
+    {
+      "english": "This is going, great!",
+      "polish": "To idzie, świetnie!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164147"
+    },
+    {
+      "english": "What truly, inspires you?",
+      "polish": "Co naprawdę, Cię inspiruje?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164149"
+    },
+    {
+      "english": "Let's consider, all angles.",
+      "polish": "Rozważmy, wszystkie kąty.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164151"
+    },
+    {
+      "english": "What's deep, down inside?",
+      "polish": "Co jest głęboko, w środku?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164153"
+    },
+    {
+      "english": "How does this, feel, really?",
+      "polish": "Jak się z tym, czujesz, naprawdę?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164155"
+    },
+    {
+      "english": "Patience, is the key, friend.",
+      "polish": "Cierpliwość, jest kluczem, przyjacielu.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164157"
+    },
+    {
+      "english": "My gut, says it's right.",
+      "polish": "Mój instynkt, mówi, że to jest dobre.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164159"
+    },
+    {
+      "english": "Let's be honest, about it.",
+      "polish": "Bądźmy szczerzy, na ten temat.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164161"
+    },
+    {
+      "english": "What outcome, do you hope for?",
+      "polish": "Jakiego wyniku, oczekujesz?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164163"
+    },
+    {
+      "english": "This resonates, with me.",
+      "polish": "To do mnie, przemawia.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164165"
+    },
+    {
+      "english": "Let's slow down, a bit.",
+      "polish": "Zwolnijmy, trochę.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164166"
+    },
+    {
+      "english": "What are your, true feelings?",
+      "polish": "Jakie są Twoje, prawdziwe uczucia?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164168"
+    },
+    {
+      "english": "I feel, a good connection.",
+      "polish": "Czuję, dobre połączenie.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164170"
+    },
+    {
+      "english": "Let's trust, our intuition.",
+      "polish": "Zaufajmy, naszej intuicji.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164172"
+    },
+    {
+      "english": "What's the, real intention?",
+      "polish": "Jaka jest, prawdziwa intencja?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164174"
+    },
+    {
+      "english": "This feels, authentic, totally.",
+      "polish": "To jest autentyczne, całkowicie.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164176"
+    },
+    {
+      "english": "Can we be, more open?",
+      "polish": "Czy możemy być, bardziej otwarci?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164178"
+    },
+    {
+      "english": "What does your, heart say?",
+      "polish": "Co mówi, Twoje serce?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164179"
+    },
+    {
+      "english": "Let's just, go with it.",
+      "polish": "Po prostu, zróbmy to.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164181"
+    },
+    {
+      "english": "This gives, me hope.",
+      "polish": "To daje, mi nadzieję.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164184"
+    },
+    {
+      "english": "What's behind, this feeling?",
+      "polish": "Co stoi za, tym uczuciem?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164186"
+    },
+    {
+      "english": "Let's explore, deeper meanings.",
+      "polish": "Odkryjmy, głębsze znaczenia.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164188"
+    },
+    {
+      "english": "My intuition, is strong.",
+      "polish": "Moja intuicja, jest silna.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164190"
+    },
+    {
+      "english": "What's the, underlying truth?",
+      "polish": "Jaka jest, podstawowa prawda?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164193"
+    },
+    {
+      "english": "Let's embrace, vulnerability.",
+      "polish": "Przyjmijmy, wrażliwość.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164195"
+    },
+    {
+      "english": "This feels, right for us.",
+      "polish": "To jest dobre, dla nas.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164197"
+    },
+    {
+      "english": "What truly, matters most?",
+      "polish": "Co naprawdę, jest najważniejsze?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164199"
+    },
+    {
+      "english": "Let's follow, our hearts.",
+      "polish": "Podążajmy, za sercami.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164201"
+    },
+    {
+      "english": "This is, deeply moving.",
+      "polish": "To jest, głęboko poruszające.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164202"
+    },
+    {
+      "english": "What wisdom, can we gain?",
+      "polish": "Jaką mądrość, możemy zyskać?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164204"
+    },
+    {
+      "english": "Let's be, truly present.",
+      "polish": "Bądźmy, naprawdę obecni.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164206"
+    },
+    {
+      "english": "So, what's the plan, then?",
+      "polish": "No, jaki masz plan, w takim razie?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-18T07:51:11.164207"
     }
   ],
-  "last_updated": "2026-10-17T07:35:58.726468"
+  "last_updated": "2026-10-18T07:51:11.164209"
 }
