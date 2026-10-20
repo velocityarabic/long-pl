@@ -2159,7 +2159,727 @@
       "polish": "Słuchaj aktywnie, mów odważnie.",
       "category": "Motivation",
       "generated_at": "2026-10-19T08:34:42.923652"
+    },
+    {
+      "english": "Hello, what can I get you?",
+      "polish": "Dzień dobry, co podać?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046484"
+    },
+    {
+      "english": "Good morning, anything else?",
+      "polish": "Dzień dobry, coś jeszcze?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046498"
+    },
+    {
+      "english": "I'd like a coffee, please.",
+      "polish": "Poproszę kawę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046501"
+    },
+    {
+      "english": "One large cappuccino, please.",
+      "polish": "Jedno duże cappuccino, proszę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046504"
+    },
+    {
+      "english": "Can I have a croissant?",
+      "polish": "Mogę prosić rogalika?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046506"
+    },
+    {
+      "english": "Is this fresh?",
+      "polish": "Czy to jest świeże?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046508"
+    },
+    {
+      "english": "It smells amazing!",
+      "polish": "Pachnie niesamowicie!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046512"
+    },
+    {
+      "english": "This is delicious, thank you.",
+      "polish": "To jest pyszne, dziękuję.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046516"
+    },
+    {
+      "english": "How much is it?",
+      "polish": "Ile to kosztuje?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046519"
+    },
+    {
+      "english": "That's too expensive.",
+      "polish": "To jest za drogie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046522"
+    },
+    {
+      "english": "I'll take that one.",
+      "polish": "Wezmę tamto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046524"
+    },
+    {
+      "english": "To go, please.",
+      "polish": "Na wynos, proszę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046526"
+    },
+    {
+      "english": "For here, please.",
+      "polish": "Na miejscu, proszę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046528"
+    },
+    {
+      "english": "Can I pay by card?",
+      "polish": "Mogę zapłacić kartą?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046530"
+    },
+    {
+      "english": "Here is your change.",
+      "polish": "Oto pańskie reszta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046532"
+    },
+    {
+      "english": "Enjoy your coffee!",
+      "polish": "Smacznej kawy!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046533"
+    },
+    {
+      "english": "Have a nice day!",
+      "polish": "Miłego dnia!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046535"
+    },
+    {
+      "english": "What kind of bread do you have?",
+      "polish": "Jakie macie pieczywo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046537"
+    },
+    {
+      "english": "I need a quick snack.",
+      "polish": "Potrzebuję szybkiej przekąski.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046539"
+    },
+    {
+      "english": "Do you have sugar-free options?",
+      "polish": "Macie opcje bez cukru?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046541"
+    },
+    {
+      "english": "A little bit of everything.",
+      "polish": "Trochę wszystkiego.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046543"
+    },
+    {
+      "english": "Can I get a receipt?",
+      "polish": "Poproszę paragon.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046545"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "polish": "Tylko patrzę, dziękuję.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046547"
+    },
+    {
+      "english": "This looks so good!",
+      "polish": "To wygląda tak dobrze!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046549"
+    },
+    {
+      "english": "What's your specialty?",
+      "polish": "Co jest waszą specjalnością?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046551"
+    },
+    {
+      "english": "One black coffee, please.",
+      "polish": "Jedną czarną kawę, proszę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046553"
+    },
+    {
+      "english": "Can I get a discount?",
+      "polish": "Czy mogę dostać zniżkę?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046555"
+    },
+    {
+      "english": "It's perfect, really.",
+      "polish": "Jest idealne, naprawdę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046559"
+    },
+    {
+      "english": "I'm in a hurry.",
+      "polish": "Spieszę się.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046561"
+    },
+    {
+      "english": "Thank you for your service.",
+      "polish": "Dziękuję za obsługę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046563"
+    },
+    {
+      "english": "What's new today, boss?",
+      "polish": "Co dzisiaj nowego, szefie?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046565"
+    },
+    {
+      "english": "Could you recommend something sweet?",
+      "polish": "Poleciłbyś coś słodkiego?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046567"
+    },
+    {
+      "english": "Is this freshly baked, perhaps?",
+      "polish": "To jest chyba świeżo pieczone?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046570"
+    },
+    {
+      "english": "What goes well with this tea?",
+      "polish": "Co pasuje do tej herbaty?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046572"
+    },
+    {
+      "english": "Can I try a small piece?",
+      "polish": "Mogę spróbować kawałeczek?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046574"
+    },
+    {
+      "english": "Do you have any vegan cakes?",
+      "polish": "Macie jakieś ciasta wegańskie?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046578"
+    },
+    {
+      "english": "How do you like your coffee?",
+      "polish": "Jak lubisz swoją kawę?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046581"
+    },
+    {
+      "english": "Is this very strong, by chance?",
+      "polish": "Czy to jest przypadkiem mocne?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046583"
+    },
+    {
+      "english": "What's your favorite pastry?",
+      "polish": "Twoje ulubione ciastko to co?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046585"
+    },
+    {
+      "english": "Could I have a bit less sugar?",
+      "polish": "Mógłbym prosić o mniej cukru?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046587"
+    },
+    {
+      "english": "What's popular with locals?",
+      "polish": "Co jest popularne wśród miejscowych?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046590"
+    },
+    {
+      "english": "Can I get a refill, please?",
+      "polish": "Poproszę o dokładkę, czy można?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046592"
+    },
+    {
+      "english": "What are today's specials?",
+      "polish": "Jakie są dzisiejsze specjalności?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046595"
+    },
+    {
+      "english": "Is there anything gluten-free?",
+      "polish": "Jest coś bezglutenowego?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046597"
+    },
+    {
+      "english": "How do you prepare this cake?",
+      "polish": "Jak robicie to ciasto?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046599"
+    },
+    {
+      "english": "Can I order ahead for tomorrow?",
+      "polish": "Mogę zamówić na jutro wcześniej?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046601"
+    },
+    {
+      "english": "What's the soup of the day?",
+      "polish": "Jaka jest zupa dnia?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046603"
+    },
+    {
+      "english": "Do you have non-dairy milk?",
+      "polish": "Macie mleko inne niż krowie?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046605"
+    },
+    {
+      "english": "Could I get that one, please?",
+      "polish": "Czy mógłbym tę jedną, proszę?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046607"
+    },
+    {
+      "english": "What makes this croissant special?",
+      "polish": "Co jest wyjątkowego w tym rogaliku?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046609"
+    },
+    {
+      "english": "Any recommendations for breakfast?",
+      "polish": "Jakieś propozycje na śniadanie?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046611"
+    },
+    {
+      "english": "Is this suitable for kids?",
+      "polish": "Czy to jest dla dzieci?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046613"
+    },
+    {
+      "english": "Can I have a glass of water?",
+      "polish": "Poproszę szklankę wody.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046615"
+    },
+    {
+      "english": "Is the coffee very bitter?",
+      "polish": "Czy kawa jest bardzo gorzka?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046617"
+    },
+    {
+      "english": "Can I see the menu again?",
+      "polish": "Mogę zobaczyć kartę jeszcze raz?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046619"
+    },
+    {
+      "english": "What's your signature drink?",
+      "polish": "Twój popisowy napój to co?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046621"
+    },
+    {
+      "english": "How long does it take?",
+      "polish": "Ile to zajmuje czasu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046623"
+    },
+    {
+      "english": "Could I get a doggy bag?",
+      "polish": "Czy mogę dostać torbę na wynos?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046624"
+    },
+    {
+      "english": "What do you recommend today?",
+      "polish": "Co pan/pani poleca dzisiaj?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046626"
+    },
+    {
+      "english": "You've got this, just try!",
+      "polish": "Dasz radę, po prostu spróbuj!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046631"
+    },
+    {
+      "english": "Every day, a new delicious adventure.",
+      "polish": "Każdy dzień, nowa pyszna przygoda.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046633"
+    },
+    {
+      "english": "Believe in your sweet choices.",
+      "polish": "Wierz w swoje słodkie wybory.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046635"
+    },
+    {
+      "english": "Small steps, big pastry happiness.",
+      "polish": "Małe kroki, wielkie ciastkowe szczęście.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046637"
+    },
+    {
+      "english": "This moment, pure coffee bliss.",
+      "polish": "Ta chwila, czysta kawa rozkosz.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046641"
+    },
+    {
+      "english": "You make delicious things happen.",
+      "polish": "Sprawiasz, że pyszne rzeczy się dzieją.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046643"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "polish": "Twój wysiłek jest naprawdę doceniany.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046646"
+    },
+    {
+      "english": "Embrace the sweet surprises today.",
+      "polish": "Przyjmij dzisiejsze słodkie niespodzianki.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046648"
+    },
+    {
+      "english": "This is your happy coffee place.",
+      "polish": "To jest twoje szczęśliwe miejsce kawowe.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046650"
+    },
+    {
+      "english": "You're creating lovely moments.",
+      "polish": "Tworzysz urocze chwile.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046654"
+    },
+    {
+      "english": "Savor this delicious pause.",
+      "polish": "Delektuj się tą pyszną przerwą.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046656"
+    },
+    {
+      "english": "Positive vibes, positive pastries.",
+      "polish": "Pozytywne wibracje, pozytywne wypieki.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046658"
+    },
+    {
+      "english": "You're amazing, like a perfect croissant.",
+      "polish": "Jesteś niesamowity, jak idealny rogalik.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046660"
+    },
+    {
+      "english": "Enjoy the simple, sweet pleasures.",
+      "polish": "Ciesz się prostymi, słodkimi przyjemnościami.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046662"
+    },
+    {
+      "english": "This bake is truly artful.",
+      "polish": "To ciasto jest naprawdę artystyczne.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046664"
+    },
+    {
+      "english": "Keep chasing those coffee dreams.",
+      "polish": "Realizuj swoje kawowe marzenia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046666"
+    },
+    {
+      "english": "Your smile brightens this cafe.",
+      "polish": "Twój uśmiech rozjaśnia tę kawiarnię.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046668"
+    },
+    {
+      "english": "One bite, pure delicious satisfaction.",
+      "polish": "Jeden kęs, czysta pyszna satysfakcja.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046670"
+    },
+    {
+      "english": "You're brewing happiness daily.",
+      "polish": "Codziennie warzysz szczęście.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046672"
+    },
+    {
+      "english": "Taste the moment, it's wonderful.",
+      "polish": "Poczuj chwilę, jest wspaniała.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046674"
+    },
+    {
+      "english": "Let your creativity flow, like espresso.",
+      "polish": "Niech twoja kreatywność płynie, jak espresso.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046676"
+    },
+    {
+      "english": "This cake is a masterpiece.",
+      "polish": "To ciasto to arcydzieło.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046678"
+    },
+    {
+      "english": "You're adding sweetness to life.",
+      "polish": "Dodajesz słodyczy do życia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046680"
+    },
+    {
+      "english": "Believe in the power of good coffee.",
+      "polish": "Wierz w moc dobrej kawy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046683"
+    },
+    {
+      "english": "Each day, try something new.",
+      "polish": "Każdego dnia, próbuj czegoś nowego.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046685"
+    },
+    {
+      "english": "You deserve this sweet treat.",
+      "polish": "Zasługujesz na tę słodką przyjemność.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046687"
+    },
+    {
+      "english": "This bakery is pure magic.",
+      "polish": "Ta piekarnia to czysta magia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046689"
+    },
+    {
+      "english": "You're making this day better.",
+      "polish": "Sprawiasz, że ten dzień jest lepszy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046691"
+    },
+    {
+      "english": "Keep shining, like a sugar glaze.",
+      "polish": "Bądź błyszcząca, jak lukier.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046693"
+    },
+    {
+      "english": "This feels like home, almost.",
+      "polish": "To prawie jak w domu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046695"
+    },
+    {
+      "english": "I need a moment, just to think.",
+      "polish": "Potrzebuję chwili, żeby pomyśleć.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046697"
+    },
+    {
+      "english": "Sometimes, simple is best, you know?",
+      "polish": "Czasem, prostota jest najlepsza, wiesz?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046700"
+    },
+    {
+      "english": "This coffee, it calms my soul.",
+      "polish": "Ta kawa, uspokaja moją duszę.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046704"
+    },
+    {
+      "english": "Taking my time, no rush today.",
+      "polish": "Nie spieszę się dzisiaj, mam czas.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046706"
+    },
+    {
+      "english": "That was deeper than I expected.",
+      "polish": "To było głębsze niż myślałem/myślałam.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046708"
+    },
+    {
+      "english": "It's nice to just be, without doing.",
+      "polish": "Miło jest po prostu być, nic nie robiąc.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046712"
+    },
+    {
+      "english": "This warmth, it feels so good.",
+      "polish": "To ciepło, jest takie przyjemne.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046715"
+    },
+    {
+      "english": "I'm just reflecting on life, really.",
+      "polish": "Naprawdę, tak rozmyślam o życiu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046717"
+    },
+    {
+      "english": "This place has a special vibe.",
+      "polish": "To miejsce ma wyjątkowy klimat.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046719"
+    },
+    {
+      "english": "Allowing myself this little treat.",
+      "polish": "Pozwalam sobie na tę małą przyjemność.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046722"
+    },
+    {
+      "english": "It's okay to feel this way.",
+      "polish": "W porządku jest tak się czuć.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046724"
+    },
+    {
+      "english": "Just breathing it all in, slowly.",
+      "polish": "Po prostu chłonę to wszystko, powoli.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046726"
+    },
+    {
+      "english": "This cake makes me feel nostalgic.",
+      "polish": "To ciasto wywołuje nostalgię.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046728"
+    },
+    {
+      "english": "Sometimes you just need quiet, right?",
+      "polish": "Czasem potrzebujesz ciszy, prawda?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046730"
+    },
+    {
+      "english": "This aroma, it’s deeply comforting.",
+      "polish": "Ten zapach, jest bardzo kojący.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046734"
+    },
+    {
+      "english": "Thinking back, it was a good choice.",
+      "polish": "Patrząc wstecz, to był dobry wybór.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046736"
+    },
+    {
+      "english": "Embracing the present, with coffee.",
+      "polish": "Akceptuję teraźniejszość, z kawą.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046738"
+    },
+    {
+      "english": "That moment of peace, so rare.",
+      "polish": "Ten moment spokoju, taki rzadki.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046740"
+    },
+    {
+      "english": "It's good to be honest with oneself.",
+      "polish": "Dobrze jest być szczerym ze sobą.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046743"
+    },
+    {
+      "english": "This pastry, a little indulgence.",
+      "polish": "To ciastko, małe dogodzenie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046745"
+    },
+    {
+      "english": "Finding clarity, one sip at a time.",
+      "polish": "Znajduję jasność, łyk po łyku.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046747"
+    },
+    {
+      "english": "Letting go of worries, for now.",
+      "polish": "Zostawiam zmartwienia, na razie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046749"
+    },
+    {
+      "english": "This feels like a genuine break.",
+      "polish": "To jest prawdziwa przerwa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046751"
+    },
+    {
+      "english": "Appreciating the quiet moments.",
+      "polish": "Doceniam ciche chwile.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046753"
+    },
+    {
+      "english": "This decision, it feels right.",
+      "polish": "Ta decyzja, wydaje się właściwa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046755"
+    },
+    {
+      "english": "Just being grateful for this.",
+      "polish": "Jestem wdzięczny/wdzięczna za to.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046757"
+    },
+    {
+      "english": "Slow down, savor the flavor.",
+      "polish": "Zwolnij, smakuj smak.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046759"
+    },
+    {
+      "english": "This simple joy, it means a lot.",
+      "polish": "Ta prosta radość, wiele znaczy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046761"
+    },
+    {
+      "english": "Finding comfort in these smells.",
+      "polish": "Znajduję komfort w tych zapachach.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046763"
+    },
+    {
+      "english": "What's the special today, please?",
+      "polish": "Jakie jest dzisiaj danie dnia?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046765"
+    },
+    {
+      "english": "Can I get this to go, thank you.",
+      "polish": "Poproszę na wynos, dziękuję.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-20T08:16:21.046767"
     }
   ],
-  "last_updated": "2026-10-19T08:34:42.923653"
+  "last_updated": "2026-10-20T08:16:21.046769"
 }
