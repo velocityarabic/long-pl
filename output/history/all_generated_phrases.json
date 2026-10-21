@@ -2879,7 +2879,727 @@
       "polish": "Poproszę na wynos, dziękuję.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-10-20T08:16:21.046767"
+    },
+    {
+      "english": "Hello, can you hear me?",
+      "polish": "Halo, słyszysz mnie?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262481"
+    },
+    {
+      "english": "I'm calling about the appointment.",
+      "polish": "Dzwonię w sprawie wizyty.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262496"
+    },
+    {
+      "english": "Is this a good time to talk?",
+      "polish": "Czy to dobry moment, żeby porozmawiać?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262498"
+    },
+    {
+      "english": "Please speak slower, I'm learning.",
+      "polish": "Proszę mówić wolniej, uczę się.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262501"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "polish": "Czy możesz powtórzyć, proszę?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262502"
+    },
+    {
+      "english": "I didn't catch that, sorry.",
+      "polish": "Nie zrozumiałem, przepraszam.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262504"
+    },
+    {
+      "english": "What was the message again?",
+      "polish": "Jaka była wiadomość jeszcze raz?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262506"
+    },
+    {
+      "english": "Send me a text message.",
+      "polish": "Wyślij mi SMS-a.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262510"
+    },
+    {
+      "english": "I'll call you back later.",
+      "polish": "Oddzwonię później.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262512"
+    },
+    {
+      "english": "The signal is weak here.",
+      "polish": "Słaby tu zasięg.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262594"
+    },
+    {
+      "english": "Can you hear the noise?",
+      "polish": "Słyszysz ten hałas?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262596"
+    },
+    {
+      "english": "I'm having trouble with my phone.",
+      "polish": "Mam problem z telefonem.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262598"
+    },
+    {
+      "english": "Is the line busy?",
+      "polish": "Czy linia jest zajęta?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262599"
+    },
+    {
+      "english": "What's your phone number?",
+      "polish": "Jaki masz numer telefonu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262602"
+    },
+    {
+      "english": "I'll send you the details.",
+      "polish": "Prześlę ci szczegóły.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262603"
+    },
+    {
+      "english": "Did you get my message?",
+      "polish": "Dostałeś moją wiadomość?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262605"
+    },
+    {
+      "english": "I'm at the meeting now.",
+      "polish": "Jestem teraz na spotkaniu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262606"
+    },
+    {
+      "english": "We need to reschedule.",
+      "polish": "Musimy przełożyć.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262608"
+    },
+    {
+      "english": "Can you confirm?",
+      "polish": "Możesz potwierdzić?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262609"
+    },
+    {
+      "english": "It's urgent, please answer.",
+      "polish": "To pilne, proszę odbierz.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262611"
+    },
+    {
+      "english": "My phone died, sorry.",
+      "polish": "Rozładował mi się telefon, przepraszam.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262612"
+    },
+    {
+      "english": "Just a quick call.",
+      "polish": "Tylko krótka rozmowa.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262614"
+    },
+    {
+      "english": "I'm on my way.",
+      "polish": "Już idę.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262616"
+    },
+    {
+      "english": "Where are you?",
+      "polish": "Gdzie jesteś?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262617"
+    },
+    {
+      "english": "Let's arrange this.",
+      "polish": "Ustalmy to.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262619"
+    },
+    {
+      "english": "What time works for you?",
+      "polish": "O której godzinie pasuje?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262622"
+    },
+    {
+      "english": "I'll send a location.",
+      "polish": "Wyślę lokalizację.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262623"
+    },
+    {
+      "english": "Can you see my screen?",
+      "polish": "Widzisz mój ekran?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262626"
+    },
+    {
+      "english": "This is important.",
+      "polish": "To ważne.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262627"
+    },
+    {
+      "english": "I'll text you the address.",
+      "polish": "Wyślę adres SMS-em.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262629"
+    },
+    {
+      "english": "Who is this, please?",
+      "polish": "Kto mówi, proszę?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262631"
+    },
+    {
+      "english": "What did you want to ask?",
+      "polish": "O co chciałeś/chciałaś zapytać?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262633"
+    },
+    {
+      "english": "Can I help you with something?",
+      "polish": "Czy mogę jakoś pomóc?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262634"
+    },
+    {
+      "english": "Do you have a moment to chat?",
+      "polish": "Masz chwilę na rozmowę?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262636"
+    },
+    {
+      "english": "What's the matter, my friend?",
+      "polish": "O co chodzi, przyjacielu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262638"
+    },
+    {
+      "english": "Is everything alright on your end?",
+      "polish": "U Ciebie wszystko w porządku?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262640"
+    },
+    {
+      "english": "Did you receive my last message?",
+      "polish": "Dostałeś/Dostałaś moją ostatnią wiadomość?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262641"
+    },
+    {
+      "english": "Shall we discuss it over the phone?",
+      "polish": "Porozmawiamy o tym przez telefon?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262643"
+    },
+    {
+      "english": "Is it convenient for you to call now?",
+      "polish": "Czy Ci teraz pasuje zadzwonić?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262645"
+    },
+    {
+      "english": "How was your day today?",
+      "polish": "Jak Ci minął dzisiejszy dzień?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262647"
+    },
+    {
+      "english": "Can we talk about the plan?",
+      "polish": "Możemy porozmawiać o planie?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262649"
+    },
+    {
+      "english": "What’s the best way to reach you?",
+      "polish": "Jaki jest najlepszy sposób kontaktu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262654"
+    },
+    {
+      "english": "Do you need any further information?",
+      "polish": "Potrzebujesz więcej informacji?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262655"
+    },
+    {
+      "english": "When would be a good time to call?",
+      "polish": "Kiedy byłby dobry moment na telefon?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262657"
+    },
+    {
+      "english": "I'm curious, what happened next?",
+      "polish": "Jestem ciekawy, co było dalej?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262659"
+    },
+    {
+      "english": "Could you explain that again, please?",
+      "polish": "Czy możesz to wyjaśnić ponownie?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262660"
+    },
+    {
+      "english": "What is your current status?",
+      "polish": "Jaki jest Twój aktualny status?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262662"
+    },
+    {
+      "english": "Are you free to talk now?",
+      "polish": "Jesteś teraz wolny/wolna?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262663"
+    },
+    {
+      "english": "What’s your opinion on this matter?",
+      "polish": "Jakie jest Twoje zdanie w tej sprawie?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262667"
+    },
+    {
+      "english": "Can I ask you a quick question?",
+      "polish": "Mogę zadać szybkie pytanie?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262669"
+    },
+    {
+      "english": "What should I do next?",
+      "polish": "Co powinienem/powinnam teraz zrobić?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262670"
+    },
+    {
+      "english": "Is there anything else I should know?",
+      "polish": "Czy jest coś jeszcze, co powinienem wiedzieć?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262674"
+    },
+    {
+      "english": "How do you usually handle this?",
+      "polish": "Jak sobie z tym zazwyczaj radzisz?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262675"
+    },
+    {
+      "english": "Can we reschedule our call?",
+      "polish": "Możemy przełożyć naszą rozmowę?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262677"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "polish": "Jakie masz plany na weekend?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262678"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "polish": "Dalej, świetnie sobie radzisz!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262680"
+    },
+    {
+      "english": "Amazing work, I'm impressed.",
+      "polish": "Niesamowita praca, jestem pod wrażeniem.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262682"
+    },
+    {
+      "english": "Stay positive, focus forward.",
+      "polish": "Pozostaw pozytywne nastawienie, patrz do przodu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262685"
+    },
+    {
+      "english": "Your effort is noticeable.",
+      "polish": "Twój wysiłek jest zauważalny.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262688"
+    },
+    {
+      "english": "You're making real progress.",
+      "polish": "Robisz prawdziwe postępy.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262690"
+    },
+    {
+      "english": "Don't give up now, almost there.",
+      "polish": "Nie poddawaj się teraz, już prawie koniec.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262692"
+    },
+    {
+      "english": "That's a fantastic idea!",
+      "polish": "To fantastyczny pomysł!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262694"
+    },
+    {
+      "english": "I see your potential clearly.",
+      "polish": "Widzę twój potencjał jasno.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262695"
+    },
+    {
+      "english": "Well done, truly excellent.",
+      "polish": "Dobrze zrobione, naprawdę znakomite.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262697"
+    },
+    {
+      "english": "You are capable of much.",
+      "polish": "Potrafisz dużo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262699"
+    },
+    {
+      "english": "This is your moment, shine!",
+      "polish": "To twój moment, zabłyśnij!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262700"
+    },
+    {
+      "english": "Keep that spirit alive.",
+      "polish": "Utrzymaj tego ducha.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262702"
+    },
+    {
+      "english": "Every step counts, keep moving.",
+      "polish": "Każdy krok się liczy, idź dalej.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262704"
+    },
+    {
+      "english": "You handled that perfectly.",
+      "polish": "Poradziłeś sobie z tym idealnie.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262705"
+    },
+    {
+      "english": "I'm proud of your growth.",
+      "polish": "Jestem dumny z twojego rozwoju.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262707"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "polish": "Twoja perspektywa jest cenna.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262708"
+    },
+    {
+      "english": "Never underestimate your strength.",
+      "polish": "Nigdy nie lekceważ swojej siły.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262710"
+    },
+    {
+      "english": "You inspire others, remember.",
+      "polish": "Inspirujesz innych, pamiętaj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262712"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "polish": "Skup się na rozwiązaniach, nie problemach.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262714"
+    },
+    {
+      "english": "This challenge will make you stronger.",
+      "polish": "To wyzwanie uczyni cię silniejszym.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262715"
+    },
+    {
+      "english": "Your ideas are brilliant.",
+      "polish": "Twoje pomysły są genialne.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262717"
+    },
+    {
+      "english": "Acknowledge your successes.",
+      "polish": "Doceniaj swoje sukcesy.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262718"
+    },
+    {
+      "english": "You have a great attitude.",
+      "polish": "Masz świetne podejście.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262720"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "polish": "Ucz się dalej, rozwijaj się.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262722"
+    },
+    {
+      "english": "This is achievable, I know it.",
+      "polish": "To jest osiągalne, wiem to.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262723"
+    },
+    {
+      "english": "I've been thinking, quite a lot.",
+      "polish": "Dużo myślałem, naprawdę sporo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262725"
+    },
+    {
+      "english": "This whole thing, it feels right.",
+      "polish": "To wszystko, wydaje się właściwe.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262727"
+    },
+    {
+      "english": "Honestly, I'm a bit worried.",
+      "polish": "Szczerze mówiąc, trochę się martwię.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262729"
+    },
+    {
+      "english": "We need to be patient, I think.",
+      "polish": "Musimy być cierpliwi, myślę.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262731"
+    },
+    {
+      "english": "It's complicated, but doable.",
+      "polish": "To skomplikowane, ale wykonalne.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262738"
+    },
+    {
+      "english": "I feel a real connection here.",
+      "polish": "Czuję tu prawdziwe połączenie.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262739"
+    },
+    {
+      "english": "Let's just take our time.",
+      "polish": "Po prostu dajmy sobie czas.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262741"
+    },
+    {
+      "english": "What are you truly feeling now?",
+      "polish": "Co naprawdę teraz czujesz?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262743"
+    },
+    {
+      "english": "This situation, it makes me reflect.",
+      "polish": "Ta sytuacja, skłania mnie do refleksji.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262744"
+    },
+    {
+      "english": "I hope for the best, truly.",
+      "polish": "Naprawdę mam nadzieję na najlepsze.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262746"
+    },
+    {
+      "english": "Can you be honest with me?",
+      "polish": "Czy możesz być ze mną szczery?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262747"
+    },
+    {
+      "english": "Sometimes, silence speaks volumes.",
+      "polish": "Czasami cisza mówi najwięcej.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262749"
+    },
+    {
+      "english": "I trust your judgment implicitly.",
+      "polish": "Ufam twojej ocenie bezgranicznie.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262751"
+    },
+    {
+      "english": "Let's process this slowly.",
+      "polish": "Przetwórzmy to powoli.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262752"
+    },
+    {
+      "english": "Your perspective is important.",
+      "polish": "Twoja perspektywa jest ważna.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262754"
+    },
+    {
+      "english": "I need some time to think.",
+      "polish": "Potrzebuję trochę czasu do namysłu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262755"
+    },
+    {
+      "english": "Are you feeling okay about this?",
+      "polish": "Czujesz się z tym w porządku?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262757"
+    },
+    {
+      "english": "Let's try to understand each other.",
+      "polish": "Spróbujmy się nawzajem zrozumieć.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262758"
+    },
+    {
+      "english": "Patience brings its own rewards.",
+      "polish": "Cierpliwość przynosi własne nagrody.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262760"
+    },
+    {
+      "english": "I'm genuinely curious, tell me more.",
+      "polish": "Jestem autentycznie ciekawy, powiedz więcej.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262762"
+    },
+    {
+      "english": "This requires careful consideration.",
+      "polish": "To wymaga ostrożnego rozważenia.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262763"
+    },
+    {
+      "english": "My feelings are quite mixed.",
+      "polish": "Moje uczucia są dość mieszane.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262765"
+    },
+    {
+      "english": "Let's communicate openly, always.",
+      "polish": "Komunikujmy się otwarcie, zawsze.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262766"
+    },
+    {
+      "english": "I'm contemplating the long term.",
+      "polish": "Rozważam długoterminową perspektywę.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262768"
+    },
+    {
+      "english": "What's behind your thoughts?",
+      "polish": "Co kryje się za twoimi myślami?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262770"
+    },
+    {
+      "english": "This is a delicate matter.",
+      "polish": "To delikatna sprawa.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262771"
+    },
+    {
+      "english": "I value your sincere input.",
+      "polish": "Doceniam twój szczery wkład.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262772"
+    },
+    {
+      "english": "Let's ensure mutual understanding.",
+      "polish": "Zapewnijmy wzajemne zrozumienie.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262775"
+    },
+    {
+      "english": "It’s good to be vulnerable sometimes.",
+      "polish": "Dobrze jest czasami być wrażliwym.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262778"
+    },
+    {
+      "english": "Hello, is this the right number?",
+      "polish": "Halo, czy to dobry numer?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262780"
+    },
+    {
+      "english": "Could you speak slower, please?",
+      "polish": "Czy mógłbyś mówić wolniej, proszę?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262781"
+    },
+    {
+      "english": "Can you repeat the last part?",
+      "polish": "Możesz powtórzyć ostatnią część?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262783"
+    },
+    {
+      "english": "Let's meet at the usual spot.",
+      "polish": "Spotkajmy się w naszym stałym miejscu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262785"
+    },
+    {
+      "english": "I'll send you a text message.",
+      "polish": "Wyślę ci SMS-a.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262788"
+    },
+    {
+      "english": "Can you call me back later?",
+      "polish": "Zadzwonisz do mnie później?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262792"
+    },
+    {
+      "english": "I'm driving, I'll call you soon.",
+      "polish": "Jadę samochodem, zadzwonię za chwilę.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262794"
+    },
+    {
+      "english": "Is anyone there? Hello?",
+      "polish": "Jest tam kto? Halo?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262796"
+    },
+    {
+      "english": "I'm having trouble connecting.",
+      "polish": "Mam problem z połączeniem.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262797"
+    },
+    {
+      "english": "Send me your address, please.",
+      "polish": "Wyślij mi swój adres, proszę.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262799"
+    },
+    {
+      "english": "I'll be there in five minutes.",
+      "polish": "Będę za pięć minut.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-21T08:20:53.262800"
     }
   ],
-  "last_updated": "2026-10-20T08:16:21.046769"
+  "last_updated": "2026-10-21T08:20:53.262803"
 }
