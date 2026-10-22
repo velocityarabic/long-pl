@@ -3599,7 +3599,727 @@
       "polish": "Będę za pięć minut.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-21T08:20:53.262800"
+    },
+    {
+      "english": "Good morning, have a nice day!",
+      "polish": "Dzień dobry, miłego dnia!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721834"
+    },
+    {
+      "english": "I wake up early, usually.",
+      "polish": "Budzę się wcześnie, zazwyczaj.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721843"
+    },
+    {
+      "english": "What time is it now?",
+      "polish": "Która jest teraz godzina?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721847"
+    },
+    {
+      "english": "Let's grab some breakfast.",
+      "polish": "Zjedzmy jakieś śniadanie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721850"
+    },
+    {
+      "english": "I need my coffee, urgently.",
+      "polish": "Potrzebuję kawy, pilnie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721853"
+    },
+    {
+      "english": "Time to get ready, come on!",
+      "polish": "Czas się szykować, chodź!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721855"
+    },
+    {
+      "english": "Are you ready yet?",
+      "polish": "Jesteś już gotowy/gotowa?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721858"
+    },
+    {
+      "english": "I'm heading out now.",
+      "polish": "Wychodzę teraz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721863"
+    },
+    {
+      "english": "See you later, maybe.",
+      "polish": "Do zobaczenia później, może.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721867"
+    },
+    {
+      "english": "What's the plan today?",
+      "polish": "Jaki jest dzisiaj plan?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721870"
+    },
+    {
+      "english": "I have a lot to do.",
+      "polish": "Mam dużo do zrobienia.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721873"
+    },
+    {
+      "english": "Let's make it productive.",
+      "polish": "Zróbmy to produktywnie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721875"
+    },
+    {
+      "english": "Don't forget your keys.",
+      "polish": "Nie zapomnij kluczy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721877"
+    },
+    {
+      "english": "Traffic is terrible, ugh.",
+      "polish": "Korek jest straszny, ech.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721882"
+    },
+    {
+      "english": "Finally, lunch break!",
+      "polish": "Nareszcie, przerwa na lunch!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721884"
+    },
+    {
+      "english": "What are you eating?",
+      "polish": "Co jesz?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721887"
+    },
+    {
+      "english": "This looks delicious.",
+      "polish": "To wygląda pysznie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721889"
+    },
+    {
+      "english": "Back to work, unfortunately.",
+      "polish": "Z powrotem do pracy, niestety.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721892"
+    },
+    {
+      "english": "How's your day going?",
+      "polish": "Jak ci mija dzień?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721894"
+    },
+    {
+      "english": "It's going okay, thanks.",
+      "polish": "Mija w porządku, dzięki.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721899"
+    },
+    {
+      "english": "Almost done for today.",
+      "polish": "Prawie koniec na dzisiaj.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721901"
+    },
+    {
+      "english": "Time to relax a bit.",
+      "polish": "Czas trochę odpocząć.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721904"
+    },
+    {
+      "english": "What's for dinner tonight?",
+      "polish": "Co na obiad dzisiaj?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721906"
+    },
+    {
+      "english": "I'm feeling tired now.",
+      "polish": "Czuję się teraz zmęczony/zmęczona.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721909"
+    },
+    {
+      "english": "Let's watch something good.",
+      "polish": "Obejrzyjmy coś dobrego.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721911"
+    },
+    {
+      "english": "Ready for bed soon.",
+      "polish": "Wkrótce gotowy/gotowa do łóżka.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721914"
+    },
+    {
+      "english": "Sweet dreams, sleep well.",
+      "polish": "Słodkich snów, śpij dobrze.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721916"
+    },
+    {
+      "english": "Good night, everyone.",
+      "polish": "Dobranoc, wszystkim.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721918"
+    },
+    {
+      "english": "Another day begins.",
+      "polish": "Zaczyna się kolejny dzień.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721921"
+    },
+    {
+      "english": "Hope it's a good one.",
+      "polish": "Mam nadzieję, że będzie dobry.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721923"
+    },
+    {
+      "english": "What did you do, this morning?",
+      "polish": "Co robiłeś, dzisiaj rano?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721926"
+    },
+    {
+      "english": "Did you sleep well, last night?",
+      "polish": "Spałeś dobrze, wczoraj w nocy?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721929"
+    },
+    {
+      "english": "How do you usually start, your day?",
+      "polish": "Jak zazwyczaj zaczynasz, swój dzień?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721932"
+    },
+    {
+      "english": "Can you recommend, a good breakfast spot?",
+      "polish": "Polecisz, dobre miejsce na śniadanie?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721940"
+    },
+    {
+      "english": "What's your favorite, morning ritual?",
+      "polish": "Jaki jest twój ulubiony, poranny rytuał?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721943"
+    },
+    {
+      "english": "Do you prefer tea, or coffee?",
+      "polish": "Wolisz herbatę, czy kawę?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721946"
+    },
+    {
+      "english": "When do you usually, leave for work?",
+      "polish": "Kiedy zazwyczaj, wychodzisz do pracy?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721949"
+    },
+    {
+      "english": "How long is your commute, typically?",
+      "polish": "Ile trwa twoja podróż, zazwyczaj?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721951"
+    },
+    {
+      "english": "Are there any, good shortcuts?",
+      "polish": "Czy są jakieś, dobre skróty?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721954"
+    },
+    {
+      "english": "What time do you, finish work?",
+      "polish": "O której godzinie, kończysz pracę?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721957"
+    },
+    {
+      "english": "Do you exercise, after work?",
+      "polish": "Ćwiczysz, po pracy?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721959"
+    },
+    {
+      "english": "What do you like, to do in the evening?",
+      "polish": "Co lubisz, robić wieczorem?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721962"
+    },
+    {
+      "english": "Do you cook dinner, or order in?",
+      "polish": "Gotujesz obiad, czy zamawiasz?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721966"
+    },
+    {
+      "english": "What's your favorite, way to unwind?",
+      "polish": "Jaki jest twój ulubiony, sposób na relaks?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721971"
+    },
+    {
+      "english": "Do you read books, before bed?",
+      "polish": "Czytasz książki, przed snem?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721974"
+    },
+    {
+      "english": "What time do you, usually go to sleep?",
+      "polish": "O której godzinie, zazwyczaj idziesz spać?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721976"
+    },
+    {
+      "english": "Do you have any, weekend plans yet?",
+      "polish": "Masz już jakieś, plany na weekend?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721979"
+    },
+    {
+      "english": "Should we meet up, sometime soon?",
+      "polish": "Powinniśmy się spotkać, niedługo?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721982"
+    },
+    {
+      "english": "What do you think, about that?",
+      "polish": "Co myślisz, o tym?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721984"
+    },
+    {
+      "english": "What's the best way, to learn Polish?",
+      "polish": "Jaki jest najlepszy sposób, uczyć się polskiego?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721987"
+    },
+    {
+      "english": "Do you understand, what I'm saying?",
+      "polish": "Rozumiesz, co mówię?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721990"
+    },
+    {
+      "english": "Where is the nearest, bus stop?",
+      "polish": "Gdzie jest najbliższy, przystanek autobusowy?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721994"
+    },
+    {
+      "english": "How much does this, cost approximately?",
+      "polish": "Ile to kosztuje, mniej więcej?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.721997"
+    },
+    {
+      "english": "Is this seat, taken?",
+      "polish": "Czy to miejsce, jest zajęte?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722000"
+    },
+    {
+      "english": "Can you help me, please?",
+      "polish": "Czy możesz mi pomóc, proszę?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722002"
+    },
+    {
+      "english": "What time does it, open/close?",
+      "polish": "O której godzinie, to otwiera/zamyka?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722005"
+    },
+    {
+      "english": "Is there a pharmacy, nearby?",
+      "polish": "Czy jest jakaś apteka, w pobliżu?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722008"
+    },
+    {
+      "english": "Do you speak English, by any chance?",
+      "polish": "Czy mówisz po angielsku, przypadkiem?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722010"
+    },
+    {
+      "english": "You can do this, I know it.",
+      "polish": "Dasz radę, wiem to.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722013"
+    },
+    {
+      "english": "Every small step, counts.",
+      "polish": "Każdy mały krok, się liczy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722016"
+    },
+    {
+      "english": "Stay positive, through it all.",
+      "polish": "Bądź pozytywny, przez wszystko.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722018"
+    },
+    {
+      "english": "You are doing great, truly.",
+      "polish": "Świetnie sobie radzisz, naprawdę.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722021"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "polish": "Idź naprzód, nie zatrzymuj się.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722024"
+    },
+    {
+      "english": "This is a good start.",
+      "polish": "To dobry początek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722026"
+    },
+    {
+      "english": "You've got this, believe me.",
+      "polish": "Masz to, uwierz mi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722029"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "polish": "Skup się na postępie, nie perfekcji.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722032"
+    },
+    {
+      "english": "Your effort is visible.",
+      "polish": "Twój wysiłek jest widoczny.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722034"
+    },
+    {
+      "english": "What a great attitude!",
+      "polish": "Jaka świetna postawa!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722036"
+    },
+    {
+      "english": "Keep that energy up.",
+      "polish": "Utrzymaj tę energię.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722039"
+    },
+    {
+      "english": "You inspire others, you know.",
+      "polish": "Inspirujesz innych, wiesz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722042"
+    },
+    {
+      "english": "Embrace the challenge, head on.",
+      "polish": "Podejmij wyzwanie, śmiało.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722044"
+    },
+    {
+      "english": "Today can be amazing.",
+      "polish": "Dzisiaj może być niesamowity.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722048"
+    },
+    {
+      "english": "You're learning so fast!",
+      "polish": "Tak szybko się uczysz!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722051"
+    },
+    {
+      "english": "Give yourself credit, often.",
+      "polish": "Chwal się często.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722054"
+    },
+    {
+      "english": "Your determination shows.",
+      "polish": "Twoja determinacja jest widoczna.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722057"
+    },
+    {
+      "english": "Let your positive thoughts bloom.",
+      "polish": "Niech twoje pozytywne myśli kwitną.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722059"
+    },
+    {
+      "english": "This routine works for you.",
+      "polish": "Ta rutyna ci służy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722062"
+    },
+    {
+      "english": "Keep that winning mindset.",
+      "polish": "Utrzymaj ten zwycięski sposób myślenia.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722064"
+    },
+    {
+      "english": "Every moment is a fresh start.",
+      "polish": "Każda chwila to nowy początek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722067"
+    },
+    {
+      "english": "You've handled this well.",
+      "polish": "Dobrze sobie z tym poradziłeś.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722069"
+    },
+    {
+      "english": "Your positive outlook helps.",
+      "polish": "Twoje pozytywne nastawienie pomaga.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722071"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "polish": "Przyjmij podróż, ciesz się nią.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722074"
+    },
+    {
+      "english": "This morning felt, surprisingly calm.",
+      "polish": "Ten poranek był, zaskakująco spokojny.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722078"
+    },
+    {
+      "english": "I felt a moment, of pure joy today.",
+      "polish": "Poczułem chwilę, czystej radości dziś.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722081"
+    },
+    {
+      "english": "Sometimes, I just need quiet time.",
+      "polish": "Czasem, po prostu potrzebuję ciszy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722084"
+    },
+    {
+      "english": "My energy levels, are fluctuating wildly.",
+      "polish": "Moje poziomy energii, szaleją dzisiaj.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722086"
+    },
+    {
+      "english": "Did you notice, the sunset's colors?",
+      "polish": "Zauważyłeś, kolory zachodu słońca?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722089"
+    },
+    {
+      "english": "I'm trying to be, more patient with myself.",
+      "polish": "Próbuję być, bardziej cierpliwy dla siebie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722092"
+    },
+    {
+      "english": "This task requires, deep concentration.",
+      "polish": "To zadanie wymaga, głębokiej koncentracji.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722095"
+    },
+    {
+      "english": "Reflecting on the day, helps me sleep.",
+      "polish": "Reflektowanie nad dniem, pomaga mi spać.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722097"
+    },
+    {
+      "english": "I'm feeling quite optimistic, actually.",
+      "polish": "Czuję się całkiem optymistycznie, naprawdę.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722100"
+    },
+    {
+      "english": "What are your deeper, weekend thoughts?",
+      "polish": "Jakie są twoje głębsze, weekendowe przemyślenia?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722103"
+    },
+    {
+      "english": "This moment feels, intensely peaceful.",
+      "polish": "Ta chwila jest, intensywnie spokojna.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722105"
+    },
+    {
+      "english": "I find solace, in simple routines.",
+      "polish": "Znajduję ukojenie, w prostych rytuałach.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722108"
+    },
+    {
+      "english": "My mind is racing, a little today.",
+      "polish": "Mój umysł dzisiaj, trochę szaleje.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722111"
+    },
+    {
+      "english": "Honesty is key, wouldn't you agree?",
+      "polish": "Szczerość jest kluczem, zgadzasz się?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722113"
+    },
+    {
+      "english": "Are you feeling, content right now?",
+      "polish": "Czujesz się, zadowolony w tej chwili?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722116"
+    },
+    {
+      "english": "I need to process, this new information.",
+      "polish": "Muszę przetworzyć, te nowe informacje.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722119"
+    },
+    {
+      "english": "My true feelings, are a bit complex.",
+      "polish": "Moje prawdziwe uczucia, są trochę skomplikowane.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722121"
+    },
+    {
+      "english": "This calm allows, for introspection.",
+      "polish": "Ten spokój pozwala, na introspekcję.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722124"
+    },
+    {
+      "english": "I'm embracing, vulnerability today.",
+      "polish": "Przyjmuję dziś, bezbronność.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722127"
+    },
+    {
+      "english": "Did you pause, to appreciate nature?",
+      "polish": "Zatrzymałeś się, by docenić naturę?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722129"
+    },
+    {
+      "english": "My internal compass, feels strong.",
+      "polish": "Mój wewnętrzny kompas, czuję mocny.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722132"
+    },
+    {
+      "english": "This feeling of peace, is precious.",
+      "polish": "To uczucie spokoju, jest cenne.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722134"
+    },
+    {
+      "english": "I'm allowing myself, to simply be.",
+      "polish": "Pozwalam sobie, po prostu być.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722137"
+    },
+    {
+      "english": "This quiet reflection, is good for me.",
+      "polish": "Ta cicha refleksja, jest dla mnie dobra.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722139"
+    },
+    {
+      "english": "I'm finding clarity, in the silence.",
+      "polish": "Znajduję jasność, w ciszy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722144"
+    },
+    {
+      "english": "Did you feel, that connection?",
+      "polish": "Poczułeś, to połączenie?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722147"
+    },
+    {
+      "english": "My heart feels, unusually light.",
+      "polish": "Moje serce czuję, niezwykle lekko.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722149"
+    },
+    {
+      "english": "I need a moment, to just breathe.",
+      "polish": "Potrzebuję chwili, żeby odetchnąć.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722152"
+    },
+    {
+      "english": "This is a moment, for honest thought.",
+      "polish": "To chwila, na szczere myśli.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722156"
+    },
+    {
+      "english": "What did you eat, for breakfast?",
+      "polish": "Co jadłeś, na śniadanie?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722159"
+    },
+    {
+      "english": "I usually drink, black coffee.",
+      "polish": "Zazwyczaj piję, czarną kawę.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722161"
+    },
+    {
+      "english": "Do you have, any allergies?",
+      "polish": "Czy masz, jakieś alergie?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722164"
+    },
+    {
+      "english": "Let's plan, the whole week.",
+      "polish": "Zaplanujmy, cały tydzień.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722168"
+    },
+    {
+      "english": "Remember to drink, enough water.",
+      "polish": "Pamiętaj pić, dużo wody.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722171"
+    },
+    {
+      "english": "This app, helps me organize.",
+      "polish": "Ta aplikacja, pomaga mi się zorganizować.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722174"
+    },
+    {
+      "english": "When do you wake up, usually?",
+      "polish": "O której wstajesz, zazwyczaj?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722176"
+    },
+    {
+      "english": "I prefer, early mornings.",
+      "polish": "Wolę, wczesne poranki.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722179"
+    },
+    {
+      "english": "Let's try, a new recipe.",
+      "polish": "Spróbujmy, nowy przepis.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-22T08:22:50.722181"
     }
   ],
-  "last_updated": "2026-10-21T08:20:53.262803"
+  "last_updated": "2026-10-22T08:22:50.722183"
 }
