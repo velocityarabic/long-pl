@@ -5759,7 +5759,727 @@
       "polish": "Zapłaciłeś/aś rachunki?",
       "category": "Love",
       "generated_at": "2026-10-24T07:57:10.054301"
+    },
+    {
+      "english": "Can I have the menu, please?",
+      "polish": "Poproszę menu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990859"
+    },
+    {
+      "english": "I'm ready to order.",
+      "polish": "Jestem gotowy/gotowa zamówić.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990873"
+    },
+    {
+      "english": "One moment, please.",
+      "polish": "Chwileczkę, proszę.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990876"
+    },
+    {
+      "english": "I'll have the chicken.",
+      "polish": "Wezmę kurczaka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990879"
+    },
+    {
+      "english": "Could I get some water?",
+      "polish": "Czy mogę dostać wodę?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990890"
+    },
+    {
+      "english": "How much is this?",
+      "polish": "Ile to kosztuje?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990893"
+    },
+    {
+      "english": "It was delicious!",
+      "polish": "Było pyszne!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990896"
+    },
+    {
+      "english": "Can we have the bill?",
+      "polish": "Poprosimy o rachunek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990901"
+    },
+    {
+      "english": "Is service included?",
+      "polish": "Czy jest wliczona obsługa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990904"
+    },
+    {
+      "english": "I'm a vegetarian.",
+      "polish": "Jestem wegetarianinem/wegetarianką.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990906"
+    },
+    {
+      "english": "Does it have nuts?",
+      "polish": "Czy to zawiera orzechy?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990908"
+    },
+    {
+      "english": "I'd like a coffee.",
+      "polish": "Poproszę kawę.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990911"
+    },
+    {
+      "english": "No, thank you.",
+      "polish": "Nie, dziękuję.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990913"
+    },
+    {
+      "english": "Yes, please.",
+      "polish": "Tak, poproszę.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990917"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "polish": "Przepraszam, kelnerze!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990920"
+    },
+    {
+      "english": "What is this dish?",
+      "polish": "Co to za danie?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990921"
+    },
+    {
+      "english": "I'm allergic to...,",
+      "polish": "Mam alergię na...",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990925"
+    },
+    {
+      "english": "Can I have it to go?",
+      "polish": "Czy mogę wziąć na wynos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990927"
+    },
+    {
+      "english": "This is perfect.",
+      "polish": "To jest idealne.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990929"
+    },
+    {
+      "english": "Another beer, please.",
+      "polish": "Jeszcze jedno piwo, proszę.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990932"
+    },
+    {
+      "english": "We need a table.",
+      "polish": "Potrzebujemy stolik.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990934"
+    },
+    {
+      "english": "For two people, please.",
+      "polish": "Dla dwóch osób, proszę.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990936"
+    },
+    {
+      "english": "Is it spicy?",
+      "polish": "Czy to jest ostre?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990938"
+    },
+    {
+      "english": "I'll take this one.",
+      "polish": "Wezmę ten.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990941"
+    },
+    {
+      "english": "It's very good.",
+      "polish": "Jest bardzo dobre.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990944"
+    },
+    {
+      "english": "Do you have Wi-Fi?",
+      "polish": "Czy macie Wi-Fi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990946"
+    },
+    {
+      "english": "Enjoy your meal!",
+      "polish": "Smacznego!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990948"
+    },
+    {
+      "english": "What do you recommend, please?",
+      "polish": "Co pan/pani poleca?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990951"
+    },
+    {
+      "english": "Is there anything, you'd suggest?",
+      "polish": "Czy jest coś, co pan/pani zasugeruje?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990954"
+    },
+    {
+      "english": "Could you describe, this dish?",
+      "polish": "Czy może pan/pani opisać to danie?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990956"
+    },
+    {
+      "english": "How is this prepared, exactly?",
+      "polish": "Jak dokładnie jest to przygotowane?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990959"
+    },
+    {
+      "english": "Is this a large portion?",
+      "polish": "Czy to jest duża porcja?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990961"
+    },
+    {
+      "english": "What kind of soup, is this?",
+      "polish": "Co to za zupa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990964"
+    },
+    {
+      "english": "Does it come, with salad?",
+      "polish": "Czy to jest podawane z sałatką?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990966"
+    },
+    {
+      "english": "Can I swap, the side dish?",
+      "polish": "Czy mogę zamienić dodatek?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990970"
+    },
+    {
+      "english": "What's in, this sauce?",
+      "polish": "Z czego składa się ten sos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990973"
+    },
+    {
+      "english": "Is this very, spicy?",
+      "polish": "Czy to jest bardzo ostre?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990975"
+    },
+    {
+      "english": "Could I have, less salt?",
+      "polish": "Czy mogę prosić o mniej soli?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990978"
+    },
+    {
+      "english": "Is this vegan, by chance?",
+      "polish": "Czy to jest wegańskie, przypadkiem?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990980"
+    },
+    {
+      "english": "What are, the dessert options?",
+      "polish": "Jakie są opcje deserów?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990982"
+    },
+    {
+      "english": "Do you have, any local cheese?",
+      "polish": "Czy mają państwo, jakiś lokalny ser?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990984"
+    },
+    {
+      "english": "This looks, interesting!",
+      "polish": "To wygląda, interesująco!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990987"
+    },
+    {
+      "english": "I'm not sure, what to choose.",
+      "polish": "Nie jestem pewien, co wybrać.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990989"
+    },
+    {
+      "english": "What's popular, here?",
+      "polish": "Co jest popularne, tutaj?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990992"
+    },
+    {
+      "english": "Can we share, this appetizer?",
+      "polish": "Czy możemy podzielić się, tą przystawką?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990994"
+    },
+    {
+      "english": "How long, will it take?",
+      "polish": "Ile czasu, to zajmie?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990996"
+    },
+    {
+      "english": "Could we get, some bread too?",
+      "polish": "Czy moglibyśmy dostać, trochę chleba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.990999"
+    },
+    {
+      "english": "Is this dish, very filling?",
+      "polish": "Czy to danie, jest bardzo sycące?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991001"
+    },
+    {
+      "english": "What's the catch, of the day?",
+      "polish": "Jaki jest połów dnia?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991003"
+    },
+    {
+      "english": "I'd like to try, something new.",
+      "polish": "Chciałbym spróbować, czegoś nowego.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991005"
+    },
+    {
+      "english": "Can I get, the recipe?",
+      "polish": "Czy mogę dostać, przepis?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991008"
+    },
+    {
+      "english": "What's the wine pairing?",
+      "polish": "Jakie jest dopasowanie wina?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991010"
+    },
+    {
+      "english": "Are there, any specials?",
+      "polish": "Czy są, jakieś promocje?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991012"
+    },
+    {
+      "english": "Could you warm this up, slightly?",
+      "polish": "Czy można to, lekko podgrzać?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991015"
+    },
+    {
+      "english": "What's good, for sharing?",
+      "polish": "Co jest dobre, do dzielenia?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991017"
+    },
+    {
+      "english": "Can I have, the check split?",
+      "polish": "Czy mogę prosić o podzielenie rachunku?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991021"
+    },
+    {
+      "english": "Don't be afraid, to try something new.",
+      "polish": "Nie bój się, próbować czegoś nowego.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991024"
+    },
+    {
+      "english": "Every attempt, is a step forward.",
+      "polish": "Każda próba, to krok do przodu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991026"
+    },
+    {
+      "english": "You've got this, one order at a time.",
+      "polish": "Dasz radę, jedno zamówienie na raz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991029"
+    },
+    {
+      "english": "Believe in your choices, trust yourself.",
+      "polish": "Wierz w swoje wybory, zaufaj sobie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991031"
+    },
+    {
+      "english": "It's okay, to ask for help.",
+      "polish": "Można prosić o pomoc, to nic złego.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991034"
+    },
+    {
+      "english": "You're learning, and that's fantastic!",
+      "polish": "Uczysz się, i to jest fantastyczne!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991037"
+    },
+    {
+      "english": "Don't stress, just enjoy the experience.",
+      "polish": "Nie stresuj się, po prostu ciesz się chwilą.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991040"
+    },
+    {
+      "english": "Every meal, is a chance to practice.",
+      "polish": "Każdy posiłek, to szansa na ćwiczenie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991042"
+    },
+    {
+      "english": "You're making progress, celebrate small wins.",
+      "polish": "Robisz postępy, doceniaj małe sukcesy.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991045"
+    },
+    {
+      "english": "What a brave choice, well done!",
+      "polish": "Co za odważny wybór, brawo!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991048"
+    },
+    {
+      "english": "This positive attitude, is key.",
+      "polish": "To pozytywne nastawienie, jest kluczem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991050"
+    },
+    {
+      "english": "Keep that confidence, you're doing well.",
+      "polish": "Zachowaj tę pewność siebie, dobrze ci idzie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991053"
+    },
+    {
+      "english": "You're a natural, at this.",
+      "polish": "Jesteś w tym, naturalny.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991055"
+    },
+    {
+      "english": "Learning takes time, be patient.",
+      "polish": "Nauka wymaga czasu, bądź cierpliwy.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991057"
+    },
+    {
+      "english": "Embrace the challenge, you can do it.",
+      "polish": "Podejmij wyzwanie, dasz radę.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991059"
+    },
+    {
+      "english": "That's a wonderful attitude, to have.",
+      "polish": "To wspaniałe nastawienie, mieć.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991062"
+    },
+    {
+      "english": "You're doing better, than you think.",
+      "polish": "Radzisz sobie lepiej, niż myślisz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991065"
+    },
+    {
+      "english": "Focus on the positives, always.",
+      "polish": "Skupiaj się na pozytywach, zawsze.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991067"
+    },
+    {
+      "english": "You're building confidence, with each meal.",
+      "polish": "Budujesz pewność siebie, z każdym posiłkiem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991070"
+    },
+    {
+      "english": "This is a great learning opportunity.",
+      "polish": "To świetna okazja do nauki.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991072"
+    },
+    {
+      "english": "Keep that spirit up, you're amazing!",
+      "polish": "Utrzymaj ten duch, jesteś niesamowity!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991074"
+    },
+    {
+      "english": "You're exploring, bravely.",
+      "polish": "Odkrywasz, odważnie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991077"
+    },
+    {
+      "english": "This curiosity, will serve you well.",
+      "polish": "Ta ciekawość, dobrze ci posłuży.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991079"
+    },
+    {
+      "english": "You're mastering this, step by step.",
+      "polish": "Opanowujesz to, krok po kroku.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991081"
+    },
+    {
+      "english": "Don't hesitate, to communicate.",
+      "polish": "Nie wahaj się, komunikować.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991084"
+    },
+    {
+      "english": "Every little success, counts.",
+      "polish": "Każdy mały sukces, się liczy.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991086"
+    },
+    {
+      "english": "This atmosphere, it really relaxes me.",
+      "polish": "Ta atmosfera, naprawdę mnie relaksuje.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991088"
+    },
+    {
+      "english": "I feel so at ease, here tonight.",
+      "polish": "Czuję się tak swobodnie, tutaj dziś wieczorem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991091"
+    },
+    {
+      "english": "This food, it makes me feel nostalgic.",
+      "polish": "To jedzenie, sprawia, że czuję nostalgię.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991093"
+    },
+    {
+      "english": "I'm honestly, very impressed, you know.",
+      "polish": "Jestem szczerze, bardzo pod wrażeniem, wiesz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991096"
+    },
+    {
+      "english": "This taste, it reminds me of home.",
+      "polish": "Ten smak, przypomina mi dom.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991099"
+    },
+    {
+      "english": "I truly appreciate, your patience with me.",
+      "polish": "Naprawdę doceniam, twoją cierpliwość do mnie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991102"
+    },
+    {
+      "english": "It’s lovely, when service is so attentive.",
+      "polish": "To wspaniale, gdy obsługa jest tak uważna.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991106"
+    },
+    {
+      "english": "I'm reflecting, on how good this is.",
+      "polish": "Zastanawiam się, jak dobre to jest.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991108"
+    },
+    {
+      "english": "This dish, it speaks to my soul.",
+      "polish": "To danie, przemawia do mojej duszy.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991110"
+    },
+    {
+      "english": "I’m really savoring, every single bite.",
+      "polish": "Naprawdę delektuję się, każdym kęsem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991114"
+    },
+    {
+      "english": "Your recommendation, was absolutely perfect.",
+      "polish": "Twoja rekomendacja, była absolutnie idealna.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991117"
+    },
+    {
+      "english": "This is more than just a meal, it's an experience.",
+      "polish": "To więcej niż posiłek, to przeżycie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991119"
+    },
+    {
+      "english": "I feel a real connection, to this place.",
+      "polish": "Czuję prawdziwe połączenie, z tym miejscem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991122"
+    },
+    {
+      "english": "What a delightful surprise, this turned out.",
+      "polish": "Co za wspaniała niespodzianka, że tak wyszło.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991124"
+    },
+    {
+      "english": "I could sit here, for hours, honestly.",
+      "polish": "Mógłbym tu siedzieć, godzinami, szczerze.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991127"
+    },
+    {
+      "english": "Your kindness, is truly memorable.",
+      "polish": "Twoja życzliwość, jest naprawdę zapamiętana.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991129"
+    },
+    {
+      "english": "This feeling, is pure contentment.",
+      "polish": "To uczucie, to czyste zadowolenie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991131"
+    },
+    {
+      "english": "I’m thinking, about how much I enjoyed this.",
+      "polish": "Myślę, o tym, jak bardzo mi się to podobało.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991134"
+    },
+    {
+      "english": "This meal has a certain, heartfelt quality.",
+      "polish": "Ten posiłek ma pewną, serdeczną jakość.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991137"
+    },
+    {
+      "english": "I feel a genuine warmth, from this food.",
+      "polish": "Czuję prawdziwe ciepło, od tego jedzenia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991139"
+    },
+    {
+      "english": "It’s comforting, to have such good company.",
+      "polish": "To pocieszające, mieć tak dobre towarzystwo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991143"
+    },
+    {
+      "english": "I’m reflecting, on this wonderful evening.",
+      "polish": "Rozmyślam, nad tym wspaniałym wieczorem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991147"
+    },
+    {
+      "english": "This simplicity, is very elegant.",
+      "polish": "Ta prostota, jest bardzo elegancka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991149"
+    },
+    {
+      "english": "I’m genuinely happy, with my choice.",
+      "polish": "Jestem szczerze szczęśliwy, moim wyborem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991152"
+    },
+    {
+      "english": "This hospitality, makes me feel special.",
+      "polish": "Ta gościnność, sprawia, że czuję się wyjątkowo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991155"
+    },
+    {
+      "english": "It’s refreshing, to be treated so well.",
+      "polish": "To odświeżające, być tak dobrze traktowanym.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991158"
+    },
+    {
+      "english": "I’m touched, by this thoughtful gesture.",
+      "polish": "Jestem poruszony, tym przemyślanym gestem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991162"
+    },
+    {
+      "english": "This moment, feels truly peaceful.",
+      "polish": "Ta chwila, wydaje się naprawdę spokojna.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991164"
+    },
+    {
+      "english": "I’m grateful, for this delicious meal.",
+      "polish": "Jestem wdzięczny, za ten pyszny posiłek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991168"
+    },
+    {
+      "english": "This experience, has been quite enriching.",
+      "polish": "To doświadczenie, było całkiem wzbogacające.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991170"
+    },
+    {
+      "english": "I'd like to pay, by card.",
+      "polish": "Chciałbym zapłacić, kartą.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991173"
+    },
+    {
+      "english": "Where is the restroom, please?",
+      "polish": "Gdzie jest toaleta, proszę?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991175"
+    },
+    {
+      "english": "This is too salty, for me.",
+      "polish": "To jest za słone, dla mnie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991177"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "polish": "Czy macie wegetariańskie opcje?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991179"
+    },
+    {
+      "english": "Is this spicy, at all?",
+      "polish": "Czy to jest ostre, w ogóle?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991181"
+    },
+    {
+      "english": "It's a bit too much, for me.",
+      "polish": "To jest trochę za dużo, dla mnie.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991184"
+    },
+    {
+      "english": "Can I get a doggy bag?",
+      "polish": "Czy mogę dostać, jedzenie na wynos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991188"
+    },
+    {
+      "english": "Just water, please, no ice.",
+      "polish": "Tylko wodę, proszę, bez lodu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-25T08:11:32.991190"
     }
   ],
-  "last_updated": "2026-10-24T07:57:10.054303"
+  "last_updated": "2026-10-25T08:11:32.991192"
 }
