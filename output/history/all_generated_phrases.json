@@ -6479,7 +6479,727 @@
       "polish": "Tylko wodę, proszę, bez lodu.",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-25T08:11:32.991190"
+    },
+    {
+      "english": "Fingers crossed, it will work out.",
+      "polish": "Trzymam kciuki, że się uda.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716958"
+    },
+    {
+      "english": "I have a good feeling about this.",
+      "polish": "Mam dobre przeczucie co do tego.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716971"
+    },
+    {
+      "english": "Let's hope for the best.",
+      "polish": "Miejmy nadzieję na najlepsze.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716975"
+    },
+    {
+      "english": "Maybe it's not so bad.",
+      "polish": "Może nie jest aż tak źle.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716978"
+    },
+    {
+      "english": "There's always a silver lining.",
+      "polish": "Zawsze jest jakaś iskierka nadziei.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716981"
+    },
+    {
+      "english": "We can still make it.",
+      "polish": "Nadal możemy to zrobić.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716984"
+    },
+    {
+      "english": "Don't lose hope, keep trying.",
+      "polish": "Nie trać nadziei, próbuj dalej.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716987"
+    },
+    {
+      "english": "I'm optimistic about the future.",
+      "polish": "Jestem optymistą co do przyszłości.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716993"
+    },
+    {
+      "english": "Things will get better, surely.",
+      "polish": "Na pewno będzie lepiej.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.716996"
+    },
+    {
+      "english": "It’s worth waiting for.",
+      "polish": "Warto na to poczekać.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717000"
+    },
+    {
+      "english": "I believe in a positive outcome.",
+      "polish": "Wierzę w pozytywny wynik.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717006"
+    },
+    {
+      "english": "Let's keep our spirits up.",
+      "polish": "Podtrzymajmy ducha.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717009"
+    },
+    {
+      "english": "Maybe a miracle will happen.",
+      "polish": "Może zdarzy się cud.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717011"
+    },
+    {
+      "english": "We have a chance, I think.",
+      "polish": "Myślę, że mamy szansę.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717014"
+    },
+    {
+      "english": "I’m hopeful for good news.",
+      "polish": "Mam nadzieję na dobre wieści.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717019"
+    },
+    {
+      "english": "It's not the end of the world.",
+      "polish": "To nie koniec świata.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717022"
+    },
+    {
+      "english": "Look on the bright side.",
+      "polish": "Patrz na to z jaśniejszej strony.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717025"
+    },
+    {
+      "english": "Every cloud has a silver lining.",
+      "polish": "Każdy cień ma promyk nadziei.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717027"
+    },
+    {
+      "english": "I’m counting on a good result.",
+      "polish": "Licze na dobry rezultat.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717030"
+    },
+    {
+      "english": "Let's remain positive.",
+      "polish": "Pozostańmy pozytywni.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717033"
+    },
+    {
+      "english": "There’s light at the end of the tunnel.",
+      "polish": "Światło jest na końcu tunelu.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717037"
+    },
+    {
+      "english": "I’m sending good vibes.",
+      "polish": "Wysyłam dobre wibracje.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717041"
+    },
+    {
+      "english": "Hopefully, it will be fine.",
+      "polish": "Mam nadzieję, że będzie dobrze.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717044"
+    },
+    {
+      "english": "Keep faith, it will pass.",
+      "polish": "Zachowaj wiarę, to minie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717047"
+    },
+    {
+      "english": "I have a feeling it’ll work.",
+      "polish": "Mam przeczucie, że zadziała.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717051"
+    },
+    {
+      "english": "Let’s see what happens.",
+      "polish": "Zobaczmy, co się stanie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717054"
+    },
+    {
+      "english": "There’s always a way forward.",
+      "polish": "Zawsze jest jakaś droga naprzód.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717057"
+    },
+    {
+      "english": "I’m holding out hope.",
+      "polish": "Podtrzymuję nadzieję.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717060"
+    },
+    {
+      "english": "It’s worth a shot.",
+      "polish": "Warto spróbować.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717064"
+    },
+    {
+      "english": "We can overcome this.",
+      "polish": "Możemy to przezwyciężyć.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717066"
+    },
+    {
+      "english": "What do you think, will it work out?",
+      "polish": "Co myślisz, uda się?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717069"
+    },
+    {
+      "english": "Any ideas, how can we fix this?",
+      "polish": "Masz jakieś pomysły, jak to naprawić?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717072"
+    },
+    {
+      "english": "Is there any chance for us?",
+      "polish": "Czy jest jakaś szansa dla nas?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717075"
+    },
+    {
+      "english": "What if we try another approach?",
+      "polish": "A co jeśli spróbujemy inaczej?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717078"
+    },
+    {
+      "english": "Do you believe we can succeed?",
+      "polish": "Wierzysz, że damy radę?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717080"
+    },
+    {
+      "english": "How do you see this situation?",
+      "polish": "Jak widzisz tę sytuację?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717088"
+    },
+    {
+      "english": "Should we ask for help maybe?",
+      "polish": "Może powinniśmy poprosić o pomoc?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717091"
+    },
+    {
+      "english": "What's your advice for this moment?",
+      "polish": "Jaka jest twoja rada na ten moment?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717094"
+    },
+    {
+      "english": "Can we make it better, somehow?",
+      "polish": "Czy możemy to jakoś poprawić?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717097"
+    },
+    {
+      "english": "What are our next steps then?",
+      "polish": "Jakie są więc nasze następne kroki?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717100"
+    },
+    {
+      "english": "What if something good happens?",
+      "polish": "A co jeśli stanie się coś dobrego?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717103"
+    },
+    {
+      "english": "Tell me, what do you feel?",
+      "polish": "Powiedz, co czujesz?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717105"
+    },
+    {
+      "english": "Is there any reason to worry?",
+      "polish": "Czy jest jakiś powód do zmartwień?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717108"
+    },
+    {
+      "english": "What's the plan, if this fails?",
+      "polish": "Jaki jest plan, jeśli to się nie uda?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717111"
+    },
+    {
+      "english": "Do we have any options left?",
+      "polish": "Czy mamy jeszcze jakieś opcje?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717114"
+    },
+    {
+      "english": "What outcome are you hoping for?",
+      "polish": "Na jaki wynik liczysz?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717116"
+    },
+    {
+      "english": "How can we stay motivated?",
+      "polish": "Jak możemy zachować motywację?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717121"
+    },
+    {
+      "english": "Do you see a way out of this?",
+      "polish": "Widzisz jakieś wyjście z tego?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717123"
+    },
+    {
+      "english": "What if we just wait and see?",
+      "polish": "A co jeśli po prostu poczekamy?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717126"
+    },
+    {
+      "english": "Can we turn this around?",
+      "polish": "Czy możemy to odwrócić?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717129"
+    },
+    {
+      "english": "What's your gut feeling about it?",
+      "polish": "Co ci podpowiada intuicja?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717132"
+    },
+    {
+      "english": "Do you think there's a solution?",
+      "polish": "Myślisz, że jest jakieś rozwiązanie?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717134"
+    },
+    {
+      "english": "What's the worst that could happen?",
+      "polish": "Co najgorszego może się stać?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717137"
+    },
+    {
+      "english": "Should we expect a positive result?",
+      "polish": "Czy powinniśmy oczekiwać pozytywnego rezultatu?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717140"
+    },
+    {
+      "english": "What if we take a risk?",
+      "polish": "A co jeśli zaryzykujemy?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717144"
+    },
+    {
+      "english": "How do we move forward from here?",
+      "polish": "Jak ruszyć do przodu stąd?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717147"
+    },
+    {
+      "english": "Do you have any encouraging words?",
+      "polish": "Masz jakieś słowa otuchy?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717149"
+    },
+    {
+      "english": "What if it all works out perfectly?",
+      "polish": "A co jeśli wszystko idealnie się ułoży?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717152"
+    },
+    {
+      "english": "Can we count on your support?",
+      "polish": "Czy możemy liczyć na twoje wsparcie?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717154"
+    },
+    {
+      "english": "Keep your chin up, friend.",
+      "polish": "Głowa do góry, przyjacielu.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717157"
+    },
+    {
+      "english": "This too shall pass.",
+      "polish": "I to minie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717160"
+    },
+    {
+      "english": "Focus on the good things.",
+      "polish": "Skup się na dobrych rzeczach.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717162"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "polish": "Nie poddawaj się, próbuj dalej.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717165"
+    },
+    {
+      "english": "A positive attitude helps a lot.",
+      "polish": "Pozytywne nastawienie bardzo pomaga.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717168"
+    },
+    {
+      "english": "Let your hope guide you.",
+      "polish": "Niech nadzieja cię prowadzi.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717172"
+    },
+    {
+      "english": "Tomorrow is a new day.",
+      "polish": "Jutro jest nowy dzień.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717175"
+    },
+    {
+      "english": "Stay strong, you can do it.",
+      "polish": "Trzymaj się mocno, możesz to zrobić.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717177"
+    },
+    {
+      "english": "Imagine the best outcome.",
+      "polish": "Wyobraź sobie najlepszy wynik.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717194"
+    },
+    {
+      "english": "Good things are coming your way.",
+      "polish": "Dobre rzeczy idą w twoją stronę.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717197"
+    },
+    {
+      "english": "Never lose hope.",
+      "polish": "Nigdy nie trać nadziei.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717200"
+    },
+    {
+      "english": "Brighter days are ahead.",
+      "polish": "Jaśniejsze dni są przed nami.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717203"
+    },
+    {
+      "english": "Keep pushing forward, little by little.",
+      "polish": "Idź naprzód, krok po kroku.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717206"
+    },
+    {
+      "english": "Your efforts will pay off.",
+      "polish": "Twoje wysiłki się opłacą.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717209"
+    },
+    {
+      "english": "Embrace the possibilities.",
+      "polish": "Przyjmij możliwości.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717211"
+    },
+    {
+      "english": "You have inner strength.",
+      "polish": "Masz w sobie siłę.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717214"
+    },
+    {
+      "english": "Look for the good everywhere.",
+      "polish": "Szukaj dobra wszędzie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717216"
+    },
+    {
+      "english": "We will find a solution.",
+      "polish": "Znajdziemy rozwiązanie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717219"
+    },
+    {
+      "english": "Your perspective matters.",
+      "polish": "Twoja perspektywa ma znaczenie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717221"
+    },
+    {
+      "english": "Keep a hopeful heart.",
+      "polish": "Zachowaj nadzieję w sercu.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717226"
+    },
+    {
+      "english": "This is a temporary setback.",
+      "polish": "To tylko chwilowa przeszkoda.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717229"
+    },
+    {
+      "english": "Everything will fall into place.",
+      "polish": "Wszystko ułoży się po twojej myśli.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717231"
+    },
+    {
+      "english": "Trust the process, patiently.",
+      "polish": "Zaufaj procesowi, cierpliwie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717234"
+    },
+    {
+      "english": "Believe in a better outcome.",
+      "polish": "Uwierz w lepszy rezultat.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717236"
+    },
+    {
+      "english": "Deep inside, I feel it's possible.",
+      "polish": "Głęboko w środku, czuję, że to możliwe.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717239"
+    },
+    {
+      "english": "Let's give it more time.",
+      "polish": "Dajmy temu jeszcze czas.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717242"
+    },
+    {
+      "english": "Sometimes, we just have to wait.",
+      "polish": "Czasami, po prostu musimy poczekać.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717245"
+    },
+    {
+      "english": "What if this is a learning curve?",
+      "polish": "Co jeśli to jest krzywa uczenia?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717247"
+    },
+    {
+      "english": "Inner peace brings outer hope.",
+      "polish": "Wewnętrzny spokój przynosi nadzieję na zewnątrz.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717250"
+    },
+    {
+      "english": "We can adapt, we will find a way.",
+      "polish": "Możemy się dostosować, znajdziemy sposób.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717252"
+    },
+    {
+      "english": "My heart feels optimistic today.",
+      "polish": "Moje serce czuje się dziś optymistycznie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717255"
+    },
+    {
+      "english": "Let's be honest about our feelings.",
+      "polish": "Bądźmy szczerzy co do naszych uczuć.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717258"
+    },
+    {
+      "english": "Patience is a virtue, right?",
+      "polish": "Cierpliwość to cnota, prawda?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717263"
+    },
+    {
+      "english": "This feeling won't last forever.",
+      "polish": "To uczucie nie potrwa wiecznie.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717265"
+    },
+    {
+      "english": "What is your truest hope?",
+      "polish": "Jaka jest Twoja najprawdziwsza nadzieja?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717268"
+    },
+    {
+      "english": "We need to be gentle with ourselves.",
+      "polish": "Musimy być dla siebie łagodni.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717271"
+    },
+    {
+      "english": "Is there beauty in this struggle?",
+      "polish": "Czy jest piękno w tej walce?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717273"
+    },
+    {
+      "english": "Reflect on what truly matters.",
+      "polish": "Zastanów się nad tym, co naprawdę ważne.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717276"
+    },
+    {
+      "english": "Maybe this pause is needed.",
+      "polish": "Może ta przerwa jest potrzebna.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717279"
+    },
+    {
+      "english": "I hold onto a sliver of hope.",
+      "polish": "Trzymam się skrawka nadziei.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717281"
+    },
+    {
+      "english": "Let's be real, but hopeful.",
+      "polish": "Bądźmy realistami, ale pełni nadziei.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717284"
+    },
+    {
+      "english": "Does your gut say 'keep going'?",
+      "polish": "Czy Twoje przeczucie mówi 'idź dalej'?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717287"
+    },
+    {
+      "english": "We're stronger than we think.",
+      "polish": "Jesteśmy silniejsi, niż myślimy.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717290"
+    },
+    {
+      "english": "Allow yourself to dream again.",
+      "polish": "Pozwól sobie znów marzyć.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717292"
+    },
+    {
+      "english": "The light is always there.",
+      "polish": "Światło jest zawsze tam.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717295"
+    },
+    {
+      "english": "This feeling will eventually change.",
+      "polish": "To uczucie w końcu się zmieni.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717297"
+    },
+    {
+      "english": "What if we embrace uncertainty?",
+      "polish": "Co jeśli zaakceptujemy niepewność?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717300"
+    },
+    {
+      "english": "My spirit remains resilient.",
+      "polish": "Mój duch pozostaje odporny.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717302"
+    },
+    {
+      "english": "Is there peace in surrender?",
+      "polish": "Czy jest spokój w poddaniu się?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717305"
+    },
+    {
+      "english": "Let kindness be our guide.",
+      "polish": "Niech życzliwość będzie naszym przewodnikiem.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717307"
+    },
+    {
+      "english": "We will find our footing again.",
+      "polish": "Znajdziemy znów grunt pod nogami.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717310"
+    },
+    {
+      "english": "True hope comes from within.",
+      "polish": "Prawdziwa nadzieja pochodzi z wnętrza.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717314"
+    },
+    {
+      "english": "Take it one step at a time.",
+      "polish": "Idź krok po kroku.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717317"
+    },
+    {
+      "english": "Small wins add up, you know?",
+      "polish": "Małe sukcesy się sumują, wiesz?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717319"
+    },
+    {
+      "english": "Don't give up so easily, try again.",
+      "polish": "Nie poddawaj się tak łatwo, spróbuj.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717323"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "polish": "Skup się na tym, co możesz kontrolować.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717325"
+    },
+    {
+      "english": "What's the next best thing to do?",
+      "polish": "Co jest następną najlepszą rzeczą do zrobienia?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717328"
+    },
+    {
+      "english": "Let's find a workaround, okay?",
+      "polish": "Znajdźmy obejście, dobrze?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717333"
+    },
+    {
+      "english": "Every challenge has a lesson.",
+      "polish": "Każde wyzwanie ma lekcję.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717336"
+    },
+    {
+      "english": "This situation can improve, surely.",
+      "polish": "Ta sytuacja może się poprawić, na pewno.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717339"
+    },
+    {
+      "english": "Think positively, it helps a lot.",
+      "polish": "Myśl pozytywnie, to bardzo pomaga.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T08:36:54.717342"
     }
   ],
-  "last_updated": "2026-10-25T08:11:32.991192"
+  "last_updated": "2026-10-26T08:36:54.717343"
 }
