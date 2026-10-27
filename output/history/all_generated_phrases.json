@@ -7199,7 +7199,727 @@
       "polish": "Myśl pozytywnie, to bardzo pomaga.",
       "category": "Hope",
       "generated_at": "2026-10-26T08:36:54.717342"
+    },
+    {
+      "english": "Breathe deeply, feel the calm.",
+      "polish": "Oddychaj głęboko, czuj spokój.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402295"
+    },
+    {
+      "english": "Just be here, now.",
+      "polish": "Po prostu bądź tutaj, teraz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402308"
+    },
+    {
+      "english": "Listen to your breath.",
+      "polish": "Słuchaj swojego oddechu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402311"
+    },
+    {
+      "english": "Let it go, gently.",
+      "polish": "Puść to, delikatnie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402315"
+    },
+    {
+      "english": "Notice the present moment.",
+      "polish": "Zauważ teraźniejszy moment.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402317"
+    },
+    {
+      "english": "Feel your feet on the ground.",
+      "polish": "Poczuj swoje stopy na ziemi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402320"
+    },
+    {
+      "english": "Observe without judgment.",
+      "polish": "Obserwuj bez oceniania.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402323"
+    },
+    {
+      "english": "What do you feel, right now?",
+      "polish": "Co czujesz, dokładnie teraz?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402328"
+    },
+    {
+      "english": "Stay grounded, stay calm.",
+      "polish": "Pozostań uziemiony, pozostań spokojny.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402332"
+    },
+    {
+      "english": "This is enough, for now.",
+      "polish": "To wystarczy, na razie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402335"
+    },
+    {
+      "english": "Find your center, within.",
+      "polish": "Znajdź swój środek, w sobie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402338"
+    },
+    {
+      "english": "Accept what is, simply.",
+      "polish": "Akceptuj to, co jest, po prostu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402340"
+    },
+    {
+      "english": "Let thoughts drift by.",
+      "polish": "Pozwól myślom odpłynąć.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402343"
+    },
+    {
+      "english": "Be kind to yourself.",
+      "polish": "Bądź dla siebie miły.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402345"
+    },
+    {
+      "english": "Feel the sensation, fully.",
+      "polish": "Poczuj doznanie, w pełni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402348"
+    },
+    {
+      "english": "Just observe, don't react.",
+      "polish": "Tylko obserwuj, nie reaguj.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402351"
+    },
+    {
+      "english": "Slow down, take your time.",
+      "polish": "Zwolnij, nie spiesz się.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402353"
+    },
+    {
+      "english": "What are you grateful for?",
+      "polish": "Za co jesteś wdzięczny?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402358"
+    },
+    {
+      "english": "Release the tension, slowly.",
+      "polish": "Uwolnij napięcie, powoli.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402361"
+    },
+    {
+      "english": "This moment is precious.",
+      "polish": "Ta chwila jest cenna.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402363"
+    },
+    {
+      "english": "Find peace in the quiet.",
+      "polish": "Znajdź spokój w ciszy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402367"
+    },
+    {
+      "english": "Notice your body, now.",
+      "polish": "Zauważ swoje ciało, teraz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402370"
+    },
+    {
+      "english": "Let worries fade away.",
+      "polish": "Pozwól zmartwieniom zniknąć.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402372"
+    },
+    {
+      "english": "Feel the air, as you breathe.",
+      "polish": "Poczuj powietrze, gdy oddychasz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402375"
+    },
+    {
+      "english": "Be present, be aware.",
+      "polish": "Bądź obecny, bądź świadomy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402378"
+    },
+    {
+      "english": "This feeling will pass.",
+      "polish": "To uczucie minie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402381"
+    },
+    {
+      "english": "Ground yourself, gently.",
+      "polish": "Ugruntuj się, delikatnie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402383"
+    },
+    {
+      "english": "Embrace the stillness.",
+      "polish": "Przyjmij bezruch.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402386"
+    },
+    {
+      "english": "One breath at a time.",
+      "polish": "Jeden oddech na raz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402400"
+    },
+    {
+      "english": "Focus on the breath.",
+      "polish": "Skup się na oddechu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402403"
+    },
+    {
+      "english": "Can you show me, how?",
+      "polish": "Czy możesz mi pokazać, jak?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402406"
+    },
+    {
+      "english": "What do you suggest, for stress?",
+      "polish": "Co proponujesz, na stres?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402408"
+    },
+    {
+      "english": "Is this the right way, to relax?",
+      "polish": "Czy to dobra droga, do relaksu?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402411"
+    },
+    {
+      "english": "How long should I do this?",
+      "polish": "Jak długo mam to robić?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402416"
+    },
+    {
+      "english": "What’s your favorite technique, for calm?",
+      "polish": "Jaka jest twoja ulubiona technika, na spokój?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402420"
+    },
+    {
+      "english": "Can we practice together, later?",
+      "polish": "Czy możemy poćwiczyć razem, później?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402423"
+    },
+    {
+      "english": "What helps you, when you're overwhelmed?",
+      "polish": "Co ci pomaga, gdy jesteś przytłoczony?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402426"
+    },
+    {
+      "english": "Where do you find, inner peace?",
+      "polish": "Gdzie znajdujesz, wewnętrzny spokój?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402429"
+    },
+    {
+      "english": "Any tips for beginners, on this?",
+      "polish": "Jakieś rady dla początkujących, w tym?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402431"
+    },
+    {
+      "english": "Do you think, this is working?",
+      "polish": "Czy myślisz, że to działa?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402434"
+    },
+    {
+      "english": "What if I feel sleepy, during?",
+      "polish": "Co jeśli poczuję się senny, w trakcie?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402437"
+    },
+    {
+      "english": "How to stay present, in a crowd?",
+      "polish": "Jak pozostać obecnym, w tłumie?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402440"
+    },
+    {
+      "english": "Is there a specific posture, recommended?",
+      "polish": "Czy jest jakaś konkretna postawa, zalecana?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402443"
+    },
+    {
+      "english": "What's the goal, of this exercise?",
+      "polish": "Jaki jest cel, tego ćwiczenia?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402446"
+    },
+    {
+      "english": "Can I practice, with eyes open?",
+      "polish": "Czy mogę ćwiczyć, z otwartymi oczami?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402450"
+    },
+    {
+      "english": "Do you have a moment, for a question?",
+      "polish": "Masz chwilę, na pytanie?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402455"
+    },
+    {
+      "english": "What should I focus on, if thoughts race?",
+      "polish": "Na czym powinienem się skupić, gdy myśli pędzą?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402458"
+    },
+    {
+      "english": "How do you handle, distractions?",
+      "polish": "Jak sobie radzisz, z rozproszeniami?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402461"
+    },
+    {
+      "english": "Is it okay, to feel restless?",
+      "polish": "Czy to normalne, czuć niepokój?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402463"
+    },
+    {
+      "english": "Can you explain, that concept?",
+      "polish": "Czy możesz wyjaśnić, to pojęcie?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402466"
+    },
+    {
+      "english": "What’s the benefit, of pausing?",
+      "polish": "Jaka jest korzyść, z pauzy?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402470"
+    },
+    {
+      "english": "Do you find this helpful, too?",
+      "polish": "Czy tobie też, pomaga?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402473"
+    },
+    {
+      "english": "How to integrate, this practice?",
+      "polish": "Jak zintegrować, tę praktykę?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402475"
+    },
+    {
+      "english": "What if I can't concentrate?",
+      "polish": "Co jeśli nie mogę się skupić?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402478"
+    },
+    {
+      "english": "Can you guide me, through this?",
+      "polish": "Czy możesz mnie poprowadzić, przez to?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402480"
+    },
+    {
+      "english": "Is there a simpler version?",
+      "polish": "Czy jest prostsza wersja?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402483"
+    },
+    {
+      "english": "What’s the best time, to meditate?",
+      "polish": "Kiedy najlepiej, medytować?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402486"
+    },
+    {
+      "english": "Can you recommend, a resource?",
+      "polish": "Czy możesz polecić, jakieś źródło?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402489"
+    },
+    {
+      "english": "How do you stay mindful, all day?",
+      "polish": "Jak pozostajesz uważny, cały dzień?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402491"
+    },
+    {
+      "english": "You are doing great, really.",
+      "polish": "Świetnie sobie radzisz, naprawdę.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402494"
+    },
+    {
+      "english": "Your effort matters, a lot.",
+      "polish": "Twój wysiłek ma znaczenie, du-zhe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402496"
+    },
+    {
+      "english": "That's a wonderful insight.",
+      "polish": "To wspaniała spostrzegawczość.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402499"
+    },
+    {
+      "english": "Your progress is visible.",
+      "polish": "Twój postęp jest widoczny.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402501"
+    },
+    {
+      "english": "That's a great attitude.",
+      "polish": "To świetna postawa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402504"
+    },
+    {
+      "english": "Don't give up, just breathe.",
+      "polish": "Nie poddawaj się, po prostu oddychaj.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402507"
+    },
+    {
+      "english": "You are learning so fast.",
+      "polish": "Uczysz się tak szybko.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402512"
+    },
+    {
+      "english": "Embrace your inner strength.",
+      "polish": "Odkryj swoją wewnętrzną siłę.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402514"
+    },
+    {
+      "english": "You have so much potential.",
+      "polish": "Masz ogromny potencjał.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402517"
+    },
+    {
+      "english": "Just trust the process.",
+      "polish": "Po prostu zaufaj procesowi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402519"
+    },
+    {
+      "english": "This is a journey, enjoy it.",
+      "polish": "To podróż, ciesz się nią.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402522"
+    },
+    {
+      "english": "Keep that positive outlook.",
+      "polish": "Zachowaj tę pozytywną perspektywę.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402526"
+    },
+    {
+      "english": "You are exactly where you need to be.",
+      "polish": "Jesteś dokładnie tam, gdzie powinieneś być.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402529"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "polish": "Twoja odporność jest inspirująca.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402531"
+    },
+    {
+      "english": "Stay true to yourself.",
+      "polish": "Pozostań sobą.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402533"
+    },
+    {
+      "english": "You are growing, day by day.",
+      "polish": "Rozwijasz się, z dnia na dzień.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402536"
+    },
+    {
+      "english": "Embrace the challenge, with courage.",
+      "polish": "Przyjmij wyzwanie, z odwagą.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402539"
+    },
+    {
+      "english": "You are doing wonderfully.",
+      "polish": "Działasz wspaniale.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402541"
+    },
+    {
+      "english": "Go with the flow, don't resist.",
+      "polish": "Płynąć z prądem, nie opierać się.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402544"
+    },
+    {
+      "english": "Take it easy, breathe it in.",
+      "polish": "Na spokojnie, weź głęboki oddech.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402547"
+    },
+    {
+      "english": "Everything passes, like clouds.",
+      "polish": "Wszystko przemija, jak chmury.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402550"
+    },
+    {
+      "english": "Find calm in the chaos.",
+      "polish": "Znajdź spokój w chaosie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402552"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "polish": "Słuchaj swojego wewnętrznego głosu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402554"
+    },
+    {
+      "english": "Be here now, that's the key.",
+      "polish": "Bądź tu i teraz, to jest klucz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402559"
+    },
+    {
+      "english": "Just be, without judging.",
+      "polish": "Po prostu bądź, bez oceniania.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402562"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "polish": "Odpuść, to czego nie kontrolujesz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402565"
+    },
+    {
+      "english": "A moment of pause, can change everything.",
+      "polish": "Chwila pauzy, może zmienić wszystko.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402568"
+    },
+    {
+      "english": "Observe, don't get caught.",
+      "polish": "Obserwuj, nie daj się wciągnąć.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402570"
+    },
+    {
+      "english": "Mindfulness is simple, but not easy.",
+      "polish": "Uważność jest prosta, ale nie łatwa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402573"
+    },
+    {
+      "english": "Savor the small moments.",
+      "polish": "Doceniaj małe chwile.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402575"
+    },
+    {
+      "english": "Your breath, your anchor.",
+      "polish": "Twój oddech, twoja kotwica.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402578"
+    },
+    {
+      "english": "Present moment, is all you have.",
+      "polish": "Teraz jest wszystko, co masz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402581"
+    },
+    {
+      "english": "Find stillness, within yourself.",
+      "polish": "Znajdź ciszę, w sobie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402583"
+    },
+    {
+      "english": "It's okay, to not know.",
+      "polish": "Dobrze jest, nie wiedzieć.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402586"
+    },
+    {
+      "english": "Just notice, without reacting.",
+      "polish": "Tylko zauważ, bez reakcji.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402589"
+    },
+    {
+      "english": "Empty your mind, like a cup.",
+      "polish": "Opróżnij umysł, jak filiżankę.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402591"
+    },
+    {
+      "english": "Kindness starts, with yourself.",
+      "polish": "Życzliwość zaczyna się, od siebie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402594"
+    },
+    {
+      "english": "Feel your body, right now.",
+      "polish": "Poczuj swoje ciało, teraz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402602"
+    },
+    {
+      "english": "Let thoughts drift, like leaves.",
+      "polish": "Pozwól myślom odpływać, jak liściom.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402605"
+    },
+    {
+      "english": "Stillness speaks, if you listen.",
+      "polish": "Cisza mówi, jeśli słuchasz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402609"
+    },
+    {
+      "english": "Accept what is, fully.",
+      "polish": "Akceptuj to, co jest, w pełni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402612"
+    },
+    {
+      "english": "Breathe in calm, breathe out tension.",
+      "polish": "Wdech spokoju, wydech napięcia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402615"
+    },
+    {
+      "english": "The present is a gift.",
+      "polish": "Chwila obecna, to dar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402617"
+    },
+    {
+      "english": "Find your center, always.",
+      "polish": "Znajdź swój środek, zawsze.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402620"
+    },
+    {
+      "english": "This moment, is enough.",
+      "polish": "Ta chwila, wystarczy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402622"
+    },
+    {
+      "english": "Let's tackle this, one step at a time.",
+      "polish": "Zajmijmy się tym, krok po kroku.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402625"
+    },
+    {
+      "english": "Don't overthink, just begin.",
+      "polish": "Nie myśl za dużo, po prostu zacznij.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402628"
+    },
+    {
+      "english": "Listen carefully, to others.",
+      "polish": "Słuchaj uważnie, innych.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402631"
+    },
+    {
+      "english": "Focus on what's real, here.",
+      "polish": "Skup się na tym, co jest prawdziwe, tutaj.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402634"
+    },
+    {
+      "english": "Take a breath, before speaking.",
+      "polish": "Weź oddech, zanim powiesz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402636"
+    },
+    {
+      "english": "What do you truly need?",
+      "polish": "Czego naprawdę potrzebujesz?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402639"
+    },
+    {
+      "english": "Let's simplify, this situation.",
+      "polish": "Uprośćmy, tę sytuację.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402642"
+    },
+    {
+      "english": "A small pause, makes a difference.",
+      "polish": "Mała pauza, robi różnicę.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402644"
+    },
+    {
+      "english": "Notice your surroundings, truly.",
+      "polish": "Zauważ otoczenie, naprawdę.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402647"
+    },
+    {
+      "english": "Can you accept, this outcome?",
+      "polish": "Czy możesz zaakceptować, ten wynik?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402650"
+    },
+    {
+      "english": "What's the most important thing?",
+      "polish": "Co jest najważniejsze?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402652"
+    },
+    {
+      "english": "Let kindness guide, your actions.",
+      "polish": "Niech życzliwość prowadzi, twoje działania.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402655"
+    },
+    {
+      "english": "How can we solve this, together?",
+      "polish": "Jak możemy to rozwiązać, razem?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402658"
+    },
+    {
+      "english": "Be present, for yourself.",
+      "polish": "Bądź obecny, dla siebie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402660"
+    },
+    {
+      "english": "Trust your intuition, always.",
+      "polish": "Zaufaj swojej intuicji, zawsze.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402663"
+    },
+    {
+      "english": "What can you learn, from this?",
+      "polish": "Czego możesz się nauczyć, z tego?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T08:43:59.402665"
     }
   ],
-  "last_updated": "2026-10-26T08:36:54.717343"
+  "last_updated": "2026-10-27T08:43:59.402667"
 }
