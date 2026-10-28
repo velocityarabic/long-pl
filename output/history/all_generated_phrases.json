@@ -7919,7 +7919,727 @@
       "polish": "Czego możesz się nauczyć, z tego?",
       "category": "Mindfulness",
       "generated_at": "2026-10-27T08:43:59.402665"
+    },
+    {
+      "english": "Great job, keep going!",
+      "polish": "Świetna robota, tak dalej!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643427"
+    },
+    {
+      "english": "Excellent, I'm impressed!",
+      "polish": "Doskonale, jestem pod wrażeniem!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643440"
+    },
+    {
+      "english": "Well done, truly amazing!",
+      "polish": "Dobrze zrobione, naprawdę niesamowite!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643442"
+    },
+    {
+      "english": "You achieved it, congratulations!",
+      "polish": "Osiągnąłeś to, gratulacje!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643445"
+    },
+    {
+      "english": "This is a big step!",
+      "polish": "To duży krok!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643446"
+    },
+    {
+      "english": "Success is within reach!",
+      "polish": "Sukces jest w zasięgu ręki!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643448"
+    },
+    {
+      "english": "You did it perfectly!",
+      "polish": "Zrobiłeś to idealnie!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643450"
+    },
+    {
+      "english": "Fantastic effort, well deserved!",
+      "polish": "Fantastyczny wysiłek, zasłużony!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643454"
+    },
+    {
+      "english": "This is a breakthrough moment!",
+      "polish": "To przełomowy moment!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643456"
+    },
+    {
+      "english": "Amazing result, truly proud!",
+      "polish": "Niesamowity wynik, naprawdę dumny!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643458"
+    },
+    {
+      "english": "You made it happen!",
+      "polish": "Dokonałeś tego!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643459"
+    },
+    {
+      "english": "Excellent move, very smart!",
+      "polish": "Doskonały ruch, bardzo mądry!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643461"
+    },
+    {
+      "english": "You exceeded expectations!",
+      "polish": "Przekroczyłeś oczekiwania!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643462"
+    },
+    {
+      "english": "This is very promising!",
+      "polish": "To bardzo obiecujące!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643464"
+    },
+    {
+      "english": "You're a true achiever!",
+      "polish": "Jesteś prawdziwym zdobywcą!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643465"
+    },
+    {
+      "english": "Bravo, what a success!",
+      "polish": "Brawo, co za sukces!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643468"
+    },
+    {
+      "english": "You nailed it completely!",
+      "polish": "Perfekcyjnie to zrobiłeś!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643470"
+    },
+    {
+      "english": "This outcome is brilliant!",
+      "polish": "Ten wynik jest genialny!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643471"
+    },
+    {
+      "english": "You shine, keep that light!",
+      "polish": "Świecisz, trzymaj to światło!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643473"
+    },
+    {
+      "english": "Big win, celebrate it!",
+      "polish": "Duże zwycięstwo, świętuj!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643474"
+    },
+    {
+      "english": "Masterful execution, amazing!",
+      "polish": "Mistrzowskie wykonanie, niesamowite!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643476"
+    },
+    {
+      "english": "You are capable of anything!",
+      "polish": "Jesteś zdolny do wszystkiego!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643477"
+    },
+    {
+      "english": "This is just the beginning!",
+      "polish": "To dopiero początek!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643479"
+    },
+    {
+      "english": "You made a real difference!",
+      "polish": "Naprawdę coś zmieniłeś!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643480"
+    },
+    {
+      "english": "Proud of your achievements!",
+      "polish": "Dumna z twoich osiągnięć!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643482"
+    },
+    {
+      "english": "What's your next goal?",
+      "polish": "Jaki jest twój następny cel?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643484"
+    },
+    {
+      "english": "How did you plan that?",
+      "polish": "Jak to zaplanowałeś/zaplanowałaś?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643485"
+    },
+    {
+      "english": "Can you share your secret?",
+      "polish": "Możesz podzielić się sekretem?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643488"
+    },
+    {
+      "english": "Where do you find inspiration?",
+      "polish": "Gdzie szukasz inspiracji?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643491"
+    },
+    {
+      "english": "Did you expect this result?",
+      "polish": "Czy spodziewałeś/spodziewałaś się tego wyniku?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643493"
+    },
+    {
+      "english": "What motivated you most?",
+      "polish": "Co cię najbardziej motywowało?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643494"
+    },
+    {
+      "english": "Are you happy with progress?",
+      "polish": "Jesteś zadowolony/zadowolona z postępów?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643496"
+    },
+    {
+      "english": "What was the hardest part?",
+      "polish": "Co było najtrudniejsze?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643497"
+    },
+    {
+      "english": "How do you overcome challenges?",
+      "polish": "Jak pokonujesz wyzwania?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643499"
+    },
+    {
+      "english": "Tell me about your journey.",
+      "polish": "Opowiedz mi o swojej drodze.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643500"
+    },
+    {
+      "english": "What's the key to your success?",
+      "polish": "Jaki jest klucz do twojego sukcesu?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643502"
+    },
+    {
+      "english": "Do you need any help?",
+      "polish": "Czy potrzebujesz pomocy?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643503"
+    },
+    {
+      "english": "Can we discuss ideas?",
+      "polish": "Czy możemy omówić pomysły?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643505"
+    },
+    {
+      "english": "What's your long-term vision?",
+      "polish": "Jaka jest twoja długoterminowa wizja?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643506"
+    },
+    {
+      "english": "How do you stay focused?",
+      "polish": "Jak zachowujesz skupienie?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643508"
+    },
+    {
+      "english": "What are you proudest of?",
+      "polish": "Z czego jesteś najbardziej dumny/dumna?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643509"
+    },
+    {
+      "english": "Did you face any doubts?",
+      "polish": "Czy miałeś/miałaś jakieś wątpliwości?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643511"
+    },
+    {
+      "english": "What's your definition of success?",
+      "polish": "Jaka jest twoja definicja sukcesu?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643512"
+    },
+    {
+      "english": "How can I support you?",
+      "polish": "Jak mogę cię wspierać?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643514"
+    },
+    {
+      "english": "What's the next step?",
+      "polish": "Jaki jest następny krok?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643515"
+    },
+    {
+      "english": "Do you have a mentor?",
+      "polish": "Czy masz mentora?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643517"
+    },
+    {
+      "english": "What habits helped you?",
+      "polish": "Jakie nawyki ci pomogły?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643519"
+    },
+    {
+      "english": "Is this your dream job?",
+      "polish": "Czy to jest twoja wymarzona praca?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643520"
+    },
+    {
+      "english": "How do you celebrate wins?",
+      "polish": "Jak świętujesz sukcesy?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643522"
+    },
+    {
+      "english": "What keeps you going?",
+      "polish": "Co cię napędza?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643523"
+    },
+    {
+      "english": "Can we collaborate?",
+      "polish": "Czy możemy współpracować?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643525"
+    },
+    {
+      "english": "What's your biggest lesson?",
+      "polish": "Jaka jest twoja największa lekcja?",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643526"
+    },
+    {
+      "english": "You've got this!",
+      "polish": "Dasz radę!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643528"
+    },
+    {
+      "english": "Stay positive, stay focused.",
+      "polish": "Bądź pozytywny, bądź skupiony.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643529"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "polish": "Twój wysiłek jest godny pochwały.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643531"
+    },
+    {
+      "english": "Don't give up now.",
+      "polish": "Nie poddawaj się teraz.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643534"
+    },
+    {
+      "english": "You are on the right path.",
+      "polish": "Jesteś na dobrej drodze.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643536"
+    },
+    {
+      "english": "That's excellent work!",
+      "polish": "To znakomita praca!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643537"
+    },
+    {
+      "english": "You're learning so quickly.",
+      "polish": "Uczysz się tak szybko.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643539"
+    },
+    {
+      "english": "Keep up the great work.",
+      "polish": "Kontynuuj wspaniałą pracę.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643542"
+    },
+    {
+      "english": "You inspire me too.",
+      "polish": "Ty też mnie inspirujesz.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643544"
+    },
+    {
+      "english": "Think big, achieve big.",
+      "polish": "Myśl o wielkich rzeczach, osiągaj wielkie cele.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643546"
+    },
+    {
+      "english": "You are growing every day.",
+      "polish": "Rozwijasz się każdego dnia.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643547"
+    },
+    {
+      "english": "This is a fantastic result.",
+      "polish": "To fantastyczny rezultat.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643548"
+    },
+    {
+      "english": "You're doing great, really.",
+      "polish": "Naprawdę świetnie sobie radzisz.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643550"
+    },
+    {
+      "english": "Embrace the challenge.",
+      "polish": "Przyjmij wyzwanie.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643552"
+    },
+    {
+      "english": "You have immense potential.",
+      "polish": "Masz ogromny potencjał.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643553"
+    },
+    {
+      "english": "Focus on your strengths.",
+      "polish": "Skup się na swoich mocnych stronach.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643555"
+    },
+    {
+      "english": "You're making excellent progress.",
+      "polish": "Robisz doskonałe postępy.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643556"
+    },
+    {
+      "english": "Your dedication is impressive.",
+      "polish": "Twoje zaangażowanie jest imponujące.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643558"
+    },
+    {
+      "english": "Never stop learning.",
+      "polish": "Nigdy nie przestawaj się uczyć.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643559"
+    },
+    {
+      "english": "You have a bright future.",
+      "polish": "Masz świetlaną przyszłość.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643561"
+    },
+    {
+      "english": "Well done, I'm impressed.",
+      "polish": "Dobrze zrobione, jestem pod wrażeniem.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643563"
+    },
+    {
+      "english": "Embrace your journey.",
+      "polish": "Pokochaj swoją podróż.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643565"
+    },
+    {
+      "english": "Go for it, Polish style!",
+      "polish": "Działaj po polsku!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643566"
+    },
+    {
+      "english": "It's a piece of cake, really.",
+      "polish": "To pestka, naprawdę.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643568"
+    },
+    {
+      "english": "He's got a knack for this.",
+      "polish": "On ma do tego dryg.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643570"
+    },
+    {
+      "english": "She's the bee's knees in business.",
+      "polish": "Ona jest w biznesie królową.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643573"
+    },
+    {
+      "english": "He's a real go-getter.",
+      "polish": "On jest naprawdę zdeterminowany.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643574"
+    },
+    {
+      "english": "She strikes while the iron is hot.",
+      "polish": "Ona działa, póki gorące.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643576"
+    },
+    {
+      "english": "He makes hay while the sun shines.",
+      "polish": "On wykorzystuje okazję.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643578"
+    },
+    {
+      "english": "It's no sweat off my back.",
+      "polish": "Nie zawracam sobie tym głowy.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643581"
+    },
+    {
+      "english": "She's pulling a rabbit out of a hat.",
+      "polish": "Ona wyczarowuje.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643582"
+    },
+    {
+      "english": "He's on fire today!",
+      "polish": "On dzisiaj szaleje!",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643584"
+    },
+    {
+      "english": "She really nailed it.",
+      "polish": "Ona naprawdę to zrobiła świetnie.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643585"
+    },
+    {
+      "english": "He's got the Midas touch.",
+      "polish": "On ma złoty dotyk.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643587"
+    },
+    {
+      "english": "She's always ahead of the curve.",
+      "polish": "Ona zawsze jest do przodu.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643589"
+    },
+    {
+      "english": "He's playing chess, not checkers.",
+      "polish": "On gra w szachy, nie w warcaby.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643590"
+    },
+    {
+      "english": "She's got her ducks in a row.",
+      "polish": "Ona ma wszystko poukładane.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643592"
+    },
+    {
+      "english": "He's a real trailblazer.",
+      "polish": "On jest prawdziwym pionierem.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643594"
+    },
+    {
+      "english": "She's not afraid to rock the boat.",
+      "polish": "Ona nie boi się namieszać.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643595"
+    },
+    {
+      "english": "He's got the gift of gab.",
+      "polish": "On ma dar przekonywania.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643598"
+    },
+    {
+      "english": "She's a force to be reckoned with.",
+      "polish": "Z nią trzeba się liczyć.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643600"
+    },
+    {
+      "english": "He's always one step ahead.",
+      "polish": "On jest zawsze o krok do przodu.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643601"
+    },
+    {
+      "english": "She's got the magic touch.",
+      "polish": "Ona ma magiczną rękę.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643603"
+    },
+    {
+      "english": "He's really hitting his stride.",
+      "polish": "On naprawdę nabiera tempa.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643604"
+    },
+    {
+      "english": "She's setting the world on fire.",
+      "polish": "Ona podbija świat.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643606"
+    },
+    {
+      "english": "She's really killing it.",
+      "polish": "Ona sobie świetnie radzi.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643607"
+    },
+    {
+      "english": "He's a master of his craft.",
+      "polish": "On jest mistrzem swojego fachu.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643609"
+    },
+    {
+      "english": "She's really in her element.",
+      "polish": "Ona jest w swoim żywiole.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643611"
+    },
+    {
+      "english": "He's got a real nose for business.",
+      "polish": "On ma nosa do interesów.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643612"
+    },
+    {
+      "english": "She's making waves.",
+      "polish": "Ona robi falę.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643614"
+    },
+    {
+      "english": "He's truly flourishing.",
+      "polish": "On naprawdę kwitnie.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643615"
+    },
+    {
+      "english": "Start small, dream big.",
+      "polish": "Zacznij od małych kroków, marz o wielkich.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643617"
+    },
+    {
+      "english": "Don't wait, just do it.",
+      "polish": "Nie czekaj, po prostu zrób to.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643618"
+    },
+    {
+      "english": "Learn from mistakes, move on.",
+      "polish": "Ucz się na błędach, idź dalej.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643620"
+    },
+    {
+      "english": "Be patient, good things come.",
+      "polish": "Bądź cierpliwy, dobre rzeczy przyjdą.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643621"
+    },
+    {
+      "english": "Small wins, big motivation.",
+      "polish": "Małe sukcesy, wielka motywacja.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643623"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "polish": "Słuchaj więcej, mów mniej.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643625"
+    },
+    {
+      "english": "Stay curious, always explore.",
+      "polish": "Zachowaj ciekawość, zawsze odkrywaj.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643627"
+    },
+    {
+      "english": "Manage your time, wisely.",
+      "polish": "Zarządzaj czasem, mądrze.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643629"
+    },
+    {
+      "english": "Find your passion, follow it.",
+      "polish": "Znajdź swoją pasję, podążaj za nią.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643630"
+    },
+    {
+      "english": "Ask for feedback, it helps.",
+      "polish": "Poproś o opinię, to pomaga.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643632"
+    },
+    {
+      "english": "Network, build connections.",
+      "polish": "Buduj relacje, nawiązuj kontakty.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643633"
+    },
+    {
+      "english": "Take breaks, recharge your energy.",
+      "polish": "Rób przerwy, naładuj baterie.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643635"
+    },
+    {
+      "english": "Stay positive, it attracts good.",
+      "polish": "Bądź pozytywny, to przyciąga dobro.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643637"
+    },
+    {
+      "english": "Be adaptable, life changes.",
+      "polish": "Bądź elastyczny, życie się zmienia.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643638"
+    },
+    {
+      "english": "Don't compare, just improve.",
+      "polish": "Nie porównuj, po prostu się poprawiaj.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643640"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "polish": "Świętuj małe zwycięstwa.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643641"
+    },
+    {
+      "english": "Organize your thoughts, then act.",
+      "polish": "Uporządkuj myśli, potem działaj.",
+      "category": "Success",
+      "generated_at": "2026-10-28T09:23:47.643643"
     }
   ],
-  "last_updated": "2026-10-27T08:43:59.402667"
+  "last_updated": "2026-10-28T09:23:47.643645"
 }
