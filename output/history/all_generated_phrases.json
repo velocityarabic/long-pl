@@ -8639,7 +8639,727 @@
       "polish": "Uporządkuj myśli, potem działaj.",
       "category": "Success",
       "generated_at": "2026-10-28T09:23:47.643643"
+    },
+    {
+      "english": "That's a lovely tradition, you know.",
+      "polish": "To miła tradycja, wiesz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037739"
+    },
+    {
+      "english": "I love Polish hospitality, truly.",
+      "polish": "Uwielbiam polską gościnność, naprawdę.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037783"
+    },
+    {
+      "english": "What's this celebration about?",
+      "polish": "Z czego jest to świętowanie?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037788"
+    },
+    {
+      "english": "Tell me more, please.",
+      "polish": "Powiedz mi więcej, proszę.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037791"
+    },
+    {
+      "english": "This smells delicious, what is it?",
+      "polish": "To pachnie pysznie, co to jest?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037798"
+    },
+    {
+      "english": "Can I try some?",
+      "polish": "Mogę spróbować?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037801"
+    },
+    {
+      "english": "So, this is how you do it?",
+      "polish": "Czyli tak się to robi?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037804"
+    },
+    {
+      "english": "That's fascinating, really.",
+      "polish": "To fascynujące, naprawdę.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037810"
+    },
+    {
+      "english": "Are you from here originally?",
+      "polish": "Jesteś stąd, z pochodzenia?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037814"
+    },
+    {
+      "english": "How long have you lived here?",
+      "polish": "Jak długo tu mieszkasz?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037817"
+    },
+    {
+      "english": "Is this a family thing?",
+      "polish": "To jest rodzinne?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037819"
+    },
+    {
+      "english": "I'm learning so much.",
+      "polish": "Tak wiele się uczę.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037822"
+    },
+    {
+      "english": "This is so different, great!",
+      "polish": "To takie inne, wspaniałe!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037825"
+    },
+    {
+      "english": "What do people usually do?",
+      "polish": "Co zazwyczaj ludzie robią?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037827"
+    },
+    {
+      "english": "It feels very authentic.",
+      "polish": "To wydaje się bardzo autentyczne.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037830"
+    },
+    {
+      "english": "I'm impressed, honestly.",
+      "polish": "Jestem pod wrażeniem, szczerze.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037833"
+    },
+    {
+      "english": "What's the significance of this?",
+      "polish": "Jakie jest znaczenie tego?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037836"
+    },
+    {
+      "english": "This is quite unique.",
+      "polish": "To jest całkiem unikalne.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037838"
+    },
+    {
+      "english": "Do you celebrate this often?",
+      "polish": "Często to świętujecie?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037841"
+    },
+    {
+      "english": "I'm enjoying this experience.",
+      "polish": "Podoba mi się to doświadczenie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037844"
+    },
+    {
+      "english": "This is a special occasion, right?",
+      "polish": "To specjalna okazja, prawda?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037847"
+    },
+    {
+      "english": "What are the main customs?",
+      "polish": "Jakie są główne zwyczaje?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037849"
+    },
+    {
+      "english": "I feel so welcome here.",
+      "polish": "Czuję się tu bardzo mile widziany/widziana.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037852"
+    },
+    {
+      "english": "This is quite traditional.",
+      "polish": "To jest dość tradycyjne.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037854"
+    },
+    {
+      "english": "What a beautiful custom!",
+      "polish": "Jaki piękny zwyczaj!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037856"
+    },
+    {
+      "english": "Is there a specific meaning?",
+      "polish": "Czy jest jakieś konkretne znaczenie?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037859"
+    },
+    {
+      "english": "I love the atmosphere.",
+      "polish": "Uwielbiam atmosferę.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037861"
+    },
+    {
+      "english": "This is very interesting, really.",
+      "polish": "To bardzo interesujące, naprawdę.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037866"
+    },
+    {
+      "english": "Thank you for sharing.",
+      "polish": "Dziękuję za podzielenie się.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037869"
+    },
+    {
+      "english": "How is this tradition usually celebrated?",
+      "polish": "Jak zwykle obchodzi się tę tradycję?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037872"
+    },
+    {
+      "english": "Could you explain the meaning behind this?",
+      "polish": "Czy mógłbyś/mogłabyś wyjaśnić znaczenie?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037874"
+    },
+    {
+      "english": "What's the most important part of this?",
+      "polish": "Co jest w tym najważniejsze?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037877"
+    },
+    {
+      "english": "Are there any special rules for this?",
+      "polish": "Czy są jakieś szczególne zasady?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037880"
+    },
+    {
+      "english": "Who typically participates in this event?",
+      "polish": "Kto zazwyczaj bierze udział?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037885"
+    },
+    {
+      "english": "When did this custom start, do you know?",
+      "polish": "Kiedy się zaczęło, wiesz?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037888"
+    },
+    {
+      "english": "Is there a specific song for this occasion?",
+      "polish": "Czy jest jakaś specjalna piosenka?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037891"
+    },
+    {
+      "english": "What kind of food is served here?",
+      "polish": "Co się tutaj jada?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037893"
+    },
+    {
+      "english": "Is it polite to ask about this?",
+      "polish": "Czy wypada o to pytać?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037898"
+    },
+    {
+      "english": "What do people wear for this?",
+      "polish": "W co się ludzie ubierają?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037901"
+    },
+    {
+      "english": "How long does this usually last?",
+      "polish": "Jak długo to zwykle trwa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037903"
+    },
+    {
+      "english": "Is there a specific place for this?",
+      "polish": "Czy jest jakieś konkretne miejsce?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037906"
+    },
+    {
+      "english": "What's a common mistake to avoid?",
+      "polish": "Czego się zazwyczaj unikać?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037909"
+    },
+    {
+      "english": "Could you share a personal story about this?",
+      "polish": "Możesz opowiedzieć historię?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037911"
+    },
+    {
+      "english": "What's the best way to greet someone?",
+      "polish": "Jak najlepiej kogoś powitać?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037914"
+    },
+    {
+      "english": "Are gifts customary for this?",
+      "polish": "Czy daje się prezenty?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037917"
+    },
+    {
+      "english": "What's a traditional saying for this?",
+      "polish": "Jakie jest tradycyjne powiedzenie?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037919"
+    },
+    {
+      "english": "How do locals feel about tourists joining?",
+      "polish": "Jak reagujecie na obcych?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037922"
+    },
+    {
+      "english": "Is there a specific gesture used here?",
+      "polish": "Czy jest jakiś specyficzny gest?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037924"
+    },
+    {
+      "english": "What's the history of this ritual?",
+      "polish": "Jaka jest historia tego rytuału?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037927"
+    },
+    {
+      "english": "Can you recommend a good place to observe?",
+      "polish": "Polecisz dobre miejsce do obserwacji?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037930"
+    },
+    {
+      "english": "What's considered disrespectful during this?",
+      "polish": "Co jest uważane za niegrzeczne?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037932"
+    },
+    {
+      "english": "Are there regional variations to this?",
+      "polish": "Czy są regionalne odmiany?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037935"
+    },
+    {
+      "english": "What's a common misconception about this?",
+      "polish": "Jakie jest powszechne nieporozumienie?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037937"
+    },
+    {
+      "english": "How can I show my appreciation?",
+      "polish": "Jak mogę okazać wdzięczność?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037940"
+    },
+    {
+      "english": "What does this symbol represent?",
+      "polish": "Co oznacza ten symbol?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037943"
+    },
+    {
+      "english": "Is it okay to take pictures here?",
+      "polish": "Czy można robić zdjęcia?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037945"
+    },
+    {
+      "english": "What advice would you give a visitor?",
+      "polish": "Jaką radę dałbyś odwiedzającemu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037948"
+    },
+    {
+      "english": "What is the role of elders here?",
+      "polish": "Jaka jest rola starszych?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037950"
+    },
+    {
+      "english": "Dream big, learn Polish!",
+      "polish": "Śmiało marz, ucz się polskiego!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037953"
+    },
+    {
+      "english": "Keep going, you've got this!",
+      "polish": "Dalej, dasz radę!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037958"
+    },
+    {
+      "english": "Polish is beautiful, like you.",
+      "polish": "Polski jest piękny, tak jak ty.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037961"
+    },
+    {
+      "english": "Your progress is impressive.",
+      "polish": "Twój postęp jest imponujący.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037964"
+    },
+    {
+      "english": "Just believe in yourself.",
+      "polish": "Po prostu wierz w siebie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037966"
+    },
+    {
+      "english": "Every step counts, slowly.",
+      "polish": "Każdy krok się liczy, powoli.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037969"
+    },
+    {
+      "english": "You’re a natural learner.",
+      "polish": "Jesteś naturalnym uczniem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037973"
+    },
+    {
+      "english": "Don't give up, never!",
+      "polish": "Nie poddawaj się, nigdy!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037976"
+    },
+    {
+      "english": "Your dedication shines through.",
+      "polish": "Twoje zaangażowanie widać.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037979"
+    },
+    {
+      "english": "Learning Polish is rewarding.",
+      "polish": "Nauka polskiego jest satysfakcjonująca.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037984"
+    },
+    {
+      "english": "You make it look easy.",
+      "polish": "Sprawiasz, że to wygląda łatwo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037986"
+    },
+    {
+      "english": "Keep that positive vibe!",
+      "polish": "Zachowaj tę pozytywną energię!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037989"
+    },
+    {
+      "english": "You’re a star student!",
+      "polish": "Jesteś gwiazdą wśród uczniów!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037992"
+    },
+    {
+      "english": "Your curiosity is amazing.",
+      "polish": "Twoja ciekawość jest niesamowita.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037995"
+    },
+    {
+      "english": "Polish culture will charm you.",
+      "polish": "Polska kultura cię oczaruje.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.037997"
+    },
+    {
+      "english": "You're getting closer, yes!",
+      "polish": "Zbliżasz się, tak!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038000"
+    },
+    {
+      "english": "Your willingness is key.",
+      "polish": "Twoja chęć jest kluczem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038003"
+    },
+    {
+      "english": "Never underestimate your talent.",
+      "polish": "Nigdy nie lekceważ swojego talentu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038006"
+    },
+    {
+      "english": "You’re inspiring others, you know.",
+      "polish": "Inspirujesz innych, wiesz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038009"
+    },
+    {
+      "english": "This journey is worth it.",
+      "polish": "Ta podróż jest tego warta.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038011"
+    },
+    {
+      "english": "Polish is a rewarding pursuit.",
+      "polish": "Polski to satysfakcjonujące dążenie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038014"
+    },
+    {
+      "english": "You shine when you learn.",
+      "polish": "Błyszczysz, gdy się uczysz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038016"
+    },
+    {
+      "english": "Amazing effort, truly wonderful!",
+      "polish": "Niesamowity wysiłek, naprawdę wspaniały!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038019"
+    },
+    {
+      "english": "It makes me feel deeply connected, you know?",
+      "polish": "Czuję się z tym głęboko związany, wiesz?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038022"
+    },
+    {
+      "english": "This tradition, it touches my heart.",
+      "polish": "Ta tradycja, porusza moje serce.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038025"
+    },
+    {
+      "english": "I reflect on my own life, seeing this.",
+      "polish": "Reflektuję nad własnym życiem, widząc to.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038028"
+    },
+    {
+      "english": "It's a moment for true introspection.",
+      "polish": "To moment na prawdziwą introspekcję.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038031"
+    },
+    {
+      "english": "There's a quiet wisdom here.",
+      "polish": "Jest tu cicha mądrość.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038033"
+    },
+    {
+      "english": "I feel a sense of peace, honestly.",
+      "polish": "Czuję spokój, szczerze mówiąc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038036"
+    },
+    {
+      "english": "It makes you think, doesn't it?",
+      "polish": "To daje do myślenia, prawda?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038039"
+    },
+    {
+      "english": "Such genuine human connection.",
+      "polish": "Takie autentyczne ludzkie więzi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038041"
+    },
+    {
+      "english": "I'm learning to be more patient.",
+      "polish": "Uczę się być bardziej cierpliwym.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038044"
+    },
+    {
+      "english": "This experience deepens my understanding.",
+      "polish": "To doświadczenie pogłębia moje zrozumienie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038049"
+    },
+    {
+      "english": "I value this sincerity so much.",
+      "polish": "Tak bardzo cenię tę szczerość.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038052"
+    },
+    {
+      "english": "It's a very soulful tradition.",
+      "polish": "To bardzo duszna tradycja.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038054"
+    },
+    {
+      "english": "I feel truly present here.",
+      "polish": "Czuję się tu naprawdę obecny.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038057"
+    },
+    {
+      "english": "This is more than just observing.",
+      "polish": "To coś więcej niż tylko obserwacja.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038059"
+    },
+    {
+      "english": "It resonates with my own values.",
+      "polish": "Rezonuje z moimi własnymi wartościami.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038062"
+    },
+    {
+      "english": "What a profound moment.",
+      "polish": "Co za głęboki moment.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038066"
+    },
+    {
+      "english": "I appreciate the open hearts.",
+      "polish": "Doceniam otwarte serca.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038069"
+    },
+    {
+      "english": "It inspires honest reflection.",
+      "polish": "Inspiruje do szczerych refleksji.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038071"
+    },
+    {
+      "english": "I feel a kinship with everyone.",
+      "polish": "Czuję pokrewieństwo z każdym.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038074"
+    },
+    {
+      "english": "This tradition fosters empathy.",
+      "polish": "Ta tradycja buduje empatię.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038077"
+    },
+    {
+      "english": "It's a beautiful, emotional experience.",
+      "polish": "To piękne, emocjonalne przeżycie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038082"
+    },
+    {
+      "english": "I'm learning to listen more.",
+      "polish": "Uczę się więcej słuchać.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038085"
+    },
+    {
+      "english": "This gives me much to consider.",
+      "polish": "To daje mi wiele do przemyślenia.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038087"
+    },
+    {
+      "english": "I feel a genuine warmth here.",
+      "polish": "Czuję tu prawdziwe ciepło.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038090"
+    },
+    {
+      "english": "It's about shared humanity.",
+      "polish": "Chodzi o wspólną ludzkość.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038093"
+    },
+    {
+      "english": "This tradition cultivates kindness.",
+      "polish": "Ta tradycja kultywuje dobroć.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038097"
+    },
+    {
+      "english": "I find deep meaning here.",
+      "polish": "Znajduję tu głęboki sens.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038100"
+    },
+    {
+      "english": "It's an invitation to connect.",
+      "polish": "To zaproszenie do nawiązania kontaktu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038102"
+    },
+    {
+      "english": "I feel a profound respect.",
+      "polish": "Czuję głęboki szacunek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038105"
+    },
+    {
+      "english": "Such simple, honest moments.",
+      "polish": "Takie proste, szczere chwile.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038108"
+    },
+    {
+      "english": "Ask for help, don't struggle alone.",
+      "polish": "Proś o pomoc, nie męcz się sam.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038111"
+    },
+    {
+      "english": "Small talk first, then deeper topics.",
+      "polish": "Najpierw small talk, potem głębsze tematy.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038113"
+    },
+    {
+      "english": "Observe locals, they know best.",
+      "polish": "Obserwuj miejscowych, oni wiedzą najlepiej.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038116"
+    },
+    {
+      "english": "When in doubt, smile and nod.",
+      "polish": "Gdy masz wątpliwości, uśmiechnij się i kiwnij głową.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038119"
+    },
+    {
+      "english": "Try a little Polish, it's appreciated.",
+      "polish": "Spróbuj trochę po polsku, to docenią.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038122"
+    },
+    {
+      "english": "Be patient, things take time here.",
+      "polish": "Bądź cierpliwy, tu rzeczy potrzebują czasu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038124"
+    },
+    {
+      "english": "Accept invitations, it's polite.",
+      "polish": "Przyjmuj zaproszenia, to jest uprzejme.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038127"
+    },
+    {
+      "english": "Don't be afraid to make mistakes.",
+      "polish": "Nie bój się popełniać błędów.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038130"
+    },
+    {
+      "english": "Learn basic greetings, they open doors.",
+      "polish": "Naucz się podstawowych powitań, otwierają drzwi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:42:29.038133"
     }
   ],
-  "last_updated": "2026-10-28T09:23:47.643645"
+  "last_updated": "2026-10-30T09:42:29.038135"
 }
