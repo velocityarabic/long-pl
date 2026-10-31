@@ -9359,7 +9359,727 @@
       "polish": "Naucz się podstawowych powitań, otwierają drzwi.",
       "category": "Cultural Traditions",
       "generated_at": "2026-10-30T09:42:29.038133"
+    },
+    {
+      "english": "Wow, strong!  Good job!",
+      "polish": "Wow, silny! Dobra robota!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935259"
+    },
+    {
+      "english": "You have a lot of strength.",
+      "polish": "Masz dużo siły.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935272"
+    },
+    {
+      "english": "This is really tough, isn't it?",
+      "polish": "To naprawdę trudne, co nie?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935276"
+    },
+    {
+      "english": "I need to get stronger.",
+      "polish": "Muszę stać się silniejszy.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935280"
+    },
+    {
+      "english": "Show me your muscles!",
+      "polish": "Pokaż mi swoje mięśnie!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935283"
+    },
+    {
+      "english": "That looked really powerful.",
+      "polish": "To wyglądało naprawdę mocno.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935286"
+    },
+    {
+      "english": "Can you lift this heavy thing?",
+      "polish": "Dasz radę podnieść tę ciężką rzecz?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935289"
+    },
+    {
+      "english": "Don't give up, you're almost there!",
+      "polish": "Nie poddawaj się, już prawie dotarłeś!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935295"
+    },
+    {
+      "english": "That requires serious effort.",
+      "polish": "To wymaga poważnego wysiłku.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935298"
+    },
+    {
+      "english": "He's got the strength of an ox.",
+      "polish": "On ma siłę wołu.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935304"
+    },
+    {
+      "english": "Let's test our limits.",
+      "polish": "Sprawdźmy nasze granice.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935307"
+    },
+    {
+      "english": "I feel so energized today!",
+      "polish": "Czuję się dzisiaj taka pełna energii!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935309"
+    },
+    {
+      "english": "This is my strongest effort yet.",
+      "polish": "To moje najsilniejsze dotąd staranie.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935312"
+    },
+    {
+      "english": "Be tough, like a rock.",
+      "polish": "Bądź twardy, jak skała.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935315"
+    },
+    {
+      "english": "That was a real power move.",
+      "polish": "To był prawdziwy ruch mocy.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935318"
+    },
+    {
+      "english": "You're surprisingly strong.",
+      "polish": "Jesteś zaskakująco silny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935321"
+    },
+    {
+      "english": "We need more manpower here.",
+      "polish": "Potrzebujemy tu więcej siły roboczej.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935323"
+    },
+    {
+      "english": "Hold on tight, it's a wild ride!",
+      "polish": "Trzymaj się mocno, to dzika jazda!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935326"
+    },
+    {
+      "english": "He has incredible stamina.",
+      "polish": "On ma niesamowitą wytrzymałość.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935329"
+    },
+    {
+      "english": "Push your limits, then push more.",
+      "polish": "Przekrocz swoje granice, potem więcej.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935331"
+    },
+    {
+      "english": "That took a lot of guts.",
+      "polish": "To wymagało wielkiej odwagi.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935334"
+    },
+    {
+      "english": "She has a powerful voice.",
+      "polish": "Ona ma potężny głos.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935336"
+    },
+    {
+      "english": "Let's see what you're made of.",
+      "polish": "Zobaczmy, z czego jesteś zrobiony.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935339"
+    },
+    {
+      "english": "That required brute force.",
+      "polish": "To wymagało brutalnej siły.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935341"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "polish": "Jesteś silniejszy, niż myślisz.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935344"
+    },
+    {
+      "english": "This is a real test of endurance.",
+      "polish": "To prawdziwy test wytrzymałości.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935348"
+    },
+    {
+      "english": "He pushed with all his might.",
+      "polish": "On pchał z całej swojej siły.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935350"
+    },
+    {
+      "english": "That's a mighty effort!",
+      "polish": "To potężny wysiłek!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935354"
+    },
+    {
+      "english": "You can handle this, I believe.",
+      "polish": "Dasz sobie radę z tym, wierzę.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935356"
+    },
+    {
+      "english": "Stand tall, be proud.",
+      "polish": "Stój prosto, bądź dumny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935359"
+    },
+    {
+      "english": "How do you do that?, seriously?",
+      "polish": "Jak ty to robisz?, na serio?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935364"
+    },
+    {
+      "english": "What's your secret?, tell me!",
+      "polish": "Jaki jest twój sekret?, powiedz mi!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935367"
+    },
+    {
+      "english": "Do you think I can lift it?",
+      "polish": "Myślisz, że dam radę to podnieść?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935370"
+    },
+    {
+      "english": "Where did you get that energy?",
+      "polish": "Skąd masz tyle energii?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935372"
+    },
+    {
+      "english": "What is this technique?, explain.",
+      "polish": "Co to za technika?, wyjaśnij.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935375"
+    },
+    {
+      "english": "Is this the best way?, advice?",
+      "polish": "Czy to najlepszy sposób?, rada?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935378"
+    },
+    {
+      "english": "How much can you bench press?",
+      "polish": "Ile potrafisz wycisnąć?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935381"
+    },
+    {
+      "english": "Are you feeling strong today?, yes?",
+      "polish": "Czujesz się dziś silny?, tak?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935384"
+    },
+    {
+      "english": "Should I train harder?, what do you think?",
+      "polish": "Czy powinienem trenować mocniej?, co myślisz?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935387"
+    },
+    {
+      "english": "Is this exercise effective?, for strength?",
+      "polish": "Czy to ćwiczenie jest skuteczne?, na siłę?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935390"
+    },
+    {
+      "english": "How long did that take you?",
+      "polish": "Ile ci to zajęło czasu?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935394"
+    },
+    {
+      "english": "Can you show me that move?",
+      "polish": "Możesz mi pokazać ten ruch?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935396"
+    },
+    {
+      "english": "What are your fitness goals?, broadly?",
+      "polish": "Jakie są twoje cele fitness?, ogólnie?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935399"
+    },
+    {
+      "english": "Do you recommend this program?, for growth?",
+      "polish": "Polecasz ten program?, na rozrost?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935402"
+    },
+    {
+      "english": "How do you maintain this power?",
+      "polish": "Jak utrzymujesz tę moc?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935405"
+    },
+    {
+      "english": "Is it heavy for you?, really?",
+      "polish": "Jest ci ciężko?, naprawdę?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935407"
+    },
+    {
+      "english": "What's your favorite strength exercise?",
+      "polish": "Jakie jest twoje ulubione ćwiczenie siłowe?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935410"
+    },
+    {
+      "english": "Can we train together?, sometime?",
+      "polish": "Możemy potrenować razem?, kiedyś?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935413"
+    },
+    {
+      "english": "Did you feel the burn?, intensely?",
+      "polish": "Czułeś to palenie?, mocno?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935416"
+    },
+    {
+      "english": "What motivates you to lift more?",
+      "polish": "Co cię motywuje, by więcej podnosić?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935418"
+    },
+    {
+      "english": "Is this form correct?, check it.",
+      "polish": "Czy ta forma jest poprawna?, sprawdź.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935421"
+    },
+    {
+      "english": "How often do you train legs?",
+      "polish": "Jak często trenujesz nogi?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935424"
+    },
+    {
+      "english": "Can you handle this weight?, for sure?",
+      "polish": "Dasz radę z tym ciężarem?, na pewno?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935426"
+    },
+    {
+      "english": "What recovery methods do you use?",
+      "polish": "Jakie metody regeneracji stosujesz?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935429"
+    },
+    {
+      "english": "Is building muscle important?, for you?",
+      "polish": "Czy budowanie mięśni jest ważne?, dla ciebie?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935433"
+    },
+    {
+      "english": "How do you build explosive power?",
+      "polish": "Jak budujesz siłę eksplozywną?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935436"
+    },
+    {
+      "english": "Did you lift weights as a kid?",
+      "polish": "Podnosiłeś ciężary jako dziecko?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935439"
+    },
+    {
+      "english": "Believe in your power, always.",
+      "polish": "Wierz w swoją moc, zawsze.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935441"
+    },
+    {
+      "english": "That's amazing resilience!",
+      "polish": "Niesamowita wytrzymałość!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935444"
+    },
+    {
+      "english": "Your determination is inspiring.",
+      "polish": "Twoja determinacja jest inspirująca.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935447"
+    },
+    {
+      "english": "Keep pushing, you're getting stronger.",
+      "polish": "Ciągle pchaj, stajesz się silniejszy.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935450"
+    },
+    {
+      "english": "You're a true force of nature.",
+      "polish": "Jesteś prawdziwą siłą natury.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935454"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "polish": "Pozostań skupiony, pozostań silny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935457"
+    },
+    {
+      "english": "Great job, keep that momentum!",
+      "polish": "Świetna robota, utrzymuj pęd!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935460"
+    },
+    {
+      "english": "You can overcome anything.",
+      "polish": "Możesz pokonać wszystko.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935463"
+    },
+    {
+      "english": "That's incredible inner strength.",
+      "polish": "To niesamowita wewnętrzna siła.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935465"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "polish": "Nigdy nie doceniaj siebie.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935468"
+    },
+    {
+      "english": "Your effort is remarkable.",
+      "polish": "Twój wysiłek jest godny podziwu.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935470"
+    },
+    {
+      "english": "Keep your head up, stay positive.",
+      "polish": "Trzymaj głowę do góry, bądź pozytywny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935473"
+    },
+    {
+      "english": "That shows real character.",
+      "polish": "To pokazuje prawdziwy charakter.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935476"
+    },
+    {
+      "english": "Your spirit is unbreakable.",
+      "polish": "Twój duch jest niezniszczalny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935479"
+    },
+    {
+      "english": "Keep fighting, you're almost there.",
+      "polish": "Walcz dalej, już prawie jesteś.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935482"
+    },
+    {
+      "english": "That takes serious grit.",
+      "polish": "To wymaga poważnej odwagi.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935486"
+    },
+    {
+      "english": "You're building incredible strength.",
+      "polish": "Budujesz niesamowitą siłę.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935489"
+    },
+    {
+      "english": "What a powerful display!",
+      "polish": "Co za mocny pokaz!",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935491"
+    },
+    {
+      "english": "That's impressive tenacity.",
+      "polish": "To imponująca determinacja.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935494"
+    },
+    {
+      "english": "Your will is unyielding.",
+      "polish": "Twoja wola jest nieugięta.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935496"
+    },
+    {
+      "english": "You're handling it perfectly.",
+      "polish": "Radzisz sobie z tym idealnie.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935499"
+    },
+    {
+      "english": "Keep shining, you're amazing.",
+      "polish": "Świeć dalej, jesteś niesamowity.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935502"
+    },
+    {
+      "english": "That requires true fortitude.",
+      "polish": "To wymaga prawdziwej siły charakteru.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935504"
+    },
+    {
+      "english": "It's okay, to be tired sometimes.",
+      "polish": "To jest w porządku, być czasem zmęczonym.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935507"
+    },
+    {
+      "english": "Slow progress, is still progress.",
+      "polish": "Powolny postęp, to też postęp.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935510"
+    },
+    {
+      "english": "Listen to your body, always.",
+      "polish": "Słuchaj swojego ciała, zawsze.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935512"
+    },
+    {
+      "english": "Patience, is a difficult virtue.",
+      "polish": "Cierpliwość, to trudna cnota.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935515"
+    },
+    {
+      "english": "My feelings are valid, right now.",
+      "polish": "Moje uczucia są ważne, teraz.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935518"
+    },
+    {
+      "english": "I need to be kind, to myself.",
+      "polish": "Muszę być dla siebie łagodny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935520"
+    },
+    {
+      "english": "This moment, requires deep reflection.",
+      "polish": "Ta chwila, wymaga głębokiej refleksji.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935523"
+    },
+    {
+      "english": "It's okay, to not feel strong.",
+      "polish": "Nie szkodzi, nie czuć się silnym.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935528"
+    },
+    {
+      "english": "My emotions, are part of my strength.",
+      "polish": "Moje emocje, są częścią mojej siły.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935531"
+    },
+    {
+      "english": "I'm learning, to accept vulnerability.",
+      "polish": "Uczę się, akceptować wrażliwość.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935534"
+    },
+    {
+      "english": "What does strength, truly mean?",
+      "polish": "Co tak naprawdę, znaczy siła?",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935537"
+    },
+    {
+      "english": "Honesty with myself, is key.",
+      "polish": "Szczerość wobec siebie, to klucz.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935539"
+    },
+    {
+      "english": "I allow myself, to feel deeply.",
+      "polish": "Pozwalam sobie, czuć głęboko.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935542"
+    },
+    {
+      "english": "This inner quiet, brings strength.",
+      "polish": "Ta wewnętrzna cisza, daje siłę.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935545"
+    },
+    {
+      "english": "I can be gentle, and still strong.",
+      "polish": "Mogę być delikatny, i wciąż silny.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935547"
+    },
+    {
+      "english": "Reflecting on growth, takes time.",
+      "polish": "Reflektowanie nad rozwojem, zajmuje czas.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935550"
+    },
+    {
+      "english": "Understanding myself, is my power.",
+      "polish": "Rozumienie siebie, to moja moc.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935553"
+    },
+    {
+      "english": "My resilience, grows with challenge.",
+      "polish": "Moja odporność, rośnie z wyzwaniem.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935555"
+    },
+    {
+      "english": "I embrace, my imperfections.",
+      "polish": "Akceptuję, swoje niedoskonałości.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935558"
+    },
+    {
+      "english": "This feeling, is temporary.",
+      "polish": "To uczucie, jest tymczasowe.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935560"
+    },
+    {
+      "english": "I trust the process, slowly.",
+      "polish": "Ufam procesowi, powoli.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935563"
+    },
+    {
+      "english": "My inner peace, is my shield.",
+      "polish": "Mój wewnętrzny spokój, to moja tarcza.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935566"
+    },
+    {
+      "english": "I choose to be patient, today.",
+      "polish": "Wybieram być cierpliwym, dzisiaj.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935569"
+    },
+    {
+      "english": "My strength, comes from within.",
+      "polish": "Moja siła, pochodzi z wnętrza.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935571"
+    },
+    {
+      "english": "I'm learning, to let go.",
+      "polish": "Uczę się, odpuszczać.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935576"
+    },
+    {
+      "english": "This deep breath, helps me.",
+      "polish": "Ten głęboki oddech, pomaga mi.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935579"
+    },
+    {
+      "english": "My quiet moments, are my strength.",
+      "polish": "Moje ciche chwile, to moja siła.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935582"
+    },
+    {
+      "english": "Being honest, is liberating.",
+      "polish": "Bycie szczerym, wyzwala.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935584"
+    },
+    {
+      "english": "Take a deep breath, and begin.",
+      "polish": "Weź głęboki oddech, i zacznij.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935587"
+    },
+    {
+      "english": "Focus on the next small step.",
+      "polish": "Skup się na kolejnym małym kroku.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935589"
+    },
+    {
+      "english": "Ask for help, it's not weakness.",
+      "polish": "Poproś o pomoc, to nie słabość.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935592"
+    },
+    {
+      "english": "Share your burden, with a friend.",
+      "polish": "Podziel się ciężarem, z przyjacielem.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935595"
+    },
+    {
+      "english": "Celebrate small victories, every day.",
+      "polish": "Świętuj małe zwycięstwa, każdego dnia.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935598"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "polish": "Ucz się na błędach, nie rozpamiętuj.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935601"
+    },
+    {
+      "english": "Your perseverance, is inspiring others.",
+      "polish": "Twoja wytrwałość, inspiruje innych.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935617"
+    },
+    {
+      "english": "Be kind, even when it's hard.",
+      "polish": "Bądź miły, nawet gdy jest trudno.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935620"
+    },
+    {
+      "english": "Adapt to change, with courage.",
+      "polish": "Dostosuj się do zmian, z odwagą.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935622"
+    },
+    {
+      "english": "Build routines, for stability.",
+      "polish": "Buduj nawyki, dla stabilności.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935625"
+    },
+    {
+      "english": "Stay grounded, when things get crazy.",
+      "polish": "Zachowaj spokój, gdy wszystko szaleje.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935630"
+    },
+    {
+      "english": "Your resilience, is your superpower.",
+      "polish": "Twoja odporność, to twoja supermoc.",
+      "category": "Strength",
+      "generated_at": "2026-10-31T09:22:01.935635"
     }
   ],
-  "last_updated": "2026-10-30T09:42:29.038135"
+  "last_updated": "2026-10-31T09:22:01.935636"
 }
