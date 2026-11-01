@@ -10079,7 +10079,727 @@
       "polish": "Twoja odporność, to twoja supermoc.",
       "category": "Strength",
       "generated_at": "2026-10-31T09:22:01.935635"
+    },
+    {
+      "english": "Grow and learn, every day.",
+      "polish": "Rosnij i ucz się, każdego dnia.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768518"
+    },
+    {
+      "english": "Embrace new challenges, grow stronger.",
+      "polish": "Przyjmuj nowe wyzwania, stawiaj czoła.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768528"
+    },
+    {
+      "english": "Let's make progress together.",
+      "polish": "Róbmy postępy razem.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768530"
+    },
+    {
+      "english": "How can we improve this?",
+      "polish": "Jak możemy to ulepszyć?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768532"
+    },
+    {
+      "english": "We are on the right track.",
+      "polish": "Jesteśmy na dobrej drodze.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768534"
+    },
+    {
+      "english": "What have you learned today?",
+      "polish": "Czego się dziś nauczyłeś/nauczyłaś?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768536"
+    },
+    {
+      "english": "Focus on your goals, achieve them.",
+      "polish": "Skup się na celach, osiągnij je.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768538"
+    },
+    {
+      "english": "Are you ready for this?",
+      "polish": "Jesteś na to gotowy/gotowa?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768541"
+    },
+    {
+      "english": "Let's reach higher, always.",
+      "polish": "Sięgajmy wyżej, zawsze.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768544"
+    },
+    {
+      "english": "This idea has potential.",
+      "polish": "Ten pomysł ma potencjał.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768545"
+    },
+    {
+      "english": "Keep evolving, keep adapting.",
+      "polish": "Ewoluuj, adaptuj się.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768547"
+    },
+    {
+      "english": "What's the plan for growth?",
+      "polish": "Jaki jest plan na wzrost?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768549"
+    },
+    {
+      "english": "This is a learning experience.",
+      "polish": "To jest doświadczenie, które uczy.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768550"
+    },
+    {
+      "english": "Let's aim for excellence.",
+      "polish": "Dążmy do doskonałości.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768552"
+    },
+    {
+      "english": "Are we making progress?",
+      "polish": "Czy robimy postępy?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768553"
+    },
+    {
+      "english": "This is a chance to develop.",
+      "polish": "To szansa na rozwój.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768555"
+    },
+    {
+      "english": "Think bigger, act bolder.",
+      "polish": "Myśl szerzej, działaj śmielej.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768556"
+    },
+    {
+      "english": "What's new and exciting?",
+      "polish": "Co jest nowego i ekscytującego?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768558"
+    },
+    {
+      "english": "This will help us grow.",
+      "polish": "To nam pomoże rosnąć.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768559"
+    },
+    {
+      "english": "Keep refining your skills.",
+      "polish": "Doskonal swoje umiejętności.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768562"
+    },
+    {
+      "english": "This is a moment for change.",
+      "polish": "To moment na zmianę.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768564"
+    },
+    {
+      "english": "Let's achieve great things.",
+      "polish": "Osiągnijmy wielkie rzeczy.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768565"
+    },
+    {
+      "english": "What's your next step, ideally?",
+      "polish": "Jaki jest Twój następny krok, idealnie?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768567"
+    },
+    {
+      "english": "What's holding us back, do you think?",
+      "polish": "Co nas powstrzymuje, Twoim zdaniem?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768569"
+    },
+    {
+      "english": "Can you explain that idea further?",
+      "polish": "Czy możesz rozwinąć tamten pomysł?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768571"
+    },
+    {
+      "english": "Where should we focus our energy?",
+      "polish": "Gdzie powinniśmy skupić naszą energię?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768573"
+    },
+    {
+      "english": "What are your thoughts on this direction?",
+      "polish": "Jakie są Twoje przemyślenia o tym kierunku?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768574"
+    },
+    {
+      "english": "Is there a better way to approach this?",
+      "polish": "Czy jest lepszy sposób, by to podejść?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768576"
+    },
+    {
+      "english": "What's one thing we could try differently?",
+      "polish": "Co jest jedną rzeczą, którą moglibyśmy spróbować inaczej?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768579"
+    },
+    {
+      "english": "How can we make this more effective?",
+      "polish": "Jak możemy uczynić to bardziej efektywnym?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768581"
+    },
+    {
+      "english": "What feedback do you have for me?",
+      "polish": "Jaką masz opinię dla mnie?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768583"
+    },
+    {
+      "english": "Are we considering all the options?",
+      "polish": "Czy rozważamy wszystkie opcje?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768584"
+    },
+    {
+      "english": "What are the potential risks involved?",
+      "polish": "Jakie są potencjalne ryzyka w tym?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768586"
+    },
+    {
+      "english": "Who else should we consult on this?",
+      "polish": "Z kim jeszcze powinniśmy się skonsultować w tej sprawie?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768587"
+    },
+    {
+      "english": "What's the most important takeaway here?",
+      "polish": "Co jest najważniejszą lekcją stąd?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768589"
+    },
+    {
+      "english": "How do you measure success in this?",
+      "polish": "Jak mierzysz sukces w tym?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768594"
+    },
+    {
+      "english": "What inspires you most about this?",
+      "polish": "Co Cię najbardziej inspiruje w tym?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768595"
+    },
+    {
+      "english": "Can we break this down further?",
+      "polish": "Czy możemy to rozbić na mniejsze części?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768597"
+    },
+    {
+      "english": "What did you learn from that setback?",
+      "polish": "Czego nauczyłeś się z tamtej porażki?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768598"
+    },
+    {
+      "english": "What are your expectations for this project?",
+      "polish": "Jakie są Twoje oczekiwania wobec tego projektu?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768600"
+    },
+    {
+      "english": "How can we build on this momentum?",
+      "polish": "Jak możemy zbudować na tym impet?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768601"
+    },
+    {
+      "english": "What resources do we still need?",
+      "polish": "Jakich zasobów nadal potrzebujemy?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768603"
+    },
+    {
+      "english": "What's the biggest opportunity here?",
+      "polish": "Jaka jest tutaj największa szansa?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768605"
+    },
+    {
+      "english": "How do you suggest we handle this?",
+      "polish": "Jak proponujesz, żebyśmy to załatwili?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768606"
+    },
+    {
+      "english": "What's the desired outcome, ultimately?",
+      "polish": "Jaki jest pożądany rezultat, ostatecznie?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768608"
+    },
+    {
+      "english": "What questions do you still have?",
+      "polish": "Jakie pytania nadal masz?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768610"
+    },
+    {
+      "english": "How can we collaborate more effectively?",
+      "polish": "Jak możemy współpracować efektywniej?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768611"
+    },
+    {
+      "english": "What lessons can we apply elsewhere?",
+      "polish": "Jakie lekcje możemy zastosować gdzie indziej?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768613"
+    },
+    {
+      "english": "What's your advice on moving forward?",
+      "polish": "Jaka jest Twoja rada dotycząca dalszego postępu?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768614"
+    },
+    {
+      "english": "Are there any alternative perspectives?",
+      "polish": "Czy są jakieś alternatywne perspektywy?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768616"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "polish": "Każdego dnia, ucz się czegoś nowego.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768618"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "polish": "Twój potencjał jest nieograniczony.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768619"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "polish": "Nie bój się błędów, ucz się na nich.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768621"
+    },
+    {
+      "english": "Keep pushing your boundaries.",
+      "polish": "Przesuwaj swoje granice.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768623"
+    },
+    {
+      "english": "Embrace the journey, not just the destination.",
+      "polish": "Pokochaj podróż, nie tylko cel.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768624"
+    },
+    {
+      "english": "Your progress is inspiring.",
+      "polish": "Twój postęp jest inspirujący.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768626"
+    },
+    {
+      "english": "Challenge yourself daily.",
+      "polish": "Wyzwania siebie codziennie.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768628"
+    },
+    {
+      "english": "Your effort is noticed.",
+      "polish": "Twój wysiłek jest zauważony.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768629"
+    },
+    {
+      "english": "Growth happens outside comfort zones.",
+      "polish": "Rozwój dzieje się poza strefą komfortu.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768631"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "polish": "Utrzymaj tę pozytywną postawę.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768634"
+    },
+    {
+      "english": "Keep your goals in sight.",
+      "polish": "Miej swoje cele na widoku.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768635"
+    },
+    {
+      "english": "Persistence pays off.",
+      "polish": "Wytrwałość popłaca.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768637"
+    },
+    {
+      "english": "Visualize success, achieve it.",
+      "polish": "Wizualizuj sukces, osiągnij go.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768638"
+    },
+    {
+      "english": "This is your time to shine.",
+      "polish": "To jest twój czas, by zabłysnąć.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768640"
+    },
+    {
+      "english": "Keep moving forward.",
+      "polish": "Idź naprzód.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768641"
+    },
+    {
+      "english": "You are growing every moment.",
+      "polish": "Rośniesz w każdym momencie.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768643"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "polish": "Przyjmuj wyzwania z odwagą.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768645"
+    },
+    {
+      "english": "Your mindset shapes your reality.",
+      "polish": "Twój umysł kształtuje twoją rzeczywistość.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768648"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "polish": "Niech ta iskra żyje.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768649"
+    },
+    {
+      "english": "Let's put our heads together.",
+      "polish": "Połączmy siły, pogłówkujmy razem.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768651"
+    },
+    {
+      "english": "It's all part of the process.",
+      "polish": "To wszystko część procesu.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768652"
+    },
+    {
+      "english": "Rome wasn't built in a day.",
+      "polish": "Nie od razu Kraków zbudowano.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768654"
+    },
+    {
+      "english": "You've really come a long way.",
+      "polish": "Zrobiłeś naprawdę duży postęp.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768656"
+    },
+    {
+      "english": "Don't bite off more than you can chew.",
+      "polish": "Nie porywaj się z motyką na słońce.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768658"
+    },
+    {
+      "english": "This is a learning curve, you know.",
+      "polish": "To jest krzywa uczenia się, wiesz.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768660"
+    },
+    {
+      "english": "Let's brainstorm some new ideas.",
+      "polish": "Zróbmy burzę mózgów.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768662"
+    },
+    {
+      "english": "Things are looking up now.",
+      "polish": "Teraz sprawy idą ku lepszemu.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768663"
+    },
+    {
+      "english": "Let's keep the ball rolling.",
+      "polish": "Niech akcja trwa.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768665"
+    },
+    {
+      "english": "Slow and steady wins the race.",
+      "polish": "Powoli do celu.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768666"
+    },
+    {
+      "english": "We're making headway.",
+      "polish": "Robimy postępy.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768668"
+    },
+    {
+      "english": "That's a good point, well made.",
+      "polish": "To dobry punkt, dobrze powiedziane.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768669"
+    },
+    {
+      "english": "We need to think outside the box.",
+      "polish": "Musimy myśleć nieszablonowo.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768671"
+    },
+    {
+      "english": "This is a marathon, not a sprint.",
+      "polish": "To jest maraton, nie sprint.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768672"
+    },
+    {
+      "english": "Let's not reinvent the wheel.",
+      "polish": "Nie wymyślajmy koła na nowo.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768674"
+    },
+    {
+      "english": "You're growing like a weed.",
+      "polish": "Rośniesz jak na drożdżach.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768675"
+    },
+    {
+      "english": "This requires some serious thought.",
+      "polish": "To wymaga poważnego namysłu.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768677"
+    },
+    {
+      "english": "Let's pick up the pace.",
+      "polish": "Przyspieszmy trochę.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768678"
+    },
+    {
+      "english": "We're building something great here.",
+      "polish": "Budujemy tu coś wspaniałego.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768680"
+    },
+    {
+      "english": "Let's aim for the stars.",
+      "polish": "Celujmy wysoko.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768683"
+    },
+    {
+      "english": "It takes time to master skills.",
+      "polish": "Mistrzostwo wymaga czasu.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768684"
+    },
+    {
+      "english": "Let's follow best practices.",
+      "polish": "Stosujmy najlepsze praktyki.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768686"
+    },
+    {
+      "english": "We're moving in the right direction.",
+      "polish": "Idziemy we właściwym kierunku.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768687"
+    },
+    {
+      "english": "Let's not get ahead of ourselves.",
+      "polish": "Nie wyprzedzajmy wydarzeń.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768690"
+    },
+    {
+      "english": "Let's be honest, with ourselves.",
+      "polish": "Bądźmy szczerzy, ze sobą.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768692"
+    },
+    {
+      "english": "This takes patience, and understanding.",
+      "polish": "To wymaga cierpliwości, i zrozumienia.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768694"
+    },
+    {
+      "english": "I'm reflecting, on my journey.",
+      "polish": "Reflektuję, nad swoją drogą.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768695"
+    },
+    {
+      "english": "What truly matters, to you?",
+      "polish": "Co naprawdę się liczy, dla ciebie?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768697"
+    },
+    {
+      "english": "My feelings, are valid.",
+      "polish": "Moje uczucia, są ważne.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768699"
+    },
+    {
+      "english": "Learning takes, a lot of heart.",
+      "polish": "Nauka wymaga, dużo serca.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768700"
+    },
+    {
+      "english": "I need, some time to process.",
+      "polish": "Potrzebuję, trochę czasu na przetworzenie.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768703"
+    },
+    {
+      "english": "This moment, feels significant.",
+      "polish": "Ta chwila, wydaje się ważna.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768705"
+    },
+    {
+      "english": "I appreciate, your honesty.",
+      "polish": "Doceniam, twoją szczerość.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768706"
+    },
+    {
+      "english": "Letting go, is also growth.",
+      "polish": "Odpuścić, to też rozwój.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768708"
+    },
+    {
+      "english": "How do you feel, about this?",
+      "polish": "Jak się czujesz, z tym?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768709"
+    },
+    {
+      "english": "It's a deep, inner work.",
+      "polish": "To jest głęboka, wewnętrzna praca.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768711"
+    },
+    {
+      "english": "I'm learning, to trust myself.",
+      "polish": "Uczę się, ufać sobie.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768712"
+    },
+    {
+      "english": "This is about, inner peace.",
+      "polish": "Chodzi o, wewnętrzny spokój.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768714"
+    },
+    {
+      "english": "Can we talk, openly?",
+      "polish": "Możemy porozmawiać, otwarcie?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768716"
+    },
+    {
+      "english": "I'm feeling, much more hopeful.",
+      "polish": "Czuję się, o wiele bardziej pełen nadziei.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768717"
+    },
+    {
+      "english": "What's in your, heart today?",
+      "polish": "Co masz, w sercu dzisiaj?",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768722"
+    },
+    {
+      "english": "This requires, real introspection.",
+      "polish": "To wymaga, prawdziwej introspekcji.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768724"
+    },
+    {
+      "english": "I accept, my imperfections.",
+      "polish": "Akceptuję, swoje niedoskonałości.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768726"
+    },
+    {
+      "english": "Growth isn't, always easy.",
+      "polish": "Rozwój nie jest, zawsze łatwy.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768727"
+    },
+    {
+      "english": "Let's share, our true thoughts.",
+      "polish": "Podzielmy się, prawdziwymi myślami.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768729"
+    },
+    {
+      "english": "I'm working on, being present.",
+      "polish": "Pracuję nad, byciem obecnym.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768732"
+    },
+    {
+      "english": "I feel, a sense of calm.",
+      "polish": "Czuję, spokój.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768734"
+    },
+    {
+      "english": "Take small steps, daily.",
+      "polish": "Rób małe kroki, codziennie.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768735"
+    },
+    {
+      "english": "Ask for help, it's smart.",
+      "polish": "Proś o pomoc, to mądre.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768737"
+    },
+    {
+      "english": "Find your motivation, daily.",
+      "polish": "Znajdź swoją motywację, codziennie.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768738"
+    },
+    {
+      "english": "Celebrate small wins, you deserve it.",
+      "polish": "Świętuj małe sukcesy, zasługujesz na to.",
+      "category": "Growth",
+      "generated_at": "2026-11-01T10:11:11.768740"
     }
   ],
-  "last_updated": "2026-10-31T09:22:01.935636"
+  "last_updated": "2026-11-01T10:11:11.768741"
 }
