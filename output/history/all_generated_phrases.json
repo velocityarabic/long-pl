@@ -10799,7 +10799,727 @@
       "polish": "Świętuj małe sukcesy, zasługujesz na to.",
       "category": "Growth",
       "generated_at": "2026-11-01T10:11:11.768740"
+    },
+    {
+      "english": "Hello there, I need help.",
+      "polish": "Dzień dobry, potrzebuję pomocy.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551177"
+    },
+    {
+      "english": "Excuse me, where is...?",
+      "polish": "Przepraszam, gdzie jest...?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551190"
+    },
+    {
+      "english": "Do you speak English?",
+      "polish": "Czy mówisz po angielsku?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551194"
+    },
+    {
+      "english": "I don't understand.",
+      "polish": "Nie rozumiem.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551197"
+    },
+    {
+      "english": "Thank you very much.",
+      "polish": "Dziękuję bardzo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551202"
+    },
+    {
+      "english": "You're welcome.",
+      "polish": "Proszę bardzo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551205"
+    },
+    {
+      "english": "Where is the toilet?",
+      "polish": "Gdzie jest toaleta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551208"
+    },
+    {
+      "english": "I have a reservation.",
+      "polish": "Mam rezerwację.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551213"
+    },
+    {
+      "english": "My flight is delayed.",
+      "polish": "Mój lot jest opóźniony.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551217"
+    },
+    {
+      "english": "Where can I find gate...?",
+      "polish": "Gdzie znajdę bramkę...?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551220"
+    },
+    {
+      "english": "I need a taxi.",
+      "polish": "Potrzebuję taksówki.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551223"
+    },
+    {
+      "english": "Take me to this address.",
+      "polish": "Proszę zawieźć mnie pod ten adres.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551225"
+    },
+    {
+      "english": "I'm looking for my hotel.",
+      "polish": "Szukam mojego hotelu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551228"
+    },
+    {
+      "english": "It's too expensive.",
+      "polish": "To jest za drogie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551230"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "polish": "Gdzie mogę wymienić pieniądze?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551233"
+    },
+    {
+      "english": "A ticket to Warsaw, please.",
+      "polish": "Bilet do Warszawy, proszę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551236"
+    },
+    {
+      "english": "What platform is it?",
+      "polish": "Na którym peronie?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551238"
+    },
+    {
+      "english": "I need to check in.",
+      "polish": "Muszę się zameldować.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551241"
+    },
+    {
+      "english": "Where is baggage claim?",
+      "polish": "Gdzie jest odbiór bagażu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551245"
+    },
+    {
+      "english": "Have a nice trip!",
+      "polish": "Miłej podróży!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551248"
+    },
+    {
+      "english": "Could you point me, in the right direction?",
+      "polish": "Czy mógłbyś mi wskazać, właściwy kierunek?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551251"
+    },
+    {
+      "english": "What time, does the next train leave?",
+      "polish": "O której godzinie, odjeżdża następny pociąg?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551256"
+    },
+    {
+      "english": "What's the Wi-Fi password, here?",
+      "polish": "Jakie jest hasło, do Wi-Fi tutaj?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551260"
+    },
+    {
+      "english": "Where can I buy, a local SIM card?",
+      "polish": "Gdzie mogę kupić, lokalną kartę SIM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551263"
+    },
+    {
+      "english": "Could you recommend, a good restaurant?",
+      "polish": "Czy mógłbyś polecić, dobrą restaurację?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551266"
+    },
+    {
+      "english": "How far is it, to the city center?",
+      "polish": "Jak daleko jest, do centrum miasta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551269"
+    },
+    {
+      "english": "Is there a bus, that goes there?",
+      "polish": "Czy jest autobus, który tam jedzie?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551272"
+    },
+    {
+      "english": "What time, should I leave for the airport?",
+      "polish": "O której godzinie, powinnam wyjechać na lotnisko?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551275"
+    },
+    {
+      "english": "Can I get, some water, please?",
+      "polish": "Czy mogę dostać, trochę wody, proszę?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551278"
+    },
+    {
+      "english": "Which way, to the check-in desks?",
+      "polish": "Którędy, do stanowisk odprawy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551281"
+    },
+    {
+      "english": "Do you have, a map of the area?",
+      "polish": "Czy macie mapę, okolicy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551283"
+    },
+    {
+      "english": "Could you repeat that, more slowly?",
+      "polish": "Czy mógłbyś powtórzyć, wolniej?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551286"
+    },
+    {
+      "english": "Where is the nearest, ATM machine?",
+      "polish": "Gdzie jest najbliższy, bankomat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551289"
+    },
+    {
+      "english": "What is this, called in Polish?",
+      "polish": "Jak to się nazywa, po polsku?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551292"
+    },
+    {
+      "english": "Is it safe, to walk around here?",
+      "polish": "Czy bezpiecznie jest, spacerować tutaj?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551296"
+    },
+    {
+      "english": "Where can I get, some local currency?",
+      "polish": "Gdzie mogę wymienić, lokalną walutę?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551299"
+    },
+    {
+      "english": "What's the best way, to get around?",
+      "polish": "Jaki jest najlepszy sposób, na poruszanie się?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551302"
+    },
+    {
+      "english": "Could you help me, with my luggage?",
+      "polish": "Czy mógłbyś mi pomóc, z moim bagażem?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551304"
+    },
+    {
+      "english": "Where is the departure, gate number?",
+      "polish": "Gdzie jest numer, bramki odlotu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551307"
+    },
+    {
+      "english": "What is the time difference, here?",
+      "polish": "Jaka jest różnica, czasu tutaj?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551310"
+    },
+    {
+      "english": "Do you have, any recommendations, for souvenirs?",
+      "polish": "Czy masz jakieś rekomendacje, na pamiątki?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551313"
+    },
+    {
+      "english": "How much is, a one-way ticket?",
+      "polish": "Ile kosztuje, bilet w jedną stronę?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551316"
+    },
+    {
+      "english": "Can I take photos, here?",
+      "polish": "Czy mogę robić zdjęcia, tutaj?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551319"
+    },
+    {
+      "english": "Where can I find, a taxi stand?",
+      "polish": "Gdzie znajdę, postój taksówek?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551322"
+    },
+    {
+      "english": "What's the local currency, called?",
+      "polish": "Jak nazywa się, lokalna waluta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551324"
+    },
+    {
+      "english": "Could you write that, down for me?",
+      "polish": "Czy mógłbyś to, dla mnie zapisać?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551327"
+    },
+    {
+      "english": "Are there any, direct buses?",
+      "polish": "Czy są jakieś, bezpośrednie autobusy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551330"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "polish": "Dasz radę, uwierz w siebie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551333"
+    },
+    {
+      "english": "Every step forward, is progress.",
+      "polish": "Każdy krok naprzód, to postęp.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551335"
+    },
+    {
+      "english": "Embrace the adventure, with a smile.",
+      "polish": "Przyjmij przygodę, z uśmiechem.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551338"
+    },
+    {
+      "english": "This is a learning experience, enjoy it.",
+      "polish": "To jest lekcja, ciesz się nią.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551343"
+    },
+    {
+      "english": "You're so brave, exploring new places.",
+      "polish": "Jesteś taka odważna, odkrywasz nowe miejsca.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551346"
+    },
+    {
+      "english": "Fantastic effort, truly impressive.",
+      "polish": "Fantastyczny wysiłek, naprawdę imponujący.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551349"
+    },
+    {
+      "english": "What a wonderful attitude, you have.",
+      "polish": "Co za wspaniałe podejście, masz.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551352"
+    },
+    {
+      "english": "You're handling this, like a pro.",
+      "polish": "Radzisz sobie z tym, jak zawodowiec.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551354"
+    },
+    {
+      "english": "You can do anything, you set your mind to.",
+      "polish": "Możesz zrobić wszystko, na co masz ochotę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551357"
+    },
+    {
+      "english": "Keep that spirit, alive and well.",
+      "polish": "Utrzymaj tego ducha, żywego i zdrowego.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551360"
+    },
+    {
+      "english": "You're so inspiring, thank you.",
+      "polish": "Jesteś tak inspirujący, dziękuję.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551363"
+    },
+    {
+      "english": "Confidence is key, you've got it.",
+      "polish": "Pewność siebie jest kluczem, masz ją.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551366"
+    },
+    {
+      "english": "Making memories, that's the goal.",
+      "polish": "Tworzenie wspomnień, to jest cel.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551369"
+    },
+    {
+      "english": "Stay curious, stay adventurous.",
+      "polish": "Bądź ciekawy/ciekawa, bądź żądny przygód.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551372"
+    },
+    {
+      "english": "This journey, is yours to own.",
+      "polish": "Ta podróż, należy do ciebie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551374"
+    },
+    {
+      "english": "You're handling it, with grace.",
+      "polish": "Radzisz sobie z tym, z gracją.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551377"
+    },
+    {
+      "english": "Every challenge, makes you stronger.",
+      "polish": "Każde wyzwanie, czyni cię silniejszym/silniejszą.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551380"
+    },
+    {
+      "english": "Believe in the magic, of travel.",
+      "polish": "Uwierz w magię, podróżowania.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551383"
+    },
+    {
+      "english": "Great job, on navigating that.",
+      "polish": "Świetna robota, z nawigacją tego.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551385"
+    },
+    {
+      "english": "You're adapting, so well.",
+      "polish": "Tak dobrze się adaptujesz.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551388"
+    },
+    {
+      "english": "You're capable, of anything.",
+      "polish": "Jesteś zdolny/zdolna, do wszystkiego.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551393"
+    },
+    {
+      "english": "Enjoy the ride, it's worth it.",
+      "polish": "Ciesz się podróżą, warto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551396"
+    },
+    {
+      "english": "Catch you, on the flip side!",
+      "polish": "Złapiemy się, po drugiej stronie!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551399"
+    },
+    {
+      "english": "Don't get lost, in translation.",
+      "polish": "Nie zgub się, w tłumaczeniu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551402"
+    },
+    {
+      "english": "That's a good omen, for the trip.",
+      "polish": "To dobry znak, na wyjazd.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551404"
+    },
+    {
+      "english": "It's a small world, isn't it?",
+      "polish": "Mały świat, prawda?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551408"
+    },
+    {
+      "english": "Better late, than never.",
+      "polish": "Lepiej późno, niż wcale.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551410"
+    },
+    {
+      "english": "No pain, no gain.",
+      "polish": "Bez pracy, nie ma kołaczy.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551413"
+    },
+    {
+      "english": "A picture, is worth a thousand words.",
+      "polish": "Obraz wart, tysiąc słów.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551416"
+    },
+    {
+      "english": "When in Rome, do as the Romans do.",
+      "polish": "Gdzie Rzym, tam zwyczaj.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551418"
+    },
+    {
+      "english": "Let's cross that bridge, when we come to it.",
+      "polish": "Tym się martw, jak przyjdzie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551421"
+    },
+    {
+      "english": "It takes two to tango.",
+      "polish": "Do tanga, trzeba dwojga.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551424"
+    },
+    {
+      "english": "The early bird, catches the worm.",
+      "polish": "Kto rano wstaje, temu Pan Bóg daje.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551427"
+    },
+    {
+      "english": "Actions speak, louder than words.",
+      "polish": "Czyny mówią, więcej niż słowa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551430"
+    },
+    {
+      "english": "Ignorance, is bliss.",
+      "polish": "Co z oczu, to z serca.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551434"
+    },
+    {
+      "english": "It's not rocket science.",
+      "polish": "To nie fizyka kwantowa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551437"
+    },
+    {
+      "english": "Let's play it, by ear.",
+      "polish": "Zagrajmy, na słuch.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551441"
+    },
+    {
+      "english": "Don't count your chickens, before they hatch.",
+      "polish": "Nie dziel skóry, na niedźwiedziu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551445"
+    },
+    {
+      "english": "We'll cross that bridge, when we get there.",
+      "polish": "Dojdziemy, do tego później.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551448"
+    },
+    {
+      "english": "Let's wing it, shall we?",
+      "polish": "Zaryzykujmy, co?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551450"
+    },
+    {
+      "english": "You can't judge a book, by its cover.",
+      "polish": "Nie oceniaj książki, po okładce.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551455"
+    },
+    {
+      "english": "It's a win-win situation.",
+      "polish": "To sytuacja, wygrana-wygrana.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551458"
+    },
+    {
+      "english": "A bird in the hand, is worth two in the bush.",
+      "polish": "Lepszy wróbel, w garści, niż gołąb, na dachu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551461"
+    },
+    {
+      "english": "That's the way, the cookie crumbles.",
+      "polish": "Takie życie, nic nie poradzisz.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551464"
+    },
+    {
+      "english": "Let's see, what tomorrow brings.",
+      "polish": "Zobaczymy, co jutro przyniesie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551467"
+    },
+    {
+      "english": "It's a small world, after all.",
+      "polish": "Mały świat, jednak.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551469"
+    },
+    {
+      "english": "You snooze, you lose.",
+      "polish": "Kto śpi, ten traci.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551472"
+    },
+    {
+      "english": "It's all water, under the bridge.",
+      "polish": "To już przeszłość, zapomnijmy.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551475"
+    },
+    {
+      "english": "This experience, changed me deeply.",
+      "polish": "To doświadczenie, zmieniło mnie głęboko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551478"
+    },
+    {
+      "english": "I feel a strange peace, here.",
+      "polish": "Czuję tu dziwny spokój.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551480"
+    },
+    {
+      "english": "Sometimes, you just need to wait.",
+      "polish": "Czasem, po prostu trzeba poczekać.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551483"
+    },
+    {
+      "english": "This delay, is testing my patience.",
+      "polish": "To opóźnienie, wystawia moją cierpliwość na próbę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551488"
+    },
+    {
+      "english": "I'm reflecting, on the journey so far.",
+      "polish": "Reflektuję, nad dotychczasową podróżą.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551491"
+    },
+    {
+      "english": "What a moment, for true understanding.",
+      "polish": "Co za moment, na prawdziwe zrozumienie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551494"
+    },
+    {
+      "english": "It’s good to be, truly present.",
+      "polish": "Dobrze jest być, naprawdę obecnym.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551498"
+    },
+    {
+      "english": "This quiet, feels very meaningful.",
+      "polish": "Ta cisza, wydaje się bardzo znacząca.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551500"
+    },
+    {
+      "english": "I hope, we all find clarity.",
+      "polish": "Mam nadzieję, że wszyscy odnajdziemy jasność.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551503"
+    },
+    {
+      "english": "Let’s appreciate, these small joys.",
+      "polish": "Doceniajmy, te małe radości.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551507"
+    },
+    {
+      "english": "My heart feels full, with gratitude.",
+      "polish": "Moje serce czuje się pełne, wdzięczności.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551510"
+    },
+    {
+      "english": "This journey, teaches me humility.",
+      "polish": "Ta podróż, uczy mnie pokory.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551512"
+    },
+    {
+      "english": "I’m thinking, about where I came from.",
+      "polish": "Myślę, skąd pochodzę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551516"
+    },
+    {
+      "english": "It’s a chance, for honest reflection.",
+      "polish": "To szansa, na szczerą refleksję.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551519"
+    },
+    {
+      "english": "I need more time, to process this.",
+      "polish": "Potrzebuję więcej czasu, żeby to przetworzyć.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551522"
+    },
+    {
+      "english": "Patience is, a virtue I’m learning.",
+      "polish": "Cierpliwość jest, cnotą, której się uczę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551525"
+    },
+    {
+      "english": "This waiting, gives me perspective.",
+      "polish": "To czekanie, daje mi perspektywę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551528"
+    },
+    {
+      "english": "Let’s embrace, the unknown future.",
+      "polish": "Przyjmijmy, nieznaną przyszłość.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551531"
+    },
+    {
+      "english": "This moment, is incredibly significant.",
+      "polish": "Ta chwila, jest niesamowicie znacząca.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551536"
+    },
+    {
+      "english": "I’m feeling quite thoughtful, today.",
+      "polish": "Czuję się dziś dość zamyślony.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551539"
+    },
+    {
+      "english": "It’s important, to be kind to yourself.",
+      "polish": "Ważne jest, żeby być dla siebie dobrym.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551542"
+    },
+    {
+      "english": "This adventure, requires my calm.",
+      "polish": "Ta przygoda, wymaga mojego spokoju.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551545"
+    },
+    {
+      "english": "This travel, is a gift, really.",
+      "polish": "Ta podróż, to prezent, naprawdę.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551548"
+    },
+    {
+      "english": "Let’s allow, for unexpected turns.",
+      "polish": "Pozwólmy, na nieoczekiwane zwroty akcji.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551551"
+    },
+    {
+      "english": "I’m finding strength, in stillness.",
+      "polish": "Odnajduję siłę, w bezruchu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:40:26.551554"
     }
   ],
-  "last_updated": "2026-11-01T10:11:11.768741"
+  "last_updated": "2026-11-02T10:40:26.551556"
 }
