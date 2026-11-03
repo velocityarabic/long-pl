@@ -11519,7 +11519,727 @@
       "polish": "Odnajduję siłę, w bezruchu.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-02T10:40:26.551554"
+    },
+    {
+      "english": "Okay, breathe first, then choose the next step.",
+      "polish": "Dobra, najpierw oddychaj, potem wybierz krok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667404"
+    },
+    {
+      "english": "I’m proud of you, keep going, seriously.",
+      "polish": "Jestem z ciebie dumny, jedź dalej, serio.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667419"
+    },
+    {
+      "english": "Wait, think twice, you’ve got this.",
+      "polish": "Chwila, pomyśl dwa razy, dasz radę.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667422"
+    },
+    {
+      "english": "Let’s be honest, I need to focus.",
+      "polish": "Bądźmy szczerzy, muszę się skupić.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667425"
+    },
+    {
+      "english": "Not bad, slow down, then try again.",
+      "polish": "Nieźle, zwolnij, i spróbuj jeszcze raz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667428"
+    },
+    {
+      "english": "Tell me the truth, what’s holding you back?",
+      "polish": "Powiedz prawdę, co cię trzyma?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667433"
+    },
+    {
+      "english": "I like your vibe, stay confident today.",
+      "polish": "Lubię twój vibe, bądź dziś pewny.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667438"
+    },
+    {
+      "english": "Come on, don’t quit, just adjust.",
+      "polish": "Dawaj, nie znikaj, tylko popraw kierunek.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667443"
+    },
+    {
+      "english": "Hold up, that thought’s too heavy, okay?",
+      "polish": "Chwileczkę, ta myśl jest za ciężka, okej?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667446"
+    },
+    {
+      "english": "Yes, move your body, you’ll feel better.",
+      "polish": "Tak, rusz się, od razu będzie lżej.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667449"
+    },
+    {
+      "english": "I’m listening, speak up, I’m here.",
+      "polish": "Słucham cię, mów śmiało, jestem tu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667452"
+    },
+    {
+      "english": "That’s progress, don’t downplay it, please.",
+      "polish": "To postęp, nie umniejszaj, proszę.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667455"
+    },
+    {
+      "english": "Let it go, we’re restarting right now.",
+      "polish": "Opuść to, teraz zaczynamy od nowa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667458"
+    },
+    {
+      "english": "Quick check-in, are you okay right now?",
+      "polish": "Szybki check, jesteś teraz okej?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667461"
+    },
+    {
+      "english": "Say it softly, then act, no drama.",
+      "polish": "Powiedz spokojnie, a potem działaj, bez dramatu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667463"
+    },
+    {
+      "english": "You’re overthinking, chill, take one step.",
+      "polish": "Za dużo myślisz, ogarnij się, zrób krok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667466"
+    },
+    {
+      "english": "I believe in you, keep it simple.",
+      "polish": "Wierzę w ciebie, trzymaj to prosto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667468"
+    },
+    {
+      "english": "Before you react, pause, then respond kindly.",
+      "polish": "Zanim zareagujesz, zrób pauzę, odpowiedz miło.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667472"
+    },
+    {
+      "english": "I got you, breathe, and start fresh.",
+      "polish": "Jestem z tobą, oddychaj, zaczynaj od nowa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667475"
+    },
+    {
+      "english": "Focus on one thing, do it now.",
+      "polish": "Skup się na jednym, zrób to teraz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667477"
+    },
+    {
+      "english": "You can say no, it’s okay.",
+      "polish": "Możesz odmówić, to nic złego.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667479"
+    },
+    {
+      "english": "Make it small, win today, repeat tomorrow.",
+      "polish": "Zrób to małe, wygrywaj dziś, jutro też.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667482"
+    },
+    {
+      "english": "I’m proud, but don’t stop, okay?",
+      "polish": "Jestem dumny, ale nie zwalniaj, okej?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667484"
+    },
+    {
+      "english": "Let’s talk, I’m curious about your goals.",
+      "polish": "Pogadajmy, jestem ciekaw twoich celów.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667487"
+    },
+    {
+      "english": "No excuses, choose action, even scared.",
+      "polish": "Bez wymówek, wybierz działanie, nawet ze strachem.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667490"
+    },
+    {
+      "english": "I’ll help you, tell me what you need.",
+      "polish": "Pomogę ci, powiedz, czego potrzebujesz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667492"
+    },
+    {
+      "english": "Stay present, this moment is yours.",
+      "polish": "Bądź tu i teraz, ten moment jest twój.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667494"
+    },
+    {
+      "english": "That’s enough, now rest, you earned it.",
+      "polish": "Wystarczy, teraz odpocznij, zasłużyłaś.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667497"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning.",
+      "polish": "Bądź dla siebie dobra, uczysz się.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667500"
+    },
+    {
+      "english": "Deal, small steps, and we’ll get there.",
+      "polish": "Dobra, małe kroki, i dojdziemy.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667502"
+    },
+    {
+      "english": "What’s your biggest challenge lately, be real?",
+      "polish": "Co ostatnio jest twoim największym wyzwaniem, mów szczerze?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667506"
+    },
+    {
+      "english": "How do you usually calm down quickly?",
+      "polish": "Jak zwykle szybko się uspokajasz?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667508"
+    },
+    {
+      "english": "Which habit do you want to change first?",
+      "polish": "Jaki nawyk chcesz zmienić najpierw?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667510"
+    },
+    {
+      "english": "What’s stopping you, and what helps?",
+      "polish": "Co cię blokuje, a co pomaga?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667513"
+    },
+    {
+      "english": "Can you give me one clear example?",
+      "polish": "Możesz podać jeden konkretny przykład?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667515"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "polish": "Chcesz rady, czy tylko żeby cię wysłuchać?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667517"
+    },
+    {
+      "english": "What goal feels realistic for this week?",
+      "polish": "Jaki cel jest realny na ten tydzień?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667519"
+    },
+    {
+      "english": "How would you answer yourself, honestly?",
+      "polish": "Jak byś odpowiedział(a) sobie, szczerze?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667521"
+    },
+    {
+      "english": "When do you feel most motivated?",
+      "polish": "Kiedy czujesz się najbardziej zmotywowany(a)?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667524"
+    },
+    {
+      "english": "What would make today easier, small steps?",
+      "polish": "Co sprawiłoby, że dziś będzie łatwiej, małymi krokami?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667526"
+    },
+    {
+      "english": "Should we plan, or just start right now?",
+      "polish": "Planować, czy po prostu zacząć teraz?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667528"
+    },
+    {
+      "english": "What do you need to hear today?",
+      "polish": "Co dzisiaj musisz usłyszeć?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667530"
+    },
+    {
+      "english": "Which part is hardest for you, really?",
+      "polish": "Która część jest dla ciebie najtrudniejsza?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667532"
+    },
+    {
+      "english": "Do you track progress, or wing it?",
+      "polish": "Śledzisz postępy, czy działasz na czuja?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667534"
+    },
+    {
+      "english": "What’s one thing you can do today?",
+      "polish": "Co jednego możesz zrobić dzisiaj?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667537"
+    },
+    {
+      "english": "Are you choosing growth, or comfort?",
+      "polish": "Wybierasz rozwój, czy wygodę?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667539"
+    },
+    {
+      "english": "What helps you stay consistent, even busy?",
+      "polish": "Co pomaga ci trzymać rytm, nawet gdy jesteś zajęty(a)?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667543"
+    },
+    {
+      "english": "Can we make a tiny plan together?",
+      "polish": "Zrobimy razem mały plan?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667545"
+    },
+    {
+      "english": "What’s your next step, after this chat?",
+      "polish": "Jaki będzie twój kolejny krok po tej rozmowie?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667548"
+    },
+    {
+      "english": "Where do you get stuck, thoughts or actions?",
+      "polish": "Gdzie się blokujesz, w myślach czy w działaniu?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667551"
+    },
+    {
+      "english": "Do you want accountability, or gentle reminders?",
+      "polish": "Potrzebujesz odpowiedzialności, czy delikatnych przypomnień?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667554"
+    },
+    {
+      "english": "What’s your biggest win from last week?",
+      "polish": "Jaki był twój największy sukces w zeszłym tygodniu?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667556"
+    },
+    {
+      "english": "How can we turn excuses into action?",
+      "polish": "Jak zamienić wymówki w konkretne działanie?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667558"
+    },
+    {
+      "english": "Do you need rest, or more structure?",
+      "polish": "Potrzebujesz odpoczynku, czy lepszej struktury?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667560"
+    },
+    {
+      "english": "What’s one belief you want to rework?",
+      "polish": "W jakim przekonaniu chcesz zrobić zmianę?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667564"
+    },
+    {
+      "english": "Can you say what you really want?",
+      "polish": "Powiesz, czego naprawdę chcesz?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667567"
+    },
+    {
+      "english": "If we start now, what will you do first?",
+      "polish": "Jeśli zaczniemy teraz, co zrobisz jako pierwsze?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667569"
+    },
+    {
+      "english": "How do you motivate yourself on bad days?",
+      "polish": "Jak motywujesz się w gorsze dni?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667573"
+    },
+    {
+      "english": "Want feedback, or should we brainstorm ideas?",
+      "polish": "Chcesz feedback, czy robimy burzę mózgów?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667575"
+    },
+    {
+      "english": "Cheer yourself on, even quietly today",
+      "polish": "Kibicuj sobie, nawet dziś cicho",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667577"
+    },
+    {
+      "english": "Say it out loud, you can handle this",
+      "polish": "Powiedz na głos, dasz radę",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667580"
+    },
+    {
+      "english": "Catch the good thought, don’t dismiss it",
+      "polish": "Łap tę dobrą myśl, nie odrzucaj",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667583"
+    },
+    {
+      "english": "Your effort counts, even when results lag",
+      "polish": "Twoj wysiłek się liczy, nawet gdy efekty wolniej",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667586"
+    },
+    {
+      "english": "Notice progress, not perfection, today",
+      "polish": "Zauważ postęp, nie perfekcję, dziś",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667588"
+    },
+    {
+      "english": "Turn stress into a checklist, not a wall",
+      "polish": "Zamień stres w checklistę, nie w mur",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667590"
+    },
+    {
+      "english": "Keep going, your brain learns by repetition",
+      "polish": "Jedź dalej, mózg uczy się przez powtórki",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667592"
+    },
+    {
+      "english": "You’re allowed to try, and revise later",
+      "polish": "Masz prawo próbować, poprawisz później",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667595"
+    },
+    {
+      "english": "Small wins stack up, that’s real math",
+      "polish": "Małe zwycięstwa się kumulują, to prawda",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667598"
+    },
+    {
+      "english": "If you slip, bounce back fast",
+      "polish": "Jak wpadniesz, wróć szybko na tor",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667600"
+    },
+    {
+      "english": "Better days start with one honest choice",
+      "polish": "Lepsze dni zaczynają się od jednej uczciwej decyzji",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667602"
+    },
+    {
+      "english": "Don’t negotiate with fear, move anyway",
+      "polish": "Nie targuj się z lękiem, ruszaj tak czy siak",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667605"
+    },
+    {
+      "english": "Your future self is listening right now",
+      "polish": "Twoja przyszła wersja cię słucha teraz",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667607"
+    },
+    {
+      "english": "Make encouragement your default tone",
+      "polish": "Miej zachętę jako domyślny ton",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667609"
+    },
+    {
+      "english": "When you doubt, focus on the next move",
+      "polish": "Gdy wątpisz, skup się na kolejnym kroku",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667611"
+    },
+    {
+      "english": "You don’t need motivation, you need a plan",
+      "polish": "Nie potrzebujesz motywacji, potrzebujesz planu",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667614"
+    },
+    {
+      "english": "Confidence grows after you act, not before",
+      "polish": "Pewność rośnie po działaniu, nie przed",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667616"
+    },
+    {
+      "english": "Reward your consistency, it’s doing the work",
+      "polish": "Nagrodź swoją konsekwencję, to ona robi",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667619"
+    },
+    {
+      "english": "Your mindset is a muscle, train it daily",
+      "polish": "Twoje nastawienie to mięsień, trenuj codziennie",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667621"
+    },
+    {
+      "english": "Stop, breathe, then choose again",
+      "polish": "Zatrzymaj się, weź oddech, i wybierz znów",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667624"
+    },
+    {
+      "english": "Be the friend who tells you, you can",
+      "polish": "Bądź przyjacielem, który mówi, że dasz radę",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667626"
+    },
+    {
+      "english": "Progress is sneaky, but it’s still progress",
+      "polish": "Postęp jest podstępny, ale to dalej postęp",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667630"
+    },
+    {
+      "english": "Take credit for the work you already did",
+      "polish": "Weź uznanie za pracę, którą już zrobiłeś",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667632"
+    },
+    {
+      "english": "Ask, what’s the kindest next step?",
+      "polish": "Zapytaj, jaki jest najłagodniejszy następny krok?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667635"
+    },
+    {
+      "english": "Make the goal smaller, keep the spark",
+      "polish": "Zmniejsz cel, a iskra zostaje",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667637"
+    },
+    {
+      "english": "You’re not behind, you’re building momentum",
+      "polish": "Nie jesteś w tyle, budujesz rozpęd",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667640"
+    },
+    {
+      "english": "Say yes to practice, not just perfect days",
+      "polish": "Mów „tak” dla praktyki, nie tylko dla idealnych dni",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667642"
+    },
+    {
+      "english": "Trust the process, it learns your pace",
+      "polish": "Zaufaj procesowi, dopasuje twoje tempo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667644"
+    },
+    {
+      "english": "Name the feeling, don’t bury it today",
+      "polish": "Nazwij uczucie, nie chowaj go dziś",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667646"
+    },
+    {
+      "english": "You’re allowed to feel heavy, then reset",
+      "polish": "Możesz czuć ciężar, a potem się resetować",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667649"
+    },
+    {
+      "english": "Be honest, even if it’s awkward",
+      "polish": "Bądź szczery, nawet jeśli to niezręczne",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667652"
+    },
+    {
+      "english": "Pause first, then decide what’s true",
+      "polish": "Najpierw zrób pauzę, potem zdecyduj, co jest prawdą",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667654"
+    },
+    {
+      "english": "Write it down, your mind will unclench",
+      "polish": "Zapisz to, umysł się rozluźni",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667656"
+    },
+    {
+      "english": "Sometimes calm comes after you breathe",
+      "polish": "Czasem spokój przychodzi po oddechu",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667658"
+    },
+    {
+      "english": "Say, “I’m doing my best,” and continue",
+      "polish": "Powiedz, „robię, co w mojej mocy”, i idź dalej",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667663"
+    },
+    {
+      "english": "Check in with yourself, not your feed",
+      "polish": "Sprawdź siebie, nie swój feed",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667665"
+    },
+    {
+      "english": "Let the emotion pass, like a wave",
+      "polish": "Daj emocji przejść, jak fala",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667667"
+    },
+    {
+      "english": "Slow progress still counts, it’s real work",
+      "polish": "Powolny postęp też się liczy, to prawdziwa praca",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667670"
+    },
+    {
+      "english": "When you spiral, name the fear gently",
+      "polish": "Kiedy nakręcasz się w kółko, nazwij strach spokojnie",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667673"
+    },
+    {
+      "english": "Keep your honesty, even when it stings",
+      "polish": "Zachowaj szczerość, nawet gdy kłuje",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667676"
+    },
+    {
+      "english": "Ask yourself, what do I really need",
+      "polish": "Zapytaj siebie, czego naprawdę potrzebuję",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667678"
+    },
+    {
+      "english": "Be patient, your nervous system learns slowly",
+      "polish": "Bądź cierpliwy, twój układ nerwowy uczy się powoli",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667680"
+    },
+    {
+      "english": "Notice your triggers, then soften your response",
+      "polish": "Zauważ wyzwalacze, potem złagodź reakcję",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667682"
+    },
+    {
+      "english": "You don’t have to rush your healing",
+      "polish": "Nie musisz przyspieszać swojego gojenia",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667685"
+    },
+    {
+      "english": "Reflect quietly, answers show up later",
+      "polish": "Pomyśl w ciszy, odpowiedzi przyjdą później",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667687"
+    },
+    {
+      "english": "Trust your pace, even if it’s messy",
+      "polish": "Zaufaj swojemu tempu, nawet jeśli jest chaotyczne",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667689"
+    },
+    {
+      "english": "Let your “why” be gentle, not harsh",
+      "polish": "Niech twoje „dlaczego” będzie łagodne",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667694"
+    },
+    {
+      "english": "If today hurts, go softer with yourself",
+      "polish": "Jeśli dziś boli, bądź dla siebie łagodniejszy",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667696"
+    },
+    {
+      "english": "Practice saying “I feel…”, not “I blame…”",
+      "polish": "Ćwicz „czuję…”, nie „winie…”",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667699"
+    },
+    {
+      "english": "Your mood can change, that’s not prophecy",
+      "polish": "Nastrój może się zmienić, to nie wyrok",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667702"
+    },
+    {
+      "english": "Take a breath, then speak with care",
+      "polish": "Zrób wdech, potem mów ostrożnie",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667704"
+    },
+    {
+      "english": "Turn regret into learning, not punishment",
+      "polish": "Zamień żal w naukę, nie w karę",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667706"
+    },
+    {
+      "english": "Be kind to your past, it shaped you",
+      "polish": "Bądź łagodny dla przeszłości, to cię ukształtowało",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667708"
+    },
+    {
+      "english": "When you’re unsure, return to one promise",
+      "polish": "Gdy nie wiesz, wróć do jednej obietnicy",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667713"
+    },
+    {
+      "english": "Let reflection guide you, not guilt",
+      "polish": "Niech refleksja prowadzi, nie wina",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667715"
+    },
+    {
+      "english": "Name what you want, then stop fighting",
+      "polish": "Nazwij, czego chcesz, i przestań walczyć",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667717"
+    },
+    {
+      "english": "Some days you heal by doing less",
+      "polish": "Są dni, kiedy gojenie to mniej wysiłku",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667718"
+    },
+    {
+      "english": "Quietly track progress, you’ll feel safer",
+      "polish": "Cicho notuj postępy, poczujesz się bezpieczniej",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667723"
+    },
+    {
+      "english": "Start small, do it before scrolling.",
+      "polish": "Zacznij małe, zrób to zanim przewiniesz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667725"
+    },
+    {
+      "english": "Before you text, ask, is it kind?",
+      "polish": "Zanim odpiszesz, zapytaj, czy to będzie miłe?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667728"
+    },
+    {
+      "english": "Plan one win for today, not ten.",
+      "polish": "Zaplanować jeden sukces, na dzisiaj, nie dziesięć.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-03T10:32:41.667730"
     }
   ],
-  "last_updated": "2026-11-02T10:40:26.551556"
+  "last_updated": "2026-11-03T10:32:41.667731"
 }
