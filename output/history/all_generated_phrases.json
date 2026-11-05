@@ -12239,7 +12239,727 @@
       "polish": "Zaplanować jeden sukces, na dzisiaj, nie dziesięć.",
       "category": "Self Improvement",
       "generated_at": "2026-11-03T10:32:41.667730"
+    },
+    {
+      "english": "I’m fine, really, just tired",
+      "polish": "Jestem okej, naprawdę, tylko zmęczony",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599721"
+    },
+    {
+      "english": "I feel nervous, before the meeting",
+      "polish": "Czuję się nerwowo, przed spotkaniem",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599738"
+    },
+    {
+      "english": "Are you okay, do you feel better?",
+      "polish": "Wszystko gra? Czujesz się lepiej?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599740"
+    },
+    {
+      "english": "Honestly, I’m stressed today",
+      "polish": "Szczerze mówiąc, dziś mam stres",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599743"
+    },
+    {
+      "english": "I’m excited, let’s do it now",
+      "polish": "Jestem podekscytowany, zróbmy to teraz",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599745"
+    },
+    {
+      "english": "Wait, I’m not sure, give me a sec",
+      "polish": "Chwileczkę, nie jestem pewien, daj mi chwilę",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599748"
+    },
+    {
+      "english": "That’s not cool, I’m disappointed",
+      "polish": "To nie jest fair, jest mi przykro",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599750"
+    },
+    {
+      "english": "I’m relieved, that worked out",
+      "polish": "Uff, ulżyło mi, wyszło",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599755"
+    },
+    {
+      "english": "I’m worried, something feels off",
+      "polish": "Martwię się, coś tu nie gra",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599758"
+    },
+    {
+      "english": "Don’t worry, it’ll be okay",
+      "polish": "Nie martw się, będzie dobrze",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599761"
+    },
+    {
+      "english": "I’m happy for you, seriously",
+      "polish": "Cieszę się twoim szczęściem, serio",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599763"
+    },
+    {
+      "english": "I’m proud of you, you did it",
+      "polish": "Jestem z ciebie dumny, udało ci się",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599765"
+    },
+    {
+      "english": "Ouch, that hurt, I’m in pain",
+      "polish": "Auć, boli, to mnie zabolało",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599767"
+    },
+    {
+      "english": "I’m annoyed, can you repeat?",
+      "polish": "Jestem wkurzony, możesz powtórzyć?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599773"
+    },
+    {
+      "english": "I’m in a good mood, thanks",
+      "polish": "Mam dobry humor, dzięki",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599775"
+    },
+    {
+      "english": "I can’t believe it, wow",
+      "polish": "Nie mogę uwierzyć, wow",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599777"
+    },
+    {
+      "english": "I’m calm now, everything’s fine",
+      "polish": "Jestem już spokojny, wszystko gra",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599779"
+    },
+    {
+      "english": "I’m jealous, don’t rub it in",
+      "polish": "Jestem zazdrosny, nie dokuczaj",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599781"
+    },
+    {
+      "english": "I’m touched, that was really kind",
+      "polish": "Jestem poruszony, to było naprawdę miłe",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599784"
+    },
+    {
+      "english": "I feel lonely, I need company",
+      "polish": "Czuję się samotny, potrzebuję towarzystwa",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599785"
+    },
+    {
+      "english": "I’m angry, don’t do that again",
+      "polish": "Jestem zły, nie rób tego znowu",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599788"
+    },
+    {
+      "english": "Maybe I’m wrong, let’s check",
+      "polish": "Może się mylę, sprawdźmy",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599791"
+    },
+    {
+      "english": "I’m overwhelmed, it’s too much",
+      "polish": "Jestem przytłoczony, za dużo",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599794"
+    },
+    {
+      "english": "I feel motivated, I’m ready",
+      "polish": "Mam motywację, jestem gotowy",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599796"
+    },
+    {
+      "english": "I’m relieved you came back",
+      "polish": "Ucieszyłem się, że wróciłeś",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599798"
+    },
+    {
+      "english": "I’m scared, please stay with me",
+      "polish": "Boje się, proszę, zostań ze mną",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599800"
+    },
+    {
+      "english": "I’m not mad, I’m just disappointed",
+      "polish": "Nie jestem zły, po prostu zawiedziony",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599802"
+    },
+    {
+      "english": "That made my day, seriously",
+      "polish": "To mi zrobiło dzień, serio",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599804"
+    },
+    {
+      "english": "I don’t feel like it today",
+      "polish": "Dziś nie mam na to ochoty",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599806"
+    },
+    {
+      "english": "Thanks, I feel better now",
+      "polish": "Dzięki, teraz jest mi lżej",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599807"
+    },
+    {
+      "english": "Do you have any worries, today?",
+      "polish": "Masz dziś jakieś zmartwienia?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599809"
+    },
+    {
+      "english": "How’s your mood, after that news?",
+      "polish": "Jaki masz nastrój, po tych wiadomościach?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599812"
+    },
+    {
+      "english": "Can I ask, did something happen?",
+      "polish": "Mogę zapytać, czy coś się stało?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599815"
+    },
+    {
+      "english": "Do you want to talk about it?",
+      "polish": "Chcesz pogadać o tym?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599817"
+    },
+    {
+      "english": "What would help you feel better?",
+      "polish": "Co by ci pomogło poczuć się lepiej?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599818"
+    },
+    {
+      "english": "Should I slow down, or continue?",
+      "polish": "Mam zwolnić, czy iść dalej?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599820"
+    },
+    {
+      "english": "Are you upset, or just busy?",
+      "polish": "Jesteś zdenerwowany, czy po prostu zajęty?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599822"
+    },
+    {
+      "english": "Are you okay with this change?",
+      "polish": "Dajesz radę z tą zmianą?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599824"
+    },
+    {
+      "english": "What’s the hardest part for you?",
+      "polish": "Co jest dla ciebie najtrudniejsze?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599827"
+    },
+    {
+      "english": "Would it help if I stayed longer?",
+      "polish": "Pomogłoby, gdybym został dłużej?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599830"
+    },
+    {
+      "english": "Do you feel more stressed lately?",
+      "polish": "Czy ostatnio czujesz więcej stresu?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599832"
+    },
+    {
+      "english": "Can I check in with you, later?",
+      "polish": "Mogę się odezwać później?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599834"
+    },
+    {
+      "english": "What’s your plan when anxiety hits?",
+      "polish": "Jaki masz sposób, gdy przychodzi lęk?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599836"
+    },
+    {
+      "english": "Do you want space, or support?",
+      "polish": "Potrzebujesz przestrzeni, czy wsparcia?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599838"
+    },
+    {
+      "english": "Why does this feel so heavy?",
+      "polish": "Dlaczego to tak ciężko ci siedzi?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599839"
+    },
+    {
+      "english": "How’s your energy, after work today?",
+      "polish": "Jaka jest twoja energia, po pracy?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599841"
+    },
+    {
+      "english": "Do you want me to be honest?",
+      "polish": "Chcesz, żebym mówił szczerze?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599843"
+    },
+    {
+      "english": "What usually calms you down?",
+      "polish": "Co cię zwykle uspokaja?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599845"
+    },
+    {
+      "english": "Can we talk, I need your take?",
+      "polish": "Porozmawiajmy, potrzebuję twojej opinii.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599846"
+    },
+    {
+      "english": "Do you think you’re overreacting?",
+      "polish": "Uważasz, że przesadzasz?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599849"
+    },
+    {
+      "english": "Should I send you something funny?",
+      "polish": "Mam ci wysłać coś śmiesznego?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599850"
+    },
+    {
+      "english": "Do you feel stuck, or just waiting?",
+      "polish": "Czujesz się uwiązany, czy po prostu czekasz?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599852"
+    },
+    {
+      "english": "How’s your head, after all this?",
+      "polish": "Jak masz głowę, po wszystkim?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599854"
+    },
+    {
+      "english": "Is there anything I should avoid?",
+      "polish": "Czy jest coś, czego mam unikać?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599856"
+    },
+    {
+      "english": "Do you want a quick hug, maybe?",
+      "polish": "Chciałbyś szybki przytul?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599858"
+    },
+    {
+      "english": "What can we do right now, together?",
+      "polish": "Co zrobimy teraz razem?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599860"
+    },
+    {
+      "english": "Breathe slow, your mind will settle",
+      "polish": "Oddychaj wolno, głowa się uspokoi",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599861"
+    },
+    {
+      "english": "Tell yourself, I can handle it",
+      "polish": "Powiedz sobie, dam radę",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599864"
+    },
+    {
+      "english": "Good job, even small progress counts",
+      "polish": "Dobra robota, małe postępy też się liczą",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599865"
+    },
+    {
+      "english": "Keep going, don’t stop at “almost”",
+      "polish": "Jedź dalej, nie zatrzymuj się na „prawie”",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599868"
+    },
+    {
+      "english": "Stay positive, focus on what you can",
+      "polish": "Trzymaj pozytyw, skup się na tym, co możesz",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599870"
+    },
+    {
+      "english": "You’re stronger than this thought",
+      "polish": "Jesteś silniejszy, niż ta myśl",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599872"
+    },
+    {
+      "english": "Let it pass, you’re not stuck",
+      "polish": "Puść to, to minie",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599875"
+    },
+    {
+      "english": "Trust the process, slow is fine",
+      "polish": "Zaufaj procesowi, wolno też jest dobrze",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599877"
+    },
+    {
+      "english": "Focus on now, not the worst case",
+      "polish": "Skup się na teraz, nie na najgorszym",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599879"
+    },
+    {
+      "english": "Give yourself credit, you’re working hard",
+      "polish": "Doceniaj siebie, naprawdę się starasz",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599881"
+    },
+    {
+      "english": "Today is a fresh start, go easy",
+      "polish": "Dzisiaj zaczynasz od nowa, działaj delikatnie",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599883"
+    },
+    {
+      "english": "Say it: I’m learning, not failing",
+      "polish": "Powiedz, uczę się, nie przegrywam",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599886"
+    },
+    {
+      "english": "When it’s tough, you still show up",
+      "polish": "Gdy jest ciężko, i tak pojawiasz się",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599888"
+    },
+    {
+      "english": "You don’t need perfect, just steady",
+      "polish": "Nie musisz być perfekcyjny, wystarczy konsekwencja",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599890"
+    },
+    {
+      "english": "Your feelings are real, be gentle",
+      "polish": "Twoje emocje są prawdziwe, bądź łagodny",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599892"
+    },
+    {
+      "english": "Set a small goal, then you win",
+      "polish": "Ustal mały cel, i już wygrywasz",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599894"
+    },
+    {
+      "english": "Turn “what if” into “what’s next”",
+      "polish": "Zamień „a co jeśli”, na „co dalej”",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599897"
+    },
+    {
+      "english": "Make room for calm, even briefly",
+      "polish": "Zrób miejsce na spokój, choć na chwilę",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599899"
+    },
+    {
+      "english": "Choose hope, it costs you nothing",
+      "polish": "Wybieraj nadzieję, nic cię to nie kosztuje",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599901"
+    },
+    {
+      "english": "You’re allowed to feel it, and still act",
+      "polish": "Możesz to czuć, a i tak działać",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599903"
+    },
+    {
+      "english": "Keep your head up, you’re doing fine",
+      "polish": "Głowa do góry, dajesz radę",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599905"
+    },
+    {
+      "english": "Let the noise go, focus on you",
+      "polish": "Puść ten hałas, skup się na sobie",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599907"
+    },
+    {
+      "english": "Be kind to your brain, rest matters",
+      "polish": "Bądź łagodny dla mózgu, odpoczynek ma znaczenie",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599909"
+    },
+    {
+      "english": "Say “not yet”, don’t say “never”",
+      "polish": "Mów „jeszcze nie”, nie mów „nigdy”",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599911"
+    },
+    {
+      "english": "Count your wins, even the tiny ones",
+      "polish": "Liczy się każdy sukces, nawet najmniejszy",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599913"
+    },
+    {
+      "english": "You can start over, right now",
+      "polish": "Możesz zacząć od nowa, teraz",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599915"
+    },
+    {
+      "english": "It’s okay, you’re learning to cope",
+      "polish": "To w porządku, uczysz się radzić sobie",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599917"
+    },
+    {
+      "english": "Don’t judge yourself, just guide yourself",
+      "polish": "Nie oceniaj się, tylko kieruj się dalej",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599920"
+    },
+    {
+      "english": "I keep replaying it, my brain won’t chill.",
+      "polish": "Wciąż to odtwarzam, mój mózg nie odpuszcza.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599922"
+    },
+    {
+      "english": "Part of me feels scared, but okay.",
+      "polish": "Część mnie się boi, ale jakoś jest dobrze.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599924"
+    },
+    {
+      "english": "I’m trying to be honest with myself.",
+      "polish": "Próbuję być ze sobą szczery.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599926"
+    },
+    {
+      "english": "Honestly, I’m tired of pretending everything’s fine.",
+      "polish": "Szcerze, mam dość udawania, że wszystko gra.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599931"
+    },
+    {
+      "english": "I feel lighter, when I say it out loud.",
+      "polish": "Jest mi lżej, gdy to powiem na głos.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599934"
+    },
+    {
+      "english": "Some days, sadness just hangs around, quietly.",
+      "polish": "Są dni, kiedy smutek po prostu siedzi w kącie.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599936"
+    },
+    {
+      "english": "I miss the old me, not the past.",
+      "polish": "Tęsknię za sobą z dawniej, nie za przeszłością.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599938"
+    },
+    {
+      "english": "I’m not spiraling, I’m processing slowly.",
+      "polish": "Nie nakręcam się, ja to po prostu przepracowuję.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599940"
+    },
+    {
+      "english": "I notice my feelings, then I breathe.",
+      "polish": "Zauważam uczucia, potem biorę oddech.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599942"
+    },
+    {
+      "english": "It’s weird, but I feel hopeful anyway.",
+      "polish": "To dziwne, ale i tak mam w sobie nadzieję.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599944"
+    },
+    {
+      "english": "I’m calmer, once I admit what I want.",
+      "polish": "Jest mi spokojniej, gdy przyznam, czego chcę.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599947"
+    },
+    {
+      "english": "Sometimes I’m jealous, then I feel guilty.",
+      "polish": "Czasem się zazdroszczę, a potem mam wyrzuty sumienia.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599950"
+    },
+    {
+      "english": "I don’t want drama, I want clarity.",
+      "polish": "Nie chcę dramy, chcę jasności.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599953"
+    },
+    {
+      "english": "I get overwhelmed, so I shrink the task.",
+      "polish": "Przytłacza mnie, więc zmniejszam zadanie.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599955"
+    },
+    {
+      "english": "That comment hit me harder than I thought.",
+      "polish": "Ten komentarz zabolał mnie mocniej, niż myślałam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599957"
+    },
+    {
+      "english": "I’m annoyed, but I can still be kind.",
+      "polish": "Jestem wkurzony, ale nadal mogę być miły.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599959"
+    },
+    {
+      "english": "I want space, not distance, okay?",
+      "polish": "Potrzebuję przestrzeni, nie dystansu, okej?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599961"
+    },
+    {
+      "english": "I’m scared of failing, but I’m starting anyway.",
+      "polish": "Boję się porażki, ale i tak zaczynam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599964"
+    },
+    {
+      "english": "I feel proud, even when nobody notices.",
+      "polish": "Jestem z siebie dumna, nawet gdy nikt nie widzi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599966"
+    },
+    {
+      "english": "I’m low-key stressed, but I’m coping.",
+      "polish": "Jestem trochę zestresowany, ale daję radę.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599969"
+    },
+    {
+      "english": "I’m trying to listen, not just react.",
+      "polish": "Starasz się słuchać, a nie tylko reagować.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599971"
+    },
+    {
+      "english": "I need time, my feelings don’t rush.",
+      "polish": "Potrzebuję czasu, moje emocje nie sprintują.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.599973"
+    },
+    {
+      "english": "I’m learning, not breaking, promise.",
+      "polish": "Uczę się, nie pękam, obiecuję.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600027"
+    },
+    {
+      "english": "Sometimes I feel numb, and that scares me.",
+      "polish": "Czasem czuję odrętwienie, i to mnie przeraża.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600030"
+    },
+    {
+      "english": "I’m embarrassed, but I’ll get over it.",
+      "polish": "Jest mi głupio, ale przejdzie mi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600032"
+    },
+    {
+      "english": "I’m grateful, even for the boring wins.",
+      "polish": "Dziękuję, nawet za te nudne, małe sukcesy.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600034"
+    },
+    {
+      "english": "My emotions are loud, but I choose calm.",
+      "polish": "Moje emocje są głośne, ale wybieram spokój.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600037"
+    },
+    {
+      "english": "I don’t need fixing, I need understanding.",
+      "polish": "Nie potrzebuję naprawy, potrzebuję zrozumienia.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600039"
+    },
+    {
+      "english": "I’m holding space for myself, softly.",
+      "polish": "Daję sobie przestrzeń, delikatnie.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600042"
+    },
+    {
+      "english": "I can be sad, and still move forward.",
+      "polish": "Mogę być smutna, i iść dalej.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600044"
+    },
+    {
+      "english": "Before I text back, I breathe first.",
+      "polish": "Zanim odpiszę, najpierw biorę oddech.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600047"
+    },
+    {
+      "english": "I’m nervous, but I’ll walk in anyway.",
+      "polish": "Jestem spięty, ale i tak wejdę.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600049"
+    },
+    {
+      "english": "That awkward smile, nope, I’ll be honest.",
+      "polish": "Ten krępujący uśmiech, nie, powiem szczerze.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600052"
+    },
+    {
+      "english": "I’m fine, but I’m tired of pretending.",
+      "polish": "Niby wszystko okej, ale już mam dość udawania.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600054"
+    },
+    {
+      "english": "If I feel off, I take a quick break.",
+      "polish": "Jak mi nie pasuje, robię krótki reset.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600056"
+    },
+    {
+      "english": "I miss you, but I’m not begging.",
+      "polish": "Tęsknię, ale nie będę błagać.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-05T10:28:09.600058"
     }
   ],
-  "last_updated": "2026-11-03T10:32:41.667731"
+  "last_updated": "2026-11-05T10:28:09.600060"
 }
