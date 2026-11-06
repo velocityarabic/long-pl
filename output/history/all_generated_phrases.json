@@ -12959,7 +12959,727 @@
       "polish": "Tęsknię, ale nie będę błagać.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-11-05T10:28:09.600058"
+    },
+    {
+      "english": "No stress, I’ve got this, today.",
+      "polish": "Bez stresu, dam radę, dziś.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514298"
+    },
+    {
+      "english": "Hey, I’m confident, let’s do it.",
+      "polish": "Hej, mam pewność siebie, zróbmy to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514312"
+    },
+    {
+      "english": "Relax, speak slowly, you’ll be fine.",
+      "polish": "Spokojnie, mów wolno, będzie dobrze.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514316"
+    },
+    {
+      "english": "I know this, I’ve practiced, trust me.",
+      "polish": "Znam to, ćwiczyłem, zaufaj mi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514320"
+    },
+    {
+      "english": "Great, I’m ready, ask me anything.",
+      "polish": "Super, jestem gotowy, pytaj śmiało.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514323"
+    },
+    {
+      "english": "Sure, I can handle it, no problem.",
+      "polish": "Pewnie, dam radę, żadnego problemu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514327"
+    },
+    {
+      "english": "Look, I’m learning fast, don’t worry.",
+      "polish": "Widzisz, szybko się uczę, nie martw się.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514330"
+    },
+    {
+      "english": "Wait, I’ve got an idea, listen.",
+      "polish": "Chwileczkę, mam pomysł, słuchaj.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514338"
+    },
+    {
+      "english": "Honestly, I’m improving, step by step.",
+      "polish": "Szczerze, robię postępy, krok po kroku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514343"
+    },
+    {
+      "english": "Yes, I can, even if it’s hard.",
+      "polish": "Tak, dam radę, nawet jeśli trudno.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514347"
+    },
+    {
+      "english": "Excuse me, I just want to try.",
+      "polish": "Przepraszam, chcę po prostu spróbować.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514350"
+    },
+    {
+      "english": "I’m not lost, I’m figuring it out.",
+      "polish": "Nie jestem zgubiony, ogarniam to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514353"
+    },
+    {
+      "english": "Come on, say it, you’ll nail it.",
+      "polish": "Dawaj, powiedz, zaraz złapiesz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514356"
+    },
+    {
+      "english": "It’s okay, I’ll repeat, no worries.",
+      "polish": "Spoko, powtórzę, nie przejmuj się.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514360"
+    },
+    {
+      "english": "I’m confident, my accent will get better.",
+      "polish": "Jestem pewny, mój akcent będzie lepszy.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514363"
+    },
+    {
+      "english": "One more time, I won’t give up.",
+      "polish": "Jeszcze raz, nie odpuszczę.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514366"
+    },
+    {
+      "english": "Cool, I understand, continue, please.",
+      "polish": "Super, rozumiem, jedźmy dalej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514371"
+    },
+    {
+      "english": "No, it’s fine, I can explain.",
+      "polish": "Nie, wszystko gra, wyjaśnię.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514375"
+    },
+    {
+      "english": "Today is my day, let’s go!",
+      "polish": "Dzisiaj jest mój dzień, jedziemy!",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514378"
+    },
+    {
+      "english": "I’m brave, I’ll ask, no fear.",
+      "polish": "Jestem odważny, zapytam, bez strachu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514381"
+    },
+    {
+      "english": "Stop hesitating, just start talking.",
+      "polish": "Przestań się wahać, po prostu mów.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514384"
+    },
+    {
+      "english": "I’ve got a plan, we’ll manage.",
+      "polish": "Mam plan, damy radę.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514387"
+    },
+    {
+      "english": "Nice try, that’s progress, keep going.",
+      "polish": "Fajnie, to postęp, jedź dalej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514391"
+    },
+    {
+      "english": "Seriously, I’m getting better, listen.",
+      "polish": "Na serio, coraz lepiej mi idzie, słuchaj.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514394"
+    },
+    {
+      "english": "I’m calm now, I can speak.",
+      "polish": "Jestem spokojny, mogę mówić.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514397"
+    },
+    {
+      "english": "Go ahead, I’m ready for this.",
+      "polish": "Dawaj, jestem gotowy na to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514400"
+    },
+    {
+      "english": "That’s it, don’t overthink, just speak.",
+      "polish": "Właśnie, nie myśl za dużo, mów.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514403"
+    },
+    {
+      "english": "Okay, let’s switch, I’ll lead.",
+      "polish": "Dobra, przełączmy się, ja poprowadzę.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514406"
+    },
+    {
+      "english": "I’m sure, it’ll work out, watch.",
+      "polish": "Jestem pewien, zadziała, zobacz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514409"
+    },
+    {
+      "english": "All good, I’m in control right now.",
+      "polish": "Wszystko okej, teraz panuję nad tym.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514412"
+    },
+    {
+      "english": "Excuse me, how do I say this?",
+      "polish": "Przepraszam, jak się mówi to po polsku?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514415"
+    },
+    {
+      "english": "Where can I ask for directions?",
+      "polish": "Gdzie mogę zapytać o drogę?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514418"
+    },
+    {
+      "english": "Could you help me, just once?",
+      "polish": "Czy możesz mi pomóc, tylko raz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514421"
+    },
+    {
+      "english": "Is this sentence correct, in Polish?",
+      "polish": "Czy to zdanie jest poprawne po polsku?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514424"
+    },
+    {
+      "english": "What’s the polite way to ask?",
+      "polish": "Jaka jest grzeczna forma pytania?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514426"
+    },
+    {
+      "english": "Do you mind repeating that phrase?",
+      "polish": "Czy możesz powtórzyć to zdanie?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514431"
+    },
+    {
+      "english": "How should I pronounce this word?",
+      "polish": "Jak mam wymówić to słowo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514433"
+    },
+    {
+      "english": "Can you check my grammar, please?",
+      "polish": "Możesz sprawdzić moją gramatykę, proszę?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514436"
+    },
+    {
+      "english": "What does this word mean exactly?",
+      "polish": "Co dokładnie znaczy to słowo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514440"
+    },
+    {
+      "english": "When do I use 'proszę' and 'dziękuję'?",
+      "polish": "Kiedy używa się 'proszę', a kiedy 'dziękuję'?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514445"
+    },
+    {
+      "english": "Is it better to say 'pan' or 'pani'?",
+      "polish": "Lepiej mówić 'pan' czy 'pani'?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514448"
+    },
+    {
+      "english": "Can I pay by card here, please?",
+      "polish": "Czy można tu płacić kartą?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514451"
+    },
+    {
+      "english": "Which bus goes near the center?",
+      "polish": "Który autobus jedzie blisko centrum?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514453"
+    },
+    {
+      "english": "How far is it from here, roughly?",
+      "polish": "Jak daleko stąd, mniej więcej?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514456"
+    },
+    {
+      "english": "What should I order if I'm new here?",
+      "polish": "Co polecasz, jeśli jestem tu pierwszy raz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514458"
+    },
+    {
+      "english": "Do you recommend this dish for beginners?",
+      "polish": "Polecasz to danie dla początkujących?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514461"
+    },
+    {
+      "english": "Is it okay if I ask about prices?",
+      "polish": "Czy mogę zapytać o ceny?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514463"
+    },
+    {
+      "english": "Could you show me on the map?",
+      "polish": "Czy możesz mi to pokazać na mapie?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514468"
+    },
+    {
+      "english": "What time do you close, usually?",
+      "polish": "O której zazwyczaj zamykacie?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514470"
+    },
+    {
+      "english": "Do I need a reservation, or walk in?",
+      "polish": "Trzeba rezerwację, czy można wejść bez?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514473"
+    },
+    {
+      "english": "Where can I buy tickets, fast?",
+      "polish": "Gdzie kupię bilety najszybciej?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514476"
+    },
+    {
+      "english": "Can I take this photo, sorry?",
+      "polish": "Czy mogę zrobić zdjęcie, przepraszam?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514479"
+    },
+    {
+      "english": "Is there a quiet place to talk?",
+      "polish": "Jest gdzieś ciche miejsce, żeby porozmawiać?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514481"
+    },
+    {
+      "english": "How do you say 'cheers' in Polish?",
+      "polish": "Jak mówi się 'na zdrowie' po angielsku?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514486"
+    },
+    {
+      "english": "Do you understand me, or slower?",
+      "polish": "Rozumiesz mnie, czy mam wolniej?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514489"
+    },
+    {
+      "english": "What should I respond to that?",
+      "polish": "Co mam odpowiedzieć w takiej sytuacji?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514491"
+    },
+    {
+      "english": "Can we practice this conversation, please?",
+      "polish": "Czy możemy poćwiczyć taką rozmowę?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514494"
+    },
+    {
+      "english": "If I get stuck, what should I say?",
+      "polish": "Jeśli się zawieszę, co mam wtedy powiedzieć?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514496"
+    },
+    {
+      "english": "Breathe, I’ve got this moment, right now.",
+      "polish": "Oddycham, mam ten moment, właśnie teraz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514500"
+    },
+    {
+      "english": "I can do it, one step at a time.",
+      "polish": "Dam radę, krok po kroku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514503"
+    },
+    {
+      "english": "Relax, my Polish is becoming smoother.",
+      "polish": "Spokojnie, mój polski robi się płynniejszy.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514505"
+    },
+    {
+      "english": "Say it your way, they’ll understand.",
+      "polish": "Powiedz po swojemu, oni zrozumieją.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514509"
+    },
+    {
+      "english": "I’m not perfect, I’m getting better, seriously.",
+      "polish": "Nie jestem idealna, uczę się szybciej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514513"
+    },
+    {
+      "english": "Confidence looks good on me, you know.",
+      "polish": "Pewność siebie mi pasuje, wiesz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514516"
+    },
+    {
+      "english": "Small mistakes, big progress, keep smiling.",
+      "polish": "Małe błędy, wielki progres, uśmiechaj się.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514519"
+    },
+    {
+      "english": "I’ll try again, even if it’s messy.",
+      "polish": "Spróbuję jeszcze raz, choćby było chaotycznie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514522"
+    },
+    {
+      "english": "Ask anyway, confidence starts with questions.",
+      "polish": "Dopytaj, pewność siebie zaczyna się od pytań.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514525"
+    },
+    {
+      "english": "Today I speak, even when I’m unsure.",
+      "polish": "Dzisiaj mówię, nawet gdy nie jestem pewny.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514528"
+    },
+    {
+      "english": "My accent is charm, not a problem.",
+      "polish": "Mój akcent ma urok, nie problem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514531"
+    },
+    {
+      "english": "I notice wins, and I learn faster.",
+      "polish": "Widzę sukcesy, i uczę się szybciej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514533"
+    },
+    {
+      "english": "If I pause, it’s just breathing.",
+      "polish": "Jak robię pauzę, to tylko oddycham.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514537"
+    },
+    {
+      "english": "I’m building this, not rushing it.",
+      "polish": "Buduję to, nie śpieszę się.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514540"
+    },
+    {
+      "english": "You’ve got this, say one honest sentence.",
+      "polish": "Dasz radę, powiedz jedne proste zdanie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514544"
+    },
+    {
+      "english": "Positive mindset, better words, warmer voice.",
+      "polish": "Dobry mindset, lepsze słowa, cieplejszy głos.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514547"
+    },
+    {
+      "english": "I can be awkward, and still clear.",
+      "polish": "Mogę być niezdarny, ale i tak jasno.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514550"
+    },
+    {
+      "english": "No shame, I’m practicing, and that’s power.",
+      "polish": "Bez wstydu, ćwiczę, to jest siła.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514554"
+    },
+    {
+      "english": "I trust myself, and I speak again.",
+      "polish": "Wierzę w siebie, i mówię znów.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514556"
+    },
+    {
+      "english": "I’m proud of every try, even today.",
+      "polish": "Jestem dumna z każdej próby, nawet dziś.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514559"
+    },
+    {
+      "english": "Make it simple, confidence loves simple.",
+      "polish": "Uprość to, pewność siebie lubi prostotę.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514562"
+    },
+    {
+      "english": "Give compliments to yourself, then keep going.",
+      "polish": "Pochwal siebie, i jedź dalej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514566"
+    },
+    {
+      "english": "I can learn fast, one conversation at once.",
+      "polish": "Uczę się szybko, jedna rozmowa na raz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514569"
+    },
+    {
+      "english": "Even imperfect sentences still move me forward.",
+      "polish": "Niedoskonałe zdania też mnie pchają do przodu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514571"
+    },
+    {
+      "english": "I’m friendly, I’m clear, I’m understood.",
+      "polish": "Jestem miła, jestem klarowna, będą mnie rozumieć.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514575"
+    },
+    {
+      "english": "Confidence is my habit, not my mood.",
+      "polish": "Pewność siebie to mój nawyk, nie nastrój.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514578"
+    },
+    {
+      "english": "I won’t wait for perfect, I’ll speak now.",
+      "polish": "Nie czekam na ideał, mówię teraz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514581"
+    },
+    {
+      "english": "I’m not failing, I’m collecting practice.",
+      "polish": "Nie przegrywam, zbieram trening.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514584"
+    },
+    {
+      "english": "Today’s goal is courage, not correctness.",
+      "polish": "Dzisiaj liczy się odwaga, nie poprawność.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514588"
+    },
+    {
+      "english": "Listen, pause, choose better words next time.",
+      "polish": "Słucham, robię pauzę, wybieram lepsze słowa następnym razem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514591"
+    },
+    {
+      "english": "Honestly, I feel nervous, and I speak anyway.",
+      "polish": "Szczerze, czuję stres, ale mówię dalej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514593"
+    },
+    {
+      "english": "I’m not hiding my doubts, I’m moving through them.",
+      "polish": "Nie chowam wątpliwości, tylko idę dalej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514597"
+    },
+    {
+      "english": "Some days, confidence is just showing up.",
+      "polish": "Czasem pewność siebie to po prostu przyjście.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514600"
+    },
+    {
+      "english": "I pause, I listen, then I answer calmly.",
+      "polish": "Zrobię pauzę, posłucham, i odpowiem spokojnie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514602"
+    },
+    {
+      "english": "It’s okay to feel awkward, really.",
+      "polish": "Może być niezręcznie, serio.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514605"
+    },
+    {
+      "english": "I trust my effort, even when I slip.",
+      "polish": "Wierzę w swój wysiłek, nawet gdy potknę się.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514608"
+    },
+    {
+      "english": "My heart is loud, but my words stay steady.",
+      "polish": "Serce mam głośne, a słowa spokojne.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514611"
+    },
+    {
+      "english": "I don’t need to win, I need to try.",
+      "polish": "Nie muszę wygrać, wystarczy spróbować.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514614"
+    },
+    {
+      "english": "I keep it real, that’s my best confidence.",
+      "polish": "Trzymam się prawdy, to moja najlepsza pewność.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514617"
+    },
+    {
+      "english": "Today I’m kinder to myself, and it helps.",
+      "polish": "Dzisiaj jestem dla siebie łagodniejszy/a, i pomaga.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514620"
+    },
+    {
+      "english": "If my grammar breaks, my message stays clear.",
+      "polish": "Jak gramatyka siada, sens zostaje jasny.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514624"
+    },
+    {
+      "english": "I’m learning, not performing, so I breathe.",
+      "polish": "Uczę się, nie występuję, więc oddycham.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514627"
+    },
+    {
+      "english": "I don’t rush feelings, I choose words carefully.",
+      "polish": "Nie spieszę uczuć, wybieram słowa spokojnie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514631"
+    },
+    {
+      "english": "Confidence grows, when I accept my pace.",
+      "polish": "Pewność rośnie, gdy akceptuję swój rytm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514634"
+    },
+    {
+      "english": "I’m okay with imperfect Polish, honestly.",
+      "polish": "Jestem w porządku z nieidealnym polskim, szczerze.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514637"
+    },
+    {
+      "english": "I say less, but I mean it more.",
+      "polish": "Mówię mniej, ale bardziej serio.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514639"
+    },
+    {
+      "english": "I let silence work, then I continue.",
+      "polish": "Pozwalam ciszy działać, i idę dalej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514642"
+    },
+    {
+      "english": "I’m proud of trying, even without perfect words.",
+      "polish": "Dumni jesteśmy z próby, nawet bez idealnych słów.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514645"
+    },
+    {
+      "english": "I admit I’m unsure, and ask anyway.",
+      "polish": "Powiem, że nie jestem pewny/a, i tak zapytam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514648"
+    },
+    {
+      "english": "My honesty sounds braver than my fears.",
+      "polish": "Szczerość brzmi odważniej niż moje obawy.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514651"
+    },
+    {
+      "english": "I notice progress, not just mistakes.",
+      "polish": "Widzę postęp, nie tylko błędy.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514653"
+    },
+    {
+      "english": "I’ll be patient with my mouth, it learns.",
+      "polish": "Będę cierpliwy/a dla ust, one się uczą.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514657"
+    },
+    {
+      "english": "I don’t need permission to speak, truly.",
+      "polish": "Nie potrzebuję zgody, żeby mówić, serio.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514660"
+    },
+    {
+      "english": "I choose calm energy, even in small talk.",
+      "polish": "Wybieram spokój, nawet w zwykłej rozmowie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514664"
+    },
+    {
+      "english": "I can be nervous, and still be kind.",
+      "polish": "Mogę być zestresowany/a, i nadal być miłym/miłą.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514667"
+    },
+    {
+      "english": "I don’t overthink, I keep moving forward.",
+      "polish": "Nie nakręcam się, po prostu idę do przodu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514670"
+    },
+    {
+      "english": "When I forget a word, I breathe, then rephrase.",
+      "polish": "Gdy zapomnę słów, biorę oddech, i mówię inaczej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514673"
+    },
+    {
+      "english": "I’m building trust with myself, one sentence.",
+      "polish": "Buduję zaufanie do siebie, zdaniem po zdaniu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514676"
+    },
+    {
+      "english": "My feelings are real, and my Polish can be too.",
+      "polish": "Moje emocje są prawdziwe, i mój polski też.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514679"
+    },
+    {
+      "english": "I speak with care, not with fear.",
+      "polish": "Mówię uważnie, nie w panice.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514682"
+    },
+    {
+      "english": "Before meetings, breathe, then introduce yourself.",
+      "polish": "Przed spotkaniem, oddycham, i przedstawiam się.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514686"
+    },
+    {
+      "english": "Small talk? Start with weather, keep it easy.",
+      "polish": "Small talk? Zaczynam od pogody, lekko i spokojnie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:30:14.514689"
     }
   ],
-  "last_updated": "2026-11-05T10:28:09.600060"
+  "last_updated": "2026-11-06T10:30:14.514693"
 }
