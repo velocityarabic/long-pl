@@ -14399,7 +14399,727 @@
       "polish": "Wrócimy do tego jutro, po tym jak to przejrzę.",
       "category": "Work & Office",
       "generated_at": "2026-11-07T09:42:21.989506"
+    },
+    {
+      "english": "Thanks for today, I really appreciate it.",
+      "polish": "Dzięki za dzisiaj, naprawdę to doceniam.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204537"
+    },
+    {
+      "english": "Thanks, that helps a lot right now.",
+      "polish": "Dzięki, to naprawdę dużo pomaga teraz.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204553"
+    },
+    {
+      "english": "Thanks for waiting, I’m on my way.",
+      "polish": "Dzięki za czekanie, zaraz będę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204559"
+    },
+    {
+      "english": "Thanks, you’re a lifesaver, seriously.",
+      "polish": "Dzięki, jesteś ratunkiem, serio.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204563"
+    },
+    {
+      "english": "Thanks, I owe you one.",
+      "polish": "Dzięki, jestem ci coś winien.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204565"
+    },
+    {
+      "english": "Thanks, I needed that, honestly.",
+      "polish": "Dzięki, tego mi było trzeba, szczerze.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204568"
+    },
+    {
+      "english": "Thanks for checking in, that means a lot.",
+      "polish": "Dzięki, że dałeś znać, to dużo znaczy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204570"
+    },
+    {
+      "english": "Thanks for your help, it was quick.",
+      "polish": "Dzięki za pomoc, było szybko.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204575"
+    },
+    {
+      "english": "Thanks, I’ll remember this.",
+      "polish": "Dzięki, zapamiętam to.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204578"
+    },
+    {
+      "english": "Thanks, you made my day.",
+      "polish": "Dzięki, zrobiłeś mi dzień.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204581"
+    },
+    {
+      "english": "Thanks, I’m grateful, really.",
+      "polish": "Dzięki, jestem wdzięczny, serio.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204588"
+    },
+    {
+      "english": "Thanks for understanding, that’s rare.",
+      "polish": "Dzięki za wyrozumiałość, to rzadkie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204591"
+    },
+    {
+      "english": "Thanks, I appreciate your time.",
+      "polish": "Dzięki, doceniam twoj czas.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204594"
+    },
+    {
+      "english": "Thank you, that’s really kind of you.",
+      "polish": "Dziękuję, to naprawdę miłe z twojej strony.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204596"
+    },
+    {
+      "english": "Thanks, I’ll handle it from here.",
+      "polish": "Dzięki, ja to już ogarnę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204599"
+    },
+    {
+      "english": "Thanks for the heads-up, really.",
+      "polish": "Dzięki za uprzedzenie, naprawdę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204602"
+    },
+    {
+      "english": "Thanks, this makes everything easier.",
+      "polish": "Dzięki, to wszystko ułatwia sprawę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204604"
+    },
+    {
+      "english": "Thanks, I don’t take it for granted.",
+      "polish": "Dzięki, nie biorę tego za pewnik.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204606"
+    },
+    {
+      "english": "Thanks, I feel better already.",
+      "polish": "Dzięki, już mi lepiej.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204609"
+    },
+    {
+      "english": "Thanks for sharing, it helped me a lot.",
+      "polish": "Dzięki za podzielenie się, pomogło mi mocno.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204611"
+    },
+    {
+      "english": "Thanks, you saved me from trouble.",
+      "polish": "Dzięki, uratowałeś mnie przed kłopotem.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204614"
+    },
+    {
+      "english": "Thanks, I’ll pay you back soon.",
+      "polish": "Dzięki, oddam ci to wkrótce.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204616"
+    },
+    {
+      "english": "Thanks, that’s exactly what I needed.",
+      "polish": "Dzięki, to dokładnie to, czego potrzebowałem.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204619"
+    },
+    {
+      "english": "Thanks, I trust you, that helps.",
+      "polish": "Dzięki, ufam ci, to daje spokój.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204621"
+    },
+    {
+      "english": "Thanks, you’re the best, seriously.",
+      "polish": "Dzięki, jesteś najlepszy, serio.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204624"
+    },
+    {
+      "english": "Thanks for everything, I’m lucky to have you.",
+      "polish": "Dzięki za wszystko, mam szczęście, że jesteś.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204627"
+    },
+    {
+      "english": "Thanks, I needed a win today.",
+      "polish": "Dzięki, dziś potrzebowałem wygranej.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204629"
+    },
+    {
+      "english": "Thanks, I’ll make sure you’re rewarded.",
+      "polish": "Dzięki, postaram się odwdzięczyć.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204632"
+    },
+    {
+      "english": "Thanks, see you soon, you’re awesome.",
+      "polish": "Dzięki, do zobaczenia wkrótce, jesteś super.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204634"
+    },
+    {
+      "english": "What would I do without your help, echt?",
+      "polish": "Co bym zrobił bez twojej pomocy, naprawdę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204637"
+    },
+    {
+      "english": "By the way, can I thank you properly?",
+      "polish": "Wiesz co, mogę ci podziękować jak trzeba?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204639"
+    },
+    {
+      "english": "Can I ask, where did you learn that?",
+      "polish": "Mogę zapytać, skąd masz tę wiedzę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204642"
+    },
+    {
+      "english": "Do you mind if I say thanks, really?",
+      "polish": "Nie przeszkadza ci, że ci podziękuję, serio?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204644"
+    },
+    {
+      "english": "Can I pick your brain for a moment, please?",
+      "polish": "Mogę cię zapytać o coś, na chwilę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204646"
+    },
+    {
+      "english": "Quick question, did this work for you too?",
+      "polish": "Szybkie pytanie, działało ci tak samo?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204648"
+    },
+    {
+      "english": "I’m curious, what made you suggest that?",
+      "polish": "Jestem ciekaw, co cię natchnęło do tego?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204651"
+    },
+    {
+      "english": "May I thank you for the advice, honestly?",
+      "polish": "Mogę ci podziękować za tę radę, szczerze?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204653"
+    },
+    {
+      "english": "How did you know, that helped me a lot?",
+      "polish": "Skąd wiedziałeś, to naprawdę mi pomogło?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204658"
+    },
+    {
+      "english": "Can I return the favor, what do you need?",
+      "polish": "Jak mogę się odwdzięczyć, czego potrzebujesz?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204660"
+    },
+    {
+      "english": "Thanks, can you tell me one more tip?",
+      "polish": "Dzięki, możesz dorzucić jeszcze jedną wskazówkę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204662"
+    },
+    {
+      "english": "Do you want to know how it turned out?",
+      "polish": "Chcesz wiedzieć, jak to wyszło?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204664"
+    },
+    {
+      "english": "I’m grateful, but can I ask something?",
+      "polish": "Dziękuję, ale mogę zapytać o coś?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204669"
+    },
+    {
+      "english": "What’s the next step, in your opinion?",
+      "polish": "Jaka jest twoim zdaniem kolejna rzecz?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204672"
+    },
+    {
+      "english": "You were right, can I say thanks again?",
+      "polish": "Miałeś rację, mogę znów ci podziękować?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204674"
+    },
+    {
+      "english": "Can I ask, what helped you the most?",
+      "polish": "Mogę zapytać, co ci najbardziej pomogło?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204676"
+    },
+    {
+      "english": "Your message was perfect, want to chat?",
+      "polish": "Twoja wiadomość była idealna, chcesz pogadać?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204679"
+    },
+    {
+      "english": "I appreciate you, can we talk for a sec?",
+      "polish": "Doceniam cię, możemy pogadać chwilę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204681"
+    },
+    {
+      "english": "How can I thank you, like, properly?",
+      "polish": "Jak mam ci podziękować, naprawdę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204683"
+    },
+    {
+      "english": "Can I be honest, you really helped me?",
+      "polish": "Mogę być szczery, naprawdę mi pomogłeś?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204685"
+    },
+    {
+      "english": "What do you think, is this a good idea?",
+      "polish": "Co ty na to, czy to dobry pomysł?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204688"
+    },
+    {
+      "english": "Thanks for checking, can I ask something?",
+      "polish": "Dzięki za sprawdzenie, mogę dopytać?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204690"
+    },
+    {
+      "english": "Can I steal your time for one question?",
+      "polish": "Mogę ukraść ci chwilę, na jedno pytanie?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204694"
+    },
+    {
+      "english": "You’re so thoughtful, what should I do next?",
+      "polish": "Jesteś taki troskliwy, co mam teraz zrobić?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204697"
+    },
+    {
+      "english": "Thanks, do you have a moment now?",
+      "polish": "Dzięki, masz teraz chwilę?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204699"
+    },
+    {
+      "english": "Can I ask you to guide me a bit?",
+      "polish": "Możesz mnie trochę poprowadzić?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204702"
+    },
+    {
+      "english": "I’m listening, what would you recommend?",
+      "polish": "Słucham, co byś polecił?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204704"
+    },
+    {
+      "english": "That’s sweet, can I return the support?",
+      "polish": "To takie miłe, jak mogę ci się odwdzięczyć?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204707"
+    },
+    {
+      "english": "Wait, how did you figure that out?",
+      "polish": "Chwileczkę, skąd wpadłeś na ten pomysł?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204709"
+    },
+    {
+      "english": "Thanks, can we keep talking, I like this.",
+      "polish": "Dzięki, możemy pogadać dalej, lubię to.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204711"
+    },
+    {
+      "english": "I’m grateful, I kept going, step by step.",
+      "polish": "Jestem wdzięczny, nie odpuściłem, krok po kroku.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204714"
+    },
+    {
+      "english": "Thank you, you reminded me to breathe.",
+      "polish": "Dziękuję, przypomniałeś mi, żeby złapać oddech.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204717"
+    },
+    {
+      "english": "I appreciate you, you turned stress into calm.",
+      "polish": "Dziękuję, zamieniłeś stres w spokój.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204719"
+    },
+    {
+      "english": "Your support means more than you know.",
+      "polish": "Twoje wsparcie znaczy więcej, niż myślisz.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204722"
+    },
+    {
+      "english": "I’m thankful, today feels lighter already.",
+      "polish": "Jestem wdzięczny, już dzisiaj jest lżej.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204725"
+    },
+    {
+      "english": "Thanks, I’m learning to notice the good.",
+      "polish": "Dzięki, uczę się widzieć dobre rzeczy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204727"
+    },
+    {
+      "english": "I’m grateful, your words gave me courage.",
+      "polish": "Jestem wdzięczny, twoje słowa dodały mi odwagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204730"
+    },
+    {
+      "english": "Thank you, I’m staying positive no matter what.",
+      "polish": "Dziękuję, trzymam dobry nastrój mimo wszystko.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204733"
+    },
+    {
+      "english": "I appreciate it, I won’t forget this.",
+      "polish": "Doceniam to, nie zapomnę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204736"
+    },
+    {
+      "english": "Thanks, you helped me reframe everything.",
+      "polish": "Dzięki, pomogłeś mi inaczej spojrzeć na sprawę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204738"
+    },
+    {
+      "english": "I’m thankful, small progress still counts.",
+      "polish": "Jestem wdzięczny, małe kroki też się liczą.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204741"
+    },
+    {
+      "english": "You’re kind, I feel supported, truly.",
+      "polish": "Jesteś dobry, czuję wsparcie, naprawdę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204744"
+    },
+    {
+      "english": "Thank you, I’m choosing gratitude over worry.",
+      "polish": "Dziękuję, wybieram wdzięczność zamiast martwienia się.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204747"
+    },
+    {
+      "english": "I appreciate you, you kept me on track.",
+      "polish": "Dziękuję, trzymałeś mnie na właściwym torze.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204749"
+    },
+    {
+      "english": "Thanks, this made my day brighter.",
+      "polish": "Dzięki, zrobiłeś mi dzień lżejszy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204753"
+    },
+    {
+      "english": "I’m grateful, your help turned fear into action.",
+      "polish": "Jestem wdzięczny, twoja pomoc zamieniła strach w działanie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204756"
+    },
+    {
+      "english": "Thank you, you gave me a win inside.",
+      "polish": "Dzięki, dałeś mi małe zwycięstwo w środku.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204759"
+    },
+    {
+      "english": "I appreciate you, you believed I could do it.",
+      "polish": "Doceniam cię, uwierzyłeś, że dam radę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204761"
+    },
+    {
+      "english": "Thanks, I’m letting good things sink in.",
+      "polish": "Dzięki, pozwalam dobrym rzeczom do mnie dotrzeć.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204765"
+    },
+    {
+      "english": "I’m thankful, I’m not doing this alone.",
+      "polish": "Jestem wdzięczny, nie robię tego sam.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204768"
+    },
+    {
+      "english": "Your message helped, it felt like a boost.",
+      "polish": "Twoja wiadomość pomogła, to był prawdziwy zastrzyk mocy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204770"
+    },
+    {
+      "english": "Thank you, you made me believe again.",
+      "polish": "Dziękuję, znów mi uwierzyłeś.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204773"
+    },
+    {
+      "english": "I appreciate you, you kept my head up.",
+      "polish": "Dziękuję, postawiłeś mnie na nogi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204775"
+    },
+    {
+      "english": "Thanks, I’m grateful for your honesty and care.",
+      "polish": "Dzięki, doceniam twoją szczerość i troskę.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204778"
+    },
+    {
+      "english": "I’m thankful, I’m learning from every moment.",
+      "polish": "Jestem wdzięczny, uczę się ze wszystkiego.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204780"
+    },
+    {
+      "english": "Thank you, your calm attitude is contagious.",
+      "polish": "Dziękuję, twoja spokojna energia udziela się.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204783"
+    },
+    {
+      "english": "I appreciate it, I’m moving forward with confidence.",
+      "polish": "Dziękuję, idę dalej z pewnością siebie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204785"
+    },
+    {
+      "english": "Thanks, I’m counting blessings, not just problems.",
+      "polish": "Dzięki, liczę błogosławieństwa, nie tylko problemy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204790"
+    },
+    {
+      "english": "Your kindness, it lifted my mood instantly.",
+      "polish": "Twoja życzliwość, od razu poprawiła mi nastrój.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204793"
+    },
+    {
+      "english": "I’m grateful, I’ll pay it forward with joy.",
+      "polish": "Jestem wdzięczny, oddam to dalej z radością.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204795"
+    },
+    {
+      "english": "I’m grateful, I can be honest now.",
+      "polish": "Jestem wdzięczny, mogę teraz być szczery.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204798"
+    },
+    {
+      "english": "Thank you, I needed this pause and warmth.",
+      "polish": "Dziękuję, potrzebowałem tej przerwy i ciepła.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204800"
+    },
+    {
+      "english": "I notice the small things, I appreciate you.",
+      "polish": "Dostrzegam małe rzeczy, doceniam cię.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204803"
+    },
+    {
+      "english": "I’m learning patience, your timing helped a lot.",
+      "polish": "Uczę się cierpliwości, twoje tempo dużo dało.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204805"
+    },
+    {
+      "english": "I’m grateful, slow days still count.",
+      "polish": "Jestem wdzięczny, wolne dni też się liczą.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204809"
+    },
+    {
+      "english": "Thank you, your calm words grounded me.",
+      "polish": "Dziękuję, twoje spokojne słowa mnie uziemiły.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204811"
+    },
+    {
+      "english": "I’m grateful for your honest effort, not perfect answers.",
+      "polish": "Dziękuję za twoją szczerość i wysiłek, nie ideał.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204814"
+    },
+    {
+      "english": "I feel seen, thank you for staying.",
+      "polish": "Czuję się zauważony, dziękuję, że zostałeś.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204816"
+    },
+    {
+      "english": "I’m thankful, I can breathe through it.",
+      "polish": "Dziękuję, mogę to przetrawić spokojnie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204819"
+    },
+    {
+      "english": "Thank you, I’m slower with judgment now.",
+      "polish": "Dziękuję, teraz rzadziej oceniam pochopnie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204822"
+    },
+    {
+      "english": "I’m grateful, your support makes me steadier.",
+      "polish": "Jestem wdzięczny, twoje wsparcie mnie stabilizuje.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204824"
+    },
+    {
+      "english": "Thank you, your kindness helped me choose better.",
+      "polish": "Dziękuję, twoja życzliwość pomogła mi wybrać mądrzej.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204829"
+    },
+    {
+      "english": "I appreciate you, I’m rebuilding after setbacks.",
+      "polish": "Doceniam cię, odbudowuję się po porażkach.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204831"
+    },
+    {
+      "english": "I’m grateful, I can admit I’m tired too.",
+      "polish": "Jestem wdzięczny, umiem też przyznać zmęczenie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204834"
+    },
+    {
+      "english": "Thank you, you reminded me to be gentle.",
+      "polish": "Dziękuję, przypomniałeś mi, żeby być łagodnym.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204837"
+    },
+    {
+      "english": "I’m grateful, I’m letting feelings move, not freeze.",
+      "polish": "Jestem wdzięczny, pozwalam uczuciom płynąć.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204842"
+    },
+    {
+      "english": "Thank you, I’m learning to look forward again.",
+      "polish": "Dziękuję, uczę się znowu patrzeć w przyszłość.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204844"
+    },
+    {
+      "english": "I appreciate you, I trust myself a little more.",
+      "polish": "Doceniam cię, trochę bardziej ufam sobie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204846"
+    },
+    {
+      "english": "I’m thankful, your words gave me room.",
+      "polish": "Jestem wdzięczny, twoje słowa dały mi przestrzeń.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204849"
+    },
+    {
+      "english": "Thank you, I’m not rushed to be strong.",
+      "polish": "Dziękuję, nie muszę udawać twardziela.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204851"
+    },
+    {
+      "english": "I’m grateful, I can admit I need help.",
+      "polish": "Jestem wdzięczny, mogę powiedzieć, że potrzebuję wsparcia.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204854"
+    },
+    {
+      "english": "Thank you, I’m choosing honesty over silence.",
+      "polish": "Dziękuję, wybieram szczerość zamiast milczenia.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204856"
+    },
+    {
+      "english": "I appreciate you, I’m finding meaning again.",
+      "polish": "Doceniam cię, znowu odnajduję sens.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204859"
+    },
+    {
+      "english": "I’m grateful, we can talk about hard stuff.",
+      "polish": "Jestem wdzięczny, możemy rozmawiać o trudnych sprawach.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204861"
+    },
+    {
+      "english": "Thank you, your presence feels like safety.",
+      "polish": "Dziękuję, twoja obecność daje mi spokój.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204863"
+    },
+    {
+      "english": "I’m thankful, I’m letting go of control.",
+      "polish": "Jestem wdzięczny, odpuszczam potrzebę kontroli.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204866"
+    },
+    {
+      "english": "Thank you, I can see progress, not just problems.",
+      "polish": "Dziękuję, widzę postęp, a nie tylko trudności.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204869"
+    },
+    {
+      "english": "I appreciate your patience, I’m catching up slowly.",
+      "polish": "Doceniam twoją cierpliwość, nadrabiam powoli.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204871"
+    },
+    {
+      "english": "I’m grateful, I don’t have to carry it alone.",
+      "polish": "Jestem wdzięczny, nie muszę tego dźwigać sam.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204874"
+    },
+    {
+      "english": "Thank you, I’m learning to trust good moments.",
+      "polish": "Dziękuję, uczę się ufać dobrym chwilom.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204877"
+    },
+    {
+      "english": "Thanks for checking in, it made my day easier.",
+      "polish": "Dzięki, że sprawdziłeś mnie, było lżej.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T09:56:42.204879"
     }
   ],
-  "last_updated": "2026-11-07T09:42:21.989508"
+  "last_updated": "2026-11-08T09:56:42.204881"
 }
