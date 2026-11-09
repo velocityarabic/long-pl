@@ -15119,7 +15119,727 @@
       "polish": "Dzięki, że sprawdziłeś mnie, było lżej.",
       "category": "Gratitude",
       "generated_at": "2026-11-08T09:56:42.204879"
+    },
+    {
+      "english": "Is there a cheaper option?",
+      "polish": "Czy jest coś tańszego?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812713"
+    },
+    {
+      "english": "Can I try it on?",
+      "polish": "Czy mogę to przymierzyć?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812734"
+    },
+    {
+      "english": "Do you have this in black?",
+      "polish": "Macie to w czarnym kolorze?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812737"
+    },
+    {
+      "english": "Is it in stock right now?",
+      "polish": "Czy to jest dostępne od ręki?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812739"
+    },
+    {
+      "english": "What size do you recommend?",
+      "polish": "Jaki rozmiar polecasz?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812742"
+    },
+    {
+      "english": "Show me the price, please.",
+      "polish": "Pokaż mi cenę, proszę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812744"
+    },
+    {
+      "english": "Great, I’ll take it.",
+      "polish": "Super, wezmę to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812747"
+    },
+    {
+      "english": "Wait, is this on sale?",
+      "polish": "Chwileczkę, czy to jest przecena?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812751"
+    },
+    {
+      "english": "Is it included in the price?",
+      "polish": "Czy to jest w cenie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812754"
+    },
+    {
+      "english": "Do you accept cash here?",
+      "polish": "Czy tutaj płacę się gotówką?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812757"
+    },
+    {
+      "english": "Is delivery extra, or included?",
+      "polish": "Dostawa jest dodatkowa, czy w cenie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812759"
+    },
+    {
+      "english": "Do you have a student discount?",
+      "polish": "Macie zniżkę dla studentów?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812761"
+    },
+    {
+      "english": "Is there a warranty?",
+      "polish": "Czy jest gwarancja?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812765"
+    },
+    {
+      "english": "How long is the return window?",
+      "polish": "Ile trwa zwrot?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812767"
+    },
+    {
+      "english": "I’ll think about it, thanks.",
+      "polish": "Pomyślę, dzięki.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812770"
+    },
+    {
+      "english": "Do you have a receipt, please?",
+      "polish": "Poproszę paragon.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812772"
+    },
+    {
+      "english": "Can I get a bag, please?",
+      "polish": "Poproszę torbę, proszę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812774"
+    },
+    {
+      "english": "This looks really good, though.",
+      "polish": "To wygląda naprawdę dobrze.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812776"
+    },
+    {
+      "english": "What’s the best price you can do?",
+      "polish": "Jaka jest najlepsza cena?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812779"
+    },
+    {
+      "english": "Is there a promotion today?",
+      "polish": "Czy dzisiaj jest jakaś promocja?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812781"
+    },
+    {
+      "english": "That’s exactly what I need.",
+      "polish": "To jest dokładnie to, czego potrzebuję.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812783"
+    },
+    {
+      "english": "No worries, I’ll look around.",
+      "polish": "Spokojnie, rozejrzę się.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812786"
+    },
+    {
+      "english": "Do you offer installment payments?",
+      "polish": "Czy macie raty?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812789"
+    },
+    {
+      "english": "Is there a discount for two?",
+      "polish": "Czy jest zniżka przy dwóch sztukach?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812791"
+    },
+    {
+      "english": "Okay, I’ll take the smaller one.",
+      "polish": "Dobra, wezmę mniejszą.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812794"
+    },
+    {
+      "english": "Can you check the price for me?",
+      "polish": "Mógłbyś sprawdzić cenę?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812796"
+    },
+    {
+      "english": "Ouch, that price hurts!",
+      "polish": "Auć, to jest drogo!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812798"
+    },
+    {
+      "english": "Excuse me, how much does this cost?",
+      "polish": "Przepraszam, ile to kosztuje?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812800"
+    },
+    {
+      "english": "Do you have anything on clearance?",
+      "polish": "Macie coś z wyprzedaży?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812803"
+    },
+    {
+      "english": "Is there a cheaper brand, by any chance?",
+      "polish": "Macie tańszą markę, przypadkiem?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812805"
+    },
+    {
+      "english": "What’s the total, with all fees included?",
+      "polish": "Jaka jest całkowita cena, z opłatami?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812808"
+    },
+    {
+      "english": "Could you suggest a good value option?",
+      "polish": "Doradzisz coś, co się opłaca?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812810"
+    },
+    {
+      "english": "Is this price for one item or two?",
+      "polish": "Ta cena jest za jedną rzecz, czy za dwie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812814"
+    },
+    {
+      "english": "Do I have to prepay for delivery?",
+      "polish": "Czy muszę zapłacić z góry za dostawę?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812816"
+    },
+    {
+      "english": "When would it arrive, approximately?",
+      "polish": "Kiedy mniej więcej dotrze?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812818"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "polish": "Jaka jest różnica między tymi dwoma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812821"
+    },
+    {
+      "english": "Is this the standard price today?",
+      "polish": "Czy to jest dzisiaj cena standardowa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812823"
+    },
+    {
+      "english": "Do you price match, if I bring a deal?",
+      "polish": "Czy robicie dopasowanie ceny, jeśli pokażę ofertę?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812825"
+    },
+    {
+      "english": "Can I ask about the cheaper accessories?",
+      "polish": "Mogę zapytać o tańsze dodatki?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812827"
+    },
+    {
+      "english": "Which one lasts longer, in your opinion?",
+      "polish": "Które dłużej wytrzyma, w Pana/Pani opinii?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812830"
+    },
+    {
+      "english": "Do you have a warranty paper with it?",
+      "polish": "Dostanę kartę gwarancyjną do tego?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812832"
+    },
+    {
+      "english": "If I buy now, is it cheaper later?",
+      "polish": "Kupując teraz, czy taniej będzie później?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812837"
+    },
+    {
+      "english": "What payment methods do you accept here?",
+      "polish": "Jakie formy płatności państwo przyjmujecie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812839"
+    },
+    {
+      "english": "Does the price include tax, or not?",
+      "polish": "Czy ta cena zawiera podatek, czy nie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812841"
+    },
+    {
+      "english": "Is there a student-friendly discount, maybe?",
+      "polish": "Macie zniżkę dla studentów, może?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812844"
+    },
+    {
+      "english": "How much do you charge for packaging?",
+      "polish": "Ile kosztuje pakowanie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812846"
+    },
+    {
+      "english": "Do you offer free returns, just in case?",
+      "polish": "Oferujecie darmowe zwroty, na wszelki wypadek?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812848"
+    },
+    {
+      "english": "Is this item meant for everyday use?",
+      "polish": "To jest do codziennego użytku, prawda?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812850"
+    },
+    {
+      "english": "Can you tell me the sale details?",
+      "polish": "Powiesz mi, jakie są szczegóły promocji?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812852"
+    },
+    {
+      "english": "Is the shipping cost the same for all?",
+      "polish": "Koszt dostawy jest taki sam dla wszystkich?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812854"
+    },
+    {
+      "english": "What do you recommend for sensitive skin?",
+      "polish": "Co polecacie na wrażliwą skórę?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812856"
+    },
+    {
+      "english": "Do you have a loyalty program here?",
+      "polish": "Macie tutaj program lojalnościowy?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812860"
+    },
+    {
+      "english": "If it breaks, what happens next?",
+      "polish": "A jeśli się zepsuje, co dalej?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812862"
+    },
+    {
+      "english": "Is there a limit on this offer?",
+      "polish": "Czy jest limit na tę ofertę?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812864"
+    },
+    {
+      "english": "Could we check the final price together?",
+      "polish": "Możemy razem sprawdzić cenę końcową?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812866"
+    },
+    {
+      "english": "Do you have something similar, but cheaper?",
+      "polish": "Macie coś podobnego, tylko tańszego?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812868"
+    },
+    {
+      "english": "I’m comparing options, can I take a look?",
+      "polish": "Porównuję opcje, mogę rzucić okiem?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812871"
+    },
+    {
+      "english": "You’re doing great, take your time here.",
+      "polish": "Robisz świetną robotę, spokojnie rozejrzyj się.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812873"
+    },
+    {
+      "english": "Trust your gut, that deal feels right.",
+      "polish": "Zaufaj przeczuciu, ta okazja naprawdę pasuje.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812876"
+    },
+    {
+      "english": "Small steps today, big savings tomorrow.",
+      "polish": "Drobne kroki dziś, wielkie oszczędności jutro.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812878"
+    },
+    {
+      "english": "Breathe in, decide calmly, spend wisely.",
+      "polish": "Wdech, spokój w głowie, mądrze wybieraj.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812881"
+    },
+    {
+      "english": "You can compare, and still feel confident.",
+      "polish": "Możesz porównywać, i nadal masz spokój.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812883"
+    },
+    {
+      "english": "Good choice, you’ll thank yourself later.",
+      "polish": "Dobry wybór, potem ci podziękujesz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812886"
+    },
+    {
+      "english": "Prices change, your plan stays strong.",
+      "polish": "Ceny się zmieniają, plan masz pewny.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812888"
+    },
+    {
+      "english": "Say yes to value, not just low cost.",
+      "polish": "Mów „tak” jakości, nie tylko niskiej cenie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812892"
+    },
+    {
+      "english": "Keep it simple, choose what works.",
+      "polish": "Prosto i skutecznie, wybierz to, co działa.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812894"
+    },
+    {
+      "english": "You’re not rushed, you’re in control.",
+      "polish": "Nie musisz się spieszyć, panujesz nad tym.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812896"
+    },
+    {
+      "english": "Pay attention, small details save money.",
+      "polish": "Patrz uważnie, drobiazgi robią różnicę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812899"
+    },
+    {
+      "english": "It’s okay to ask, that’s smart.",
+      "polish": "Nic nie szkodzi, pytanie to mądra rzecz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812902"
+    },
+    {
+      "english": "You’re learning fast, your choices get better.",
+      "polish": "Szybko łapiesz, twoje wybory będą lepsze.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812905"
+    },
+    {
+      "english": "Pick the option that fits your life.",
+      "polish": "Wybierz to, co pasuje do twojego dnia.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812911"
+    },
+    {
+      "english": "Great, you’re checking value, not panic.",
+      "polish": "Super, liczysz wartość, nie wpadasz w panikę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812914"
+    },
+    {
+      "english": "Your budget is your superpower.",
+      "polish": "Twój budżet to twoja supermoc.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812916"
+    },
+    {
+      "english": "Choose once, enjoy it longer.",
+      "polish": "Wybierz raz, ciesz się dłużej.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812918"
+    },
+    {
+      "english": "You deserve quality, and you’ll find it.",
+      "polish": "Zasługujesz na jakość, znajdziesz ją.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812920"
+    },
+    {
+      "english": "Stay positive, there’s always a better fit.",
+      "polish": "Bądź dobrej myśli, zawsze znajdzie się lepsza opcja.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812923"
+    },
+    {
+      "english": "Even with a budget, you can win.",
+      "polish": "Nawet z budżetem, da się wygrywać.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812925"
+    },
+    {
+      "english": "Be proud, you’re spending with purpose.",
+      "polish": "Bądź dumny, wydajesz z sensem.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812928"
+    },
+    {
+      "english": "Keep your eyes open, deals hide everywhere.",
+      "polish": "Miej oczy szeroko, okazje czają się wszędzie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812930"
+    },
+    {
+      "english": "You’re allowed to wait, good prices come.",
+      "polish": "Możesz poczekać, dobre ceny przyjdą.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812932"
+    },
+    {
+      "english": "Confidence looks good on you, too.",
+      "polish": "Pewność siebie też ci dobrze wygląda.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812934"
+    },
+    {
+      "english": "Ask, compare, and celebrate your smart pick.",
+      "polish": "Pytaj, porównuj, i świętuj trafiony wybór.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812937"
+    },
+    {
+      "english": "Today’s choice can become tomorrow’s win.",
+      "polish": "Dzisiaj wybór, jutro satysfakcja.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812939"
+    },
+    {
+      "english": "You don’t need perfect, you need right.",
+      "polish": "Nie musisz mieć ideału, wystarczy dobre.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812942"
+    },
+    {
+      "english": "Make space for joy, shopping can be fun.",
+      "polish": "Zostaw miejsce na radość, zakupy też cieszą.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812944"
+    },
+    {
+      "english": "Every store is practice, you’re getting better.",
+      "polish": "Każdy sklep to trening, nabierasz wprawy.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812947"
+    },
+    {
+      "english": "I’m not rushing, I need to feel right.",
+      "polish": "Nie spieszę się, muszę czuć, że to dobre.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812949"
+    },
+    {
+      "english": "This price feels fair, and that helps.",
+      "polish": "Ta cena wydaje mi się uczciwa, i to pomaga.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812951"
+    },
+    {
+      "english": "Honestly, I’m waiting for the right moment.",
+      "polish": "Szczerze, czekam na właściwy moment.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812954"
+    },
+    {
+      "english": "I like it, but I want clarity first.",
+      "polish": "Podoba mi się, ale chcę najpierw jasności.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812956"
+    },
+    {
+      "english": "Let me think, I don’t buy on impulse.",
+      "polish": "Daj mi chwilę, nie kupuję w ciemno.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812958"
+    },
+    {
+      "english": "If it’s worth it, I’ll pay, no drama.",
+      "polish": "Jeśli to warte, zapłacę, bez dramatu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812961"
+    },
+    {
+      "english": "Sometimes the cheaper option feels smarter.",
+      "polish": "Czasem tańsza opcja wydaje się sprytniejsza.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812963"
+    },
+    {
+      "english": "I want comfort, not just the lowest price.",
+      "polish": "Chcę wygody, nie tylko najniższej ceny.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812965"
+    },
+    {
+      "english": "I’m checking details, because I care.",
+      "polish": "Sprawdzam szczegóły, bo mi zależy.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812968"
+    },
+    {
+      "english": "This store feels honest, I like that.",
+      "polish": "W tym sklepie czuję uczciwość, i to mi pasuje.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812972"
+    },
+    {
+      "english": "I’m not upset, I just need options.",
+      "polish": "Nie jestem zła, po prostu potrzebuję opcji.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812976"
+    },
+    {
+      "english": "I’ll pay more if the quality stays.",
+      "polish": "Zapłacę więcej, jeśli jakość zostaje.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812979"
+    },
+    {
+      "english": "I’m trying to be patient, seriously.",
+      "polish": "Starzę się być cierpliwy, naprawdę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812981"
+    },
+    {
+      "english": "I feel better when the deal makes sense.",
+      "polish": "Lepsza mi, gdy ta oferta ma sens.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812983"
+    },
+    {
+      "english": "Let’s not overthink it, but still check.",
+      "polish": "Nie komplikujmy, ale i tak sprawdźmy.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812986"
+    },
+    {
+      "english": "I’m calmer now, the price is clear.",
+      "polish": "Jestem teraz spokojniejszy, cena jest jasna.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812988"
+    },
+    {
+      "english": "I want value that lasts, not a trick.",
+      "polish": "Chcę wartości na dłużej, nie sztuczki.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812991"
+    },
+    {
+      "english": "I hate surprises, show me everything first.",
+      "polish": "Nie lubię niespodzianek, pokaż wszystko od razu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812993"
+    },
+    {
+      "english": "I’m choosing with my future self in mind.",
+      "polish": "Wybieram, myśląc o sobie za jakiś czas.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.812996"
+    },
+    {
+      "english": "This is a small treat, I’ll enjoy it.",
+      "polish": "To mały prezent, i po prostu to cieszę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813000"
+    },
+    {
+      "english": "I don’t need hype, I need a good deal.",
+      "polish": "Nie potrzebuję marketingu, potrzebuję dobrego interesu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813003"
+    },
+    {
+      "english": "I’m okay waiting, discounts show up eventually.",
+      "polish": "Mogę poczekać, promocje w końcu przyjdą.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813006"
+    },
+    {
+      "english": "I’m listening to my gut, but also numbers.",
+      "polish": "Słucham intuicji, ale patrzę też na liczby.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813008"
+    },
+    {
+      "english": "If it’s too good to be true, pause.",
+      "polish": "Jeśli coś jest zbyt piękne, zrób przerwę.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813011"
+    },
+    {
+      "english": "I want to shop smart, not shop stressed.",
+      "polish": "Chcę kupować mądrze, nie kupować w stresie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813013"
+    },
+    {
+      "english": "I’m fine with less, as long as it fits.",
+      "polish": "Jestem w porządku z mniej, byle pasowało.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813015"
+    },
+    {
+      "english": "Let me check one more time, just in case.",
+      "polish": "Sprawdzę jeszcze raz, tak dla pewności.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813017"
+    },
+    {
+      "english": "I’m proud of myself for choosing calmly.",
+      "polish": "Jestem z siebie dumna, że wybieram spokojnie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813019"
+    },
+    {
+      "english": "Today I’ll buy less, but with meaning.",
+      "polish": "Dzisiaj kupię mniej, ale z sensem.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813022"
+    },
+    {
+      "english": "Quick check, does it include delivery?",
+      "polish": "Szybko sprawdź, czy wliczają dostawę?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813024"
+    },
+    {
+      "english": "Wait, what's the final price with tax?",
+      "polish": "Chwileczkę, ile wychodzi z podatkiem?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813027"
+    },
+    {
+      "english": "I’ll scan the barcode, easy returns matter.",
+      "polish": "Skanuję kod, ważne są łatwe zwroty.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813029"
+    },
+    {
+      "english": "Do you have it cheaper in another size?",
+      "polish": "Macie to taniej w innym rozmiarze?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813033"
+    },
+    {
+      "english": "Okay, but can you show the receipt?",
+      "polish": "Dobra, ale pokażesz paragon?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-09T11:01:50.813035"
     }
   ],
-  "last_updated": "2026-11-08T09:56:42.204881"
+  "last_updated": "2026-11-09T11:01:50.813037"
 }
