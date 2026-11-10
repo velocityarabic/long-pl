@@ -15839,7 +15839,727 @@
       "polish": "Dobra, ale pokażesz paragon?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-09T11:01:50.813035"
+    },
+    {
+      "english": "Hi, do you have a room for tonight?",
+      "polish": "Cześć, macie pokój na dzisiaj w nocy?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778830"
+    },
+    {
+      "english": "Great, can I check in now, please?",
+      "polish": "Super, mogę się zameldować teraz, proszę?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778846"
+    },
+    {
+      "english": "Do you have anything cheaper, by chance?",
+      "polish": "Macie coś taniej, przypadkiem?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778848"
+    },
+    {
+      "english": "How much is the deposit, exactly?",
+      "polish": "Ile wynosi kaucja, dokładnie?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778850"
+    },
+    {
+      "english": "I need a late check-out, please.",
+      "polish": "Potrzebuję późnego wymeldowania, proszę.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778852"
+    },
+    {
+      "english": "Can I leave my bag here for now?",
+      "polish": "Mogę zostawić tu bagaż, na chwilę?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778854"
+    },
+    {
+      "english": "Where is the reception, by the way?",
+      "polish": "Gdzie tu jest recepcja, swoją drogą?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778857"
+    },
+    {
+      "english": "Do I need the key card right away?",
+      "polish": "Czy karta-klucz jest potrzebna od razu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778861"
+    },
+    {
+      "english": "My room key doesn't work, sorry.",
+      "polish": "Klucz nie działa w pokoju, przepraszam.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778864"
+    },
+    {
+      "english": "Is there Wi‑Fi in the room?",
+      "polish": "Jest Wi‑Fi w pokoju?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778866"
+    },
+    {
+      "english": "Oh, the room is noisy, honestly.",
+      "polish": "O, w pokoju jest głośno, szczerze.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778868"
+    },
+    {
+      "english": "Can someone fix the air conditioner?",
+      "polish": "Czy ktoś może naprawić klimatyzację?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778870"
+    },
+    {
+      "english": "The shower is cold, is it normal?",
+      "polish": "Prysznic leci zimną wodą, to normalne?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778871"
+    },
+    {
+      "english": "Do you have extra towels, please?",
+      "polish": "Macie dodatkowe ręczniki, proszę?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778873"
+    },
+    {
+      "english": "Can I get another blanket, please?",
+      "polish": "Mogę prosić o jeszcze jeden koc?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778875"
+    },
+    {
+      "english": "No problem, I’ll wait in the lobby.",
+      "polish": "Nie ma sprawy, poczekam w holu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778877"
+    },
+    {
+      "english": "Perfect, I love this room, thanks!",
+      "polish": "Super, uwielbiam ten pokój, dziękuję!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778878"
+    },
+    {
+      "english": "Quick question, what time is breakfast?",
+      "polish": "Szybkie pytanie, o której jest śniadanie?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778880"
+    },
+    {
+      "english": "I’m checking out now, could you help?",
+      "polish": "Wymeldowuję się teraz, możecie pomóc?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778882"
+    },
+    {
+      "english": "Can I pay by card, not cash?",
+      "polish": "Czy mogę zapłacić kartą, nie gotówką?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778883"
+    },
+    {
+      "english": "Where do I return the key card?",
+      "polish": "Gdzie mam zwrócić kartę-klucz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778885"
+    },
+    {
+      "english": "Is there parking nearby, for guests?",
+      "polish": "Jest gdzie zaparkować w pobliżu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778886"
+    },
+    {
+      "english": "I’m late, can you keep the room?",
+      "polish": "Jestem spóźniony, możecie trzymać pokój?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778888"
+    },
+    {
+      "english": "Actually, I’d like to extend my stay.",
+      "polish": "Chciał(a)bym przedłużyć pobyt, wiesz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778890"
+    },
+    {
+      "english": "Sorry, the Wi‑Fi is down right now.",
+      "polish": "Przepraszam, teraz Wi‑Fi nie działa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778892"
+    },
+    {
+      "english": "Can I get a room with a window?",
+      "polish": "Mogę dostać pokój z oknem?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778893"
+    },
+    {
+      "english": "That view is amazing, seriously, wow.",
+      "polish": "Ale widok, serio, wow!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778895"
+    },
+    {
+      "english": "Quick question, what’s included in the price?",
+      "polish": "Szybkie pytanie, co jest w cenie?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778897"
+    },
+    {
+      "english": "Is breakfast served in the mornings, daily?",
+      "polish": "Czy śniadanie jest codziennie, rano?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778901"
+    },
+    {
+      "english": "Do you have rooms facing a quiet courtyard?",
+      "polish": "Macie pokoje na spokojny dziedziniec?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778903"
+    },
+    {
+      "english": "May I ask, how late is the reception?",
+      "polish": "Czy mogę zapytać, do której jest recepcja?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778905"
+    },
+    {
+      "english": "Which elevators are working right now?",
+      "polish": "Które windy działają teraz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778906"
+    },
+    {
+      "english": "Can I see the room photos, before booking?",
+      "polish": "Mogę zobaczyć zdjęcia pokoju, przed rezerwacją?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778908"
+    },
+    {
+      "english": "What’s the best time for check-in?",
+      "polish": "Kiedy najlepiej się zameldować?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778910"
+    },
+    {
+      "english": "Do you offer airport transfer, maybe?",
+      "polish": "Macie transfer z lotniska, proszę?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778911"
+    },
+    {
+      "english": "Is there a desk, I can work at?",
+      "polish": "Czy jest biurko, żebym mógł pracować?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778920"
+    },
+    {
+      "english": "Do you have a late breakfast option?",
+      "polish": "Czy oferujecie późne śniadanie?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778922"
+    },
+    {
+      "english": "How strict is the quiet hours policy?",
+      "polish": "Jak restrykcyjne są cisze nocne?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778923"
+    },
+    {
+      "english": "Can you recommend a nice local restaurant?",
+      "polish": "Polecisz mi fajną restaurację w okolicy?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778925"
+    },
+    {
+      "english": "Is there an ATM nearby for guests?",
+      "polish": "Czy w pobliżu jest bankomat?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778927"
+    },
+    {
+      "english": "Could I get a city map at the desk?",
+      "polish": "Czy mogę dostać mapę miasta w recepcji?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778928"
+    },
+    {
+      "english": "Do rooms have hairdryers, or on request?",
+      "polish": "Czy w pokojach są suszarki, czy na życzenie?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778930"
+    },
+    {
+      "english": "What’s the Wi‑Fi speed, roughly?",
+      "polish": "Jaka jest prędkość Wi‑Fi, mniej więcej?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778932"
+    },
+    {
+      "english": "Can I reserve a parking spot in advance?",
+      "polish": "Czy mogę zarezerwować miejsce parkingowe wcześniej?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778934"
+    },
+    {
+      "english": "Do you allow early check-in, if available?",
+      "polish": "Czy można wcześniej zameldować, jeśli jest miejsce?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778937"
+    },
+    {
+      "english": "Is the room cleaned daily, or only sometimes?",
+      "polish": "Czy sprzątanie jest codziennie, czy czasem?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778939"
+    },
+    {
+      "english": "What’s your policy on smoking in rooms?",
+      "polish": "Jak wygląda zasada palenia w pokojach?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778941"
+    },
+    {
+      "english": "Can I get an extra pillow, for my back?",
+      "polish": "Mogę prosić o dodatkową poduszkę?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778944"
+    },
+    {
+      "english": "Is there a gym on site, or nearby?",
+      "polish": "Czy macie siłownię na miejscu, czy obok?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778946"
+    },
+    {
+      "english": "Do you have rooms for couples, more romantic?",
+      "polish": "Macie pokoje dla par, bardziej romantyczne?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778948"
+    },
+    {
+      "english": "What do I do if I need help at night?",
+      "polish": "Co mam zrobić, jeśli potrzebuję pomocy w nocy?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778949"
+    },
+    {
+      "english": "Can I ask about your cancellation policy?",
+      "polish": "Czy mogę zapytać o zasady anulowania?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778951"
+    },
+    {
+      "english": "Do you have elevators suitable for big luggage?",
+      "polish": "Czy windy są dla dużego bagażu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778953"
+    },
+    {
+      "english": "Is there a bar, or only breakfast area?",
+      "polish": "Czy jest bar, czy tylko strefa śniadań?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778955"
+    },
+    {
+      "english": "Could you suggest a quiet room option?",
+      "polish": "Możesz polecić cichy pokój, proszę?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778956"
+    },
+    {
+      "english": "How far is it from public transport?",
+      "polish": "Jak daleko jest do komunikacji miejskiej?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778958"
+    },
+    {
+      "english": "What’s the check-out time, just to confirm?",
+      "polish": "Do której jest wymeldowanie, potwierdzisz?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778960"
+    },
+    {
+      "english": "You’ll love it here, trust me.",
+      "polish": "Na pewno ci się tu spodoba, serio.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778963"
+    },
+    {
+      "english": "Breathe in, you’re safe in this place.",
+      "polish": "Wdech, jesteś tu w bezpiecznym miejscu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778965"
+    },
+    {
+      "english": "Small steps win, enjoy your stay today.",
+      "polish": "Małe kroki wygrywają, ciesz się pobytem.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778966"
+    },
+    {
+      "english": "You’re doing great, just settle into your room.",
+      "polish": "Dajesz radę, po prostu urządź się w pokoju.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778970"
+    },
+    {
+      "english": "Let’s make tomorrow easy, start now.",
+      "polish": "Zróbmy jutro prosto, zacznij teraz.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778972"
+    },
+    {
+      "english": "It’s okay to ask, you deserve comfort.",
+      "polish": "To normalne, zapytać, zasługujesz na wygodę.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778974"
+    },
+    {
+      "english": "Your plan is solid, relax and enjoy.",
+      "polish": "Masz dobry plan, wyluzuj i korzystaj.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778976"
+    },
+    {
+      "english": "Today counts, take your time and smile.",
+      "polish": "Dzisiaj się liczy, zwolnij, uśmiechnij się.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778978"
+    },
+    {
+      "english": "You’re in the right place, trust the vibe.",
+      "polish": "Jesteś we właściwym miejscu, czuj klimat.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778982"
+    },
+    {
+      "english": "Good job, everything will work out fine.",
+      "polish": "Super robota, wszystko ułoży się dobrze.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778983"
+    },
+    {
+      "english": "Keep it simple, enjoy the moment here.",
+      "polish": "Prosto i lekko, ciesz się chwilą.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778985"
+    },
+    {
+      "english": "Say thank you, small praise changes everything.",
+      "polish": "Powiedz dziękuję, małe pochwały robią cuda.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778986"
+    },
+    {
+      "english": "Tonight will be cozy, you’ll see.",
+      "polish": "Na wieczór będzie przytulnie, zobaczysz.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778989"
+    },
+    {
+      "english": "Make room for calm, settle in now.",
+      "polish": "Zrób miejsce na spokój, rozgość się.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778990"
+    },
+    {
+      "english": "Your comfort matters, take care of yourself.",
+      "polish": "Twoja wygoda się liczy, zadbaj o siebie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778992"
+    },
+    {
+      "english": "You’re not behind, enjoy the ride.",
+      "polish": "Nie jesteś spóźniony, jedź spokojnie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778994"
+    },
+    {
+      "english": "Relax your shoulders, everything is taken care.",
+      "polish": "Opuść barki, wszystko jest ogarnięte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778996"
+    },
+    {
+      "english": "You’ll sleep better tonight, promise.",
+      "polish": "Będziesz lepiej spać tej nocy, obiecuję.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.778998"
+    },
+    {
+      "english": "Give yourself a break, you earned it.",
+      "polish": "Daj sobie przerwę, zasłużyłeś.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779000"
+    },
+    {
+      "english": "Focus on good things, your trip starts now.",
+      "polish": "Skup się na dobrym, twoja podróż zaczyna się teraz.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779002"
+    },
+    {
+      "english": "Nice choice, this place has your back.",
+      "polish": "Dobry wybór, to miejsce ci pomoże.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779004"
+    },
+    {
+      "english": "Ask calmly, polite requests work best.",
+      "polish": "Zapytać spokojnie, grzeczne prośby działają najlepiej.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779005"
+    },
+    {
+      "english": "You’re doing it right, enjoy every detail.",
+      "polish": "Robisz to dobrze, ciesz się detalami.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779007"
+    },
+    {
+      "english": "This is your reset, recharge and enjoy.",
+      "polish": "To twoje reset, naładuj się i korzystaj.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779009"
+    },
+    {
+      "english": "One more day, one more win—stay positive.",
+      "polish": "Jeszcze jeden dzień, jeszcze jedna wygrana—bądź dobrej myśli.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779011"
+    },
+    {
+      "english": "Even if it’s busy, you’ll manage.",
+      "polish": "Nawet jak jest ruch, dasz radę.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779013"
+    },
+    {
+      "english": "You’re safe here, take your time.",
+      "polish": "Jesteś tu bezpiecznie, pośpiesz się nie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779015"
+    },
+    {
+      "english": "Stay open-minded, great surprises happen.",
+      "polish": "Bądź otwarty, świetne niespodzianki się zdarzają.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779016"
+    },
+    {
+      "english": "Say it simply, I’m here to relax.",
+      "polish": "Powiedz prosto, jestem tu po to, żeby odpocząć.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779018"
+    },
+    {
+      "english": "I’m settling in, I need quiet now.",
+      "polish": "Uspokajam się, potrzebuję teraz ciszy.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779021"
+    },
+    {
+      "english": "Honestly, I feel calmer in this room.",
+      "polish": "Szczerze, czuję się tu spokojniej.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779022"
+    },
+    {
+      "english": "I’m not in a rush, please take your time.",
+      "polish": "Nie spieszę się, proszę, proszę chwilę.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779025"
+    },
+    {
+      "english": "I just want to decompress after traveling.",
+      "polish": "Chcę tylko się wyciszyć po podróży.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779028"
+    },
+    {
+      "english": "This place feels like a soft landing.",
+      "polish": "To miejsce jest jak miękkie lądowanie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779029"
+    },
+    {
+      "english": "I’d rather be by myself for a bit.",
+      "polish": "Wolę na chwilę pobyć sam.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779031"
+    },
+    {
+      "english": "I’m grateful, even small kindness helps.",
+      "polish": "Jestem wdzięczny, nawet małe gesty pomagają.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779034"
+    },
+    {
+      "english": "I want to sleep well, that’s my priority.",
+      "polish": "Chcę dobrze spać, to moja priorytetowa rzecz.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779036"
+    },
+    {
+      "english": "If possible, I’d love a calmer corner.",
+      "polish": "Jeśli się da, poproszę o spokojniejszy kąt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779038"
+    },
+    {
+      "english": "Today I need comfort, not big surprises.",
+      "polish": "Dzisiaj potrzebuję komfortu, nie wielkich niespodzianek.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779040"
+    },
+    {
+      "english": "I’m a little tired, please be gentle.",
+      "polish": "Jestem trochę zmęczony, proszę, bądźcie delikatni.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779042"
+    },
+    {
+      "english": "I feel safe here, so I can relax.",
+      "polish": "Czuję się bezpiecznie, więc mogę odpocząć.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779045"
+    },
+    {
+      "english": "I’m trying to keep things simple tonight.",
+      "polish": "Chcę dziś wieczorem wszystko uprościć.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779047"
+    },
+    {
+      "english": "I appreciate clear answers, it eases my mind.",
+      "polish": "Doceniam jasne odpowiedzi, uspokajają mnie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779049"
+    },
+    {
+      "english": "I’m okay if it takes time, truly.",
+      "polish": "Nie mam nic przeciwko czasowi, naprawdę.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779051"
+    },
+    {
+      "english": "I’m noticing my thoughts settle down here.",
+      "polish": "Widzę, że moje myśli tu opadają.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779053"
+    },
+    {
+      "english": "Please speak softly, I’m overstimulated.",
+      "polish": "Proszę mówić ciszej, jestem przewrażliwiony.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779055"
+    },
+    {
+      "english": "I want to take my time, no pressure.",
+      "polish": "Chcę robić wszystko powoli, bez presji.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779057"
+    },
+    {
+      "english": "Honestly, this view makes me breathe easier.",
+      "polish": "Szczerze, ten widok ułatwia mi oddech.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779058"
+    },
+    {
+      "english": "I’m glad I chose this stay for myself.",
+      "polish": "Cieszę się, że wybrałam to miejsce dla siebie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779060"
+    },
+    {
+      "english": "I’m overwhelmed, so I’ll keep it quiet.",
+      "polish": "Jestem przytłoczony, więc zostanę w spokoju.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779062"
+    },
+    {
+      "english": "Please help me feel at ease here.",
+      "polish": "Proszę, pomóż mi poczuć się swobodnie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779064"
+    },
+    {
+      "english": "I’ll be respectful, I just need rest.",
+      "polish": "Będę dyskretny, po prostu potrzebuję odpoczynku.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779066"
+    },
+    {
+      "english": "If something changes, tell me calmly.",
+      "polish": "Jeśli coś się zmieni, powiedz mi spokojnie.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779068"
+    },
+    {
+      "english": "I’m grateful you understand how I feel.",
+      "polish": "Dziękuję, że rozumiecie, jak się czuję.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779069"
+    },
+    {
+      "english": "I’m ready to slow down, thank you.",
+      "polish": "Jestem gotów zwolnić, dziękuję.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779072"
+    },
+    {
+      "english": "I’ll take one step at a time here.",
+      "polish": "Tu zrobię to krok po kroku.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779073"
+    },
+    {
+      "english": "I’m okay asking again, it matters to me.",
+      "polish": "Mogę zapytać jeszcze raz, to dla mnie ważne.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779075"
+    },
+    {
+      "english": "Tonight, I want peace more than anything.",
+      "polish": "Na dziś wieczór spokoju potrzebuję najbardziej.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779077"
+    },
+    {
+      "english": "Check-in is fast, but bring your ID.",
+      "polish": "Zameldowanie idzie szybko, ale weź dokument.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779079"
+    },
+    {
+      "english": "Can I get extra towels, please?",
+      "polish": "Czy mogę prosić o dodatkowe ręczniki?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779080"
+    },
+    {
+      "english": "The elevator is slow, so plan ahead.",
+      "polish": "Winda jedzie wolno, więc zaplanuj z wyprzedzeniem.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779082"
+    },
+    {
+      "english": "Is breakfast included, or is it extra?",
+      "polish": "Śniadanie jest w cenie, czy dopłata?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779083"
+    },
+    {
+      "english": "If the key fails, tell reception immediately.",
+      "polish": "Jeśli klucz nie działa, od razu powiedz recepcji.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-10T10:51:31.779085"
     }
   ],
-  "last_updated": "2026-11-09T11:01:50.813037"
+  "last_updated": "2026-11-10T10:51:31.779086"
 }
