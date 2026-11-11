@@ -16559,7 +16559,727 @@
       "polish": "Jeśli klucz nie działa, od razu powiedz recepcji.",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-10T10:51:31.779085"
+    },
+    {
+      "english": "Hey, you free tonight?",
+      "polish": "Hej, jesteś wolny/a dziś wieczorem?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287528"
+    },
+    {
+      "english": "I like your vibe, honestly.",
+      "polish": "Podoba mi się twój vibe, serio.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287542"
+    },
+    {
+      "english": "That’s cute, where did you buy it?",
+      "polish": "Ale słodkie, gdzie to kupiłeś/aś?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287545"
+    },
+    {
+      "english": "Wait, come here for a second.",
+      "polish": "Chwileczkę, podejdź tutaj.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287548"
+    },
+    {
+      "english": "No way, you’re kidding, right?",
+      "polish": "Nie ma mowy, żartujesz, prawda?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287551"
+    },
+    {
+      "english": "I’m single, so what now?",
+      "polish": "Jestem single, no i co teraz?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287554"
+    },
+    {
+      "english": "Let’s take a walk, just us.",
+      "polish": "Chodźmy na spacer, tylko my.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287556"
+    },
+    {
+      "english": "You’re really easy to talk to.",
+      "polish": "Naprawdę łatwo mi z tobą gadać.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287561"
+    },
+    {
+      "english": "Do you want coffee after this?",
+      "polish": "Chcesz kawę po tym?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287564"
+    },
+    {
+      "english": "That smile, wow, don’t stop.",
+      "polish": "Ten uśmiech, wow, nie przestawaj.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287567"
+    },
+    {
+      "english": "Sorry, I’m nervous, it’s you.",
+      "polish": "Przepraszam, jestem zestresowany/a, to przez ciebie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287570"
+    },
+    {
+      "english": "Tell me your favorite date spot.",
+      "polish": "Powiedz, gdzie lubisz randkować najbardziej.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287572"
+    },
+    {
+      "english": "Hold on, I missed your message.",
+      "polish": "Chwila, nie widziałem/am twojej wiadomości.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287575"
+    },
+    {
+      "english": "I’m into you, just so you know.",
+      "polish": "Jestem w tobie, po prostu wiedz.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287577"
+    },
+    {
+      "english": "You look amazing, where are we going?",
+      "polish": "Wyglądasz niesamowicie, gdzie idziemy?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287579"
+    },
+    {
+      "english": "Are you texting me, or flirting?",
+      "polish": "Piszesz do mnie, czy po prostu flirujesz?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287581"
+    },
+    {
+      "english": "I’m down for a quick meet-up.",
+      "polish": "Jestem chętny/a na krótkie spotkanie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287584"
+    },
+    {
+      "english": "Let’s keep it simple, coffee first?",
+      "polish": "Zróbmy prosto, kawa najpierw?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287587"
+    },
+    {
+      "english": "I like your eyes, seriously.",
+      "polish": "Podoba mi się spojrzenie, serio.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287589"
+    },
+    {
+      "english": "Careful, you’re making me blush.",
+      "polish": "Uważaj, robisz mi rumieńce.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287592"
+    },
+    {
+      "english": "Can I get your number, please?",
+      "polish": "Mogę prosić o twój numer?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287594"
+    },
+    {
+      "english": "Let’s talk more, I like this.",
+      "polish": "Pogadajmy więcej, mi się podoba.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287598"
+    },
+    {
+      "english": "Okay, that was smooth, I admit.",
+      "polish": "Dobra, było sprytne, przyznaję.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287600"
+    },
+    {
+      "english": "Do you prefer texts, or calls?",
+      "polish": "Wolisz SMS-y, czy telefony?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287602"
+    },
+    {
+      "english": "Let’s meet here, ten minutes.",
+      "polish": "Spotkajmy się tutaj, za dziesięć minut.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287606"
+    },
+    {
+      "english": "I’ll be honest, I want to see you.",
+      "polish": "Powiem ci szczerze, chcę cię zobaczyć.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287609"
+    },
+    {
+      "english": "Good, let’s make plans right now.",
+      "polish": "Super, zróbmy plany od razu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287611"
+    },
+    {
+      "english": "What are you looking for, dating-wise?",
+      "polish": "Czego szukasz, jeśli chodzi o randki?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287662"
+    },
+    {
+      "english": "Are you seeing someone, or are you free?",
+      "polish": "Spotykasz się z kimś, czy jesteś wolna?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287664"
+    },
+    {
+      "english": "How do you like your first dates?",
+      "polish": "Jak lubisz pierwsze randki?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287667"
+    },
+    {
+      "english": "Do you prefer messages, or voice notes?",
+      "polish": "Wolisz wiadomości, czy notatki głosowe?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287669"
+    },
+    {
+      "english": "What’s a perfect evening for you?",
+      "polish": "Jaki jest twój idealny wieczór?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287672"
+    },
+    {
+      "english": "Can I ask what you do for fun?",
+      "polish": "Mogę zapytać, co robisz dla zabawy?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287674"
+    },
+    {
+      "english": "Are you more into plans, or spontaneity?",
+      "polish": "Wolisz mieć plany, czy wolisz spontanicznie?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287676"
+    },
+    {
+      "english": "What’s your ideal date, low-key or big?",
+      "polish": "Jaka jest twoja idealna randka, spokojna?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287679"
+    },
+    {
+      "english": "Do you feel comfortable with texting first?",
+      "polish": "Czujesz się komfortowo, gdy zaczynamy od SMS-ów?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287681"
+    },
+    {
+      "english": "Would you rather meet in a café?",
+      "polish": "Wolisz kawiarnię, czy wolisz coś innego?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287684"
+    },
+    {
+      "english": "Do you want something casual, or serious?",
+      "polish": "Chcesz coś luźnego, czy czegoś na serio?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287686"
+    },
+    {
+      "english": "What’s your favorite thing to talk about?",
+      "polish": "O czym lubisz najczęściej rozmawiać?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287688"
+    },
+    {
+      "english": "Are you good with late nights or early?",
+      "polish": "Jesteś bardziej nocny, czy poranny?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287690"
+    },
+    {
+      "english": "May I know your free day this week?",
+      "polish": "W jaki dzień w tym tygodniu masz czas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287692"
+    },
+    {
+      "english": "Should we keep it simple, or plan more?",
+      "polish": "Trzymać się prosto, czy zrobić więcej planów?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287694"
+    },
+    {
+      "english": "What’s the vibe you’re hoping for?",
+      "polish": "Jaki klimat masz na myśli?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287697"
+    },
+    {
+      "english": "Do you have any must-try places nearby?",
+      "polish": "Masz jakieś miejsca, które warto odwiedzić?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287699"
+    },
+    {
+      "english": "How do you like to be asked out?",
+      "polish": "Jak wolisz, żebym cię zaprosił?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287701"
+    },
+    {
+      "english": "Can I be honest, I’m curious?",
+      "polish": "Mogę powiedzieć szczerze, że jestem ciekaw?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287703"
+    },
+    {
+      "english": "What does a good date feel like?",
+      "polish": "Jak wygląda dla ciebie dobry randkowy wieczór?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287705"
+    },
+    {
+      "english": "Do you want to go out, or stay in?",
+      "polish": "Wolisz wyjść, czy zostać w domu?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287707"
+    },
+    {
+      "english": "What’s your boundary, just so I know?",
+      "polish": "Jaka jest twoja granica, żebym wiedział?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287710"
+    },
+    {
+      "english": "Would you mind sharing your schedule?",
+      "polish": "Nie przeszkadza ci powiedzieć, kiedy masz wolne?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287712"
+    },
+    {
+      "english": "Should we start with a quick call?",
+      "polish": "Zacząć od krótkiej rozmowy przez telefon?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287714"
+    },
+    {
+      "english": "What’s something you’re excited about lately?",
+      "polish": "Co ostatnio cię najbardziej cieszy?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287716"
+    },
+    {
+      "english": "Do you like playful teasing, or not?",
+      "polish": "Lubisz żartobliwe zaczepki, czy nie?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287718"
+    },
+    {
+      "english": "How fast do you usually reply?",
+      "polish": "Jak szybko zwykle odpisujesz?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287722"
+    },
+    {
+      "english": "What would make you feel appreciated?",
+      "polish": "Co sprawia, że czujesz się doceniony?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287726"
+    },
+    {
+      "english": "You’re allowed to want, take your time.",
+      "polish": "Masz prawo chcieć, daj sobie czas.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287729"
+    },
+    {
+      "english": "Say it kindly, your feelings matter.",
+      "polish": "Powiedz to życzliwie, twoje uczucia się liczą.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287731"
+    },
+    {
+      "english": "Be proud, you show up for love.",
+      "polish": "Bądź dumny, pokazujesz się z miłością.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287734"
+    },
+    {
+      "english": "Small steps, big hearts, keep going.",
+      "polish": "Małe kroki, wielkie serca, jedź dalej.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287736"
+    },
+    {
+      "english": "Trust your vibe, it’s not random.",
+      "polish": "Zaufaj swojemu vibe, to nie przypadek.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287739"
+    },
+    {
+      "english": "Good communication starts with honesty, always.",
+      "polish": "Dobre porozumienie zaczyna się od szczerości.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287741"
+    },
+    {
+      "english": "Compliment them, keep it real and simple.",
+      "polish": "Pochwal ich, bądź szczery, prosto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287744"
+    },
+    {
+      "english": "If it feels off, listen to yourself.",
+      "polish": "Jeśli jest ci coś nie tak, słuchaj siebie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287746"
+    },
+    {
+      "english": "You don’t need perfection, just presence.",
+      "polish": "Nie musisz być idealna, wystarczy obecność.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287750"
+    },
+    {
+      "english": "Your worth doesn’t depend on their reply.",
+      "polish": "Twoja wartość nie zależy od ich odpowiedzi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287753"
+    },
+    {
+      "english": "Gentle confidence wins, especially in romance.",
+      "polish": "Delikatna pewność siebie wygrywa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287755"
+    },
+    {
+      "english": "Ask one honest question, then breathe.",
+      "polish": "Zadaj jedno szczere pytanie, potem oddychaj.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287757"
+    },
+    {
+      "english": "You’re allowed to be excited, safely.",
+      "polish": "Masz prawo się cieszyć, bezpiecznie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287759"
+    },
+    {
+      "english": "Let them know what you enjoy.",
+      "polish": "Powiedz, co lubisz, nie bój się.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287761"
+    },
+    {
+      "english": "Keep your standards kind, not cold.",
+      "polish": "Trzymaj swoje standardy życzliwe, nie chłodne.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287764"
+    },
+    {
+      "english": "Today, choose respect, and watch love grow.",
+      "polish": "Dziś wybierz szacunek, miłość urośnie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287766"
+    },
+    {
+      "english": "It’s okay to slow down, really.",
+      "polish": "To nic, zwolnij, naprawdę.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287771"
+    },
+    {
+      "english": "Celebrate small wins, they add up fast.",
+      "polish": "Świętuj małe sukcesy, szybko się sumują.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287773"
+    },
+    {
+      "english": "Your feelings are data, not drama.",
+      "polish": "Twoje emocje to dane, nie dramat.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287775"
+    },
+    {
+      "english": "Be warm, set boundaries, keep harmony.",
+      "polish": "Bądź ciepły, stawiaj granice, dbaj o spokój.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287777"
+    },
+    {
+      "english": "You can be bold, and still be sweet.",
+      "polish": "Możesz być śmiały, a nadal miły.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287780"
+    },
+    {
+      "english": "Focus on connection, not control.",
+      "polish": "Skup się na więzi, nie na kontroli.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287782"
+    },
+    {
+      "english": "If they like you, they’ll show it.",
+      "polish": "Jeśli im na tobie zależy, pokażą to.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287784"
+    },
+    {
+      "english": "Compliments first, then build the moment.",
+      "polish": "Najpierw komplementy, potem budujcie chwilę.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287786"
+    },
+    {
+      "english": "You’re learning, and that’s already attractive.",
+      "polish": "Uczysz się, i to już jest atrakcyjne.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287789"
+    },
+    {
+      "english": "Go slow, and let trust take over.",
+      "polish": "Idź wolno, zaufanie przejmie stery.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287791"
+    },
+    {
+      "english": "Keep your heart open, protect your time.",
+      "polish": "Otwórz serce, ale chroń swój czas.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287794"
+    },
+    {
+      "english": "Be yourself, the right one will feel it.",
+      "polish": "Bądź sobą, właściwa osoba to poczuje.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287796"
+    },
+    {
+      "english": "You’re not behind, love comes in waves.",
+      "polish": "Nie jesteś spóźniony, miłość przychodzi falami.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287798"
+    },
+    {
+      "english": "I’m nervous, but I want this.",
+      "polish": "Jestem trochę nerwowy, ale chcę tego.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287801"
+    },
+    {
+      "english": "I miss you, and I mean it.",
+      "polish": "Tęsknię za tobą, i mówię to serio.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287805"
+    },
+    {
+      "english": "Let’s go slow, I’m feeling things.",
+      "polish": "Chodźmy wolno, czuję to naprawdę.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287808"
+    },
+    {
+      "english": "I’m trying to be honest, not intense.",
+      "polish": "Chcę być szczery, nie nachalny.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287810"
+    },
+    {
+      "english": "I want clarity, but I’ll be patient.",
+      "polish": "Chcę jasności, ale będę cierpliwy.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287813"
+    },
+    {
+      "english": "Sometimes I need space, it helps me.",
+      "polish": "Czasem potrzebuję przestrzeni, to mi pomaga.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287815"
+    },
+    {
+      "english": "I like you more than I expected.",
+      "polish": "Podobasz mi się bardziej, niż myślałem.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287817"
+    },
+    {
+      "english": "I’m listening, so tell me what you feel.",
+      "polish": "Słucham cię, powiedz, co czujesz.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287820"
+    },
+    {
+      "english": "I don’t want games, I want you.",
+      "polish": "Nie chcę gier, chcę ciebie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287822"
+    },
+    {
+      "english": "I’m proud of us, even on weekdays.",
+      "polish": "Jestem z ciebie dumna, nawet w tygodniu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287825"
+    },
+    {
+      "english": "I value consistency, it calms me down.",
+      "polish": "Cenię konsekwencję, ona mnie uspokaja.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287827"
+    },
+    {
+      "english": "I care, and I’m trying to show it.",
+      "polish": "Dbam o ciebie, i próbuję to okazać.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287829"
+    },
+    {
+      "english": "If we’re off, let’s talk gently.",
+      "polish": "Jeśli coś nie gra, porozmawiajmy spokojnie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287832"
+    },
+    {
+      "english": "I’m not rushing, I’m building trust.",
+      "polish": "Nie spieszę się, buduję zaufanie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287835"
+    },
+    {
+      "english": "Your honesty makes me feel safe.",
+      "polish": "Twoja szczerość sprawia, że czuję się bezpiecznie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287837"
+    },
+    {
+      "english": "I’m learning your rhythm, one day at time.",
+      "polish": "Uczę się twojego rytmu, dzień po dniu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287840"
+    },
+    {
+      "english": "I want real feelings, not perfect lines.",
+      "polish": "Chcę prawdziwych uczuć, nie idealnych tekstów.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287844"
+    },
+    {
+      "english": "I think about you, quietly, every day.",
+      "polish": "Myślę o tobie, cicho, każdego dnia.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287846"
+    },
+    {
+      "english": "I’m okay with your pace, truly.",
+      "polish": "Jest mi okej z twoim tempem, serio.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287848"
+    },
+    {
+      "english": "Let’s be kind, even when we disagree.",
+      "polish": "Bądźmy mili, nawet gdy się nie zgadzamy.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287851"
+    },
+    {
+      "english": "I don’t want distance, I want connection.",
+      "polish": "Nie chcę dystansu, chcę bliskości.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287853"
+    },
+    {
+      "english": "I’m proud of you, for being yourself.",
+      "polish": "Jestem z ciebie dumna, że jesteś sobą.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287856"
+    },
+    {
+      "english": "If it’s too much, say so early.",
+      "polish": "Jeśli to za dużo, powiedz to od razu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287858"
+    },
+    {
+      "english": "I’m trying to understand, not to win.",
+      "polish": "Chcę zrozumieć, nie wygrać.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287860"
+    },
+    {
+      "english": "I’m here, and I mean it fully.",
+      "polish": "Jestem tu, i naprawdę na mnie możesz liczyć.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287862"
+    },
+    {
+      "english": "I can handle slow, as long as it’s real.",
+      "polish": "Mogę wolno, byle było prawdziwie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287865"
+    },
+    {
+      "english": "I’m not perfect, but my intention is clear.",
+      "polish": "Nie jestem idealny, ale moje intencje są jasne.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287867"
+    },
+    {
+      "english": "Let’s name it, if something feels off.",
+      "polish": "Nazwijmy to, jeśli coś jest nie tak.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287869"
+    },
+    {
+      "english": "I’ll show up, even when I’m unsure.",
+      "polish": "Pojawię się, nawet gdy nie jestem pewny.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287872"
+    },
+    {
+      "english": "I want us, with patience and heart.",
+      "polish": "Chcę nas, z cierpliwością i sercem.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287874"
+    },
+    {
+      "english": "Text me when you’re free, no rush.",
+      "polish": "Napisz mi, jak będziesz wolny, bez pośpiechu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287877"
+    },
+    {
+      "english": "Let’s plan a simple date, this week.",
+      "polish": "Zróbmy proste spotkanie, w tym tygodniu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287879"
+    },
+    {
+      "english": "Before we meet, confirm the time, please.",
+      "polish": "Zanim się zobaczymy, potwierdź godzinę, proszę.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287882"
+    },
+    {
+      "english": "If you’re late, message me right away.",
+      "polish": "Jakbyś się spóźnił, napisz od razu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287886"
+    },
+    {
+      "english": "Ask what they like, then choose together.",
+      "polish": "Zapytaj, co lubią, i wybierzcie razem.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287890"
+    },
+    {
+      "english": "Small talk first, then move to feelings.",
+      "polish": "Najpierw mała rozmowa, potem o uczuciach.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-11T10:28:17.287892"
     }
   ],
-  "last_updated": "2026-11-10T10:51:31.779086"
+  "last_updated": "2026-11-11T10:28:17.287894"
 }
