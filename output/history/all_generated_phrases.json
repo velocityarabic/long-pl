@@ -17279,7 +17279,399 @@
       "polish": "Najpierw mała rozmowa, potem o uczuciach.",
       "category": "Dating & Romance",
       "generated_at": "2026-11-11T10:28:17.287892"
+    },
+    {
+      "english": "I need cash out, please.",
+      "polish": "Chcę wypłacić gotówkę, proszę.",
+      "transliteration": "Hcze wypła-cić GO-tuv-ke, pro-szę.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Can I deposit money here?",
+      "polish": "Mogę tu wpłacić pieniądze?",
+      "transliteration": "Mo-gę tu Vpła-cić pie-Nią-dze?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Where is the ATM for my card?",
+      "polish": "Gdzie jest bankomat dla mojej karty?",
+      "transliteration": "Gdze jesz banko-MAT dla mo-jej KAR-ty?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I want to check my balance.",
+      "polish": "Chcę sprawdzić saldo na koncie.",
+      "transliteration": "Hcze SPraw-dzić SA-l'do na KON-tse.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "My card was declined, again.",
+      "polish": "Karta znowu została odrzucona.",
+      "transliteration": "Kar-ta ZNO-wu zo-stała od-RZU-co-na.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "What are your fees for transfers?",
+      "polish": "Jakie są opłaty za przelewy?",
+      "transliteration": "Ja-kie są opłA-ty za prże-LE-wy?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "How long does a transfer take?",
+      "polish": "Ile trwa przelew?",
+      "transliteration": "I-le tra-wa prże-LEW?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Today I choose calm over chaos.",
+      "polish": "Dziś wybieram spokój zamiast chaosu.",
+      "transliteration": "Dzis WYbieram SPOkoj zamiast CHAosu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I call a friend and breathe easy.",
+      "polish": "Dzwonię do przyjaciela i łatwiej mi oddychać.",
+      "transliteration": "Dzwonię do prYjaCIEla i łAtwiej mi ODdychać.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Small wins count, every single day.",
+      "polish": "Małe zwycięstwa się liczą, każdego dnia.",
+      "transliteration": "MAłe zwyCIEstwa SIę liCZĄ, każdeGO DNIA.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I drink water first, then everything else.",
+      "polish": "Najpierw piję wodę, potem reszta.",
+      "transliteration": "NAjpierw PIJę WOdę, POtem reSzta.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Sunlight in, worries out.",
+      "polish": "Słońce do środka, zmartwienia na zewnątrz.",
+      "transliteration": "Słońce do SROdka, zmARTwienia na zeWnątrz.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I walk for ten minutes, just to reset.",
+      "polish": "Idę na dziesięć minut spaceru, żeby się wyzerować.",
+      "transliteration": "Idę na DZIesIĘĆ MINut SPAceRU, żeby się wyZEroWAC.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I thank myself for getting through today.",
+      "polish": "Dziękuję sobie, że przeżyłam ten dzień.",
+      "transliteration": "DzięKUJĘ soBIE, że przeŻYłam ten DZIEŃ.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Joy is in small things today.",
+      "polish": "Radość jest w małych rzeczach dziś.",
+      "transliteration": "radość jest w małYch rZECzach dziś",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I feel joy when I walk home.",
+      "polish": "Czuję radość, kiedy idę do domu pieszo.",
+      "transliteration": "cZUJE radość, kiedy iDĘ do doMU piESzo",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "My heart is light right now.",
+      "polish": "Moje serce jest teraz lekkie.",
+      "transliteration": "moJE sERce jest teRAZ lekkie",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "That laugh brings me real joy.",
+      "polish": "Ten śmiech daje mi prawdziwą radość.",
+      "transliteration": "ten śMIEch daJE mi praWDziwą radość",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Joy looks good on you.",
+      "polish": "Radość ci dobrze na tobie wygląda.",
+      "transliteration": "radość ci doBRze na toBIE WYgląda",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I choose joy, even on busy days.",
+      "polish": "Wybieram radość, nawet w biegnące dni.",
+      "transliteration": "wyBIERam radość, NAwet w BIEgNĄce dni",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Let joy fill the room, please.",
+      "polish": "Niech radość wypełni całe pomieszczenie.",
+      "transliteration": "nieCH raDOŚĆ wiPEłNI całe poMIESZCZEnie",
+      "category": "Joy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I bike to clear my head.",
+      "polish": "Jeżdżę rowerem, żeby oczyścić głowę.",
+      "transliteration": "Yezhdzhye ROvyerem, CHtoby OCHystsić Głowę.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Tonight I’m trying a new recipe.",
+      "polish": "Dzisiaj wieczorem próbuję nowego przepisu.",
+      "transliteration": "DZisay vyyechorem PRObuyye NOvye GO przepisU.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I go to a pottery class.",
+      "polish": "Chodzę na zajęcia z ceramiki.",
+      "transliteration": "Hohdzhe NA zayeCIYA s tseramiki.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I play chess with my friend.",
+      "polish": "Gram w szachy z moim znajomym.",
+      "transliteration": "GRAM v shahY s moyim znajomyM.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I wind down with a crossword puzzle.",
+      "polish": "Wyłączam się krzyżówką, na spokojnie.",
+      "transliteration": "VyYlacham syE krzyzowKOY, na SPOkojniye.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I love weekend hikes in the woods.",
+      "polish": "Uwielbiam weekendowe wycieczki do lasu.",
+      "transliteration": "UvyyeLbyam vyekendOVye vyyechYzki DO LAzu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I paint when I need quiet.",
+      "polish": "Maluję, kiedy potrzebuję ciszy.",
+      "transliteration": "MAlyuye, KIEDy potrebuyye CISHy.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Sleep on it, then decide.",
+      "polish": "Prześpij się z decyzją, potem zdecyduj.",
+      "transliteration": "prze-ŚPIJ się z DE-cy-zją, po-tem zde-CY-duj",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Ask one more question, stay curious.",
+      "polish": "Zadaj jedno kolejne pytanie, zachowaj ciekawość.",
+      "transliteration": "za-DAJ jed-no KO-lej-ne PY-ta-nie, za-chowaj cie-KA-WOŚĆ",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Small steps beat big promises.",
+      "polish": "Małe kroki wygrywają z wielkimi obietnicami.",
+      "transliteration": "MA-łe kro-KI wy-GRY-wa-ją z WIEL-ki-mi o-BIE-ti-ca-mi",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Choose peace over being right.",
+      "polish": "Wybierz spokój zamiast racji.",
+      "transliteration": "vy-BIERZ SPO-KÓJ za-miast RĄ-ci",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Timing is wisdom you can feel.",
+      "polish": "Czas ma w sobie mądrość, naprawdę to czuć.",
+      "transliteration": "CZAS ma w so-bie MĄD-rość, na-PRAW-dę to CZUĆ",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Forgive fast, but learn boundaries.",
+      "polish": "Wybacz szybko, ale ucz się granic.",
+      "transliteration": "wy-BACZ SZYB-ko, a-le UCZ się GRA-nic",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Don’t chase, focus on what you control.",
+      "polish": "Nie gon za wszystkim, skup się na tym, co masz pod kontrolą.",
+      "transliteration": "nie gonz za WSZYST-kim, SKU-P się na tym, co MASZ pod kon-TRO-LĄ",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Turn problems into playful experiments.",
+      "polish": "Zamieniaj problemy w zabawne eksperymenty.",
+      "transliteration": "Zamieniaj problems v zabawne ekspeRymenty.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I improvise, then I refine later.",
+      "polish": "Improwizuję, a potem dopracowuję to.",
+      "transliteration": "ImprowizUje, a potem dopraCowuję to.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Today I’ll build from random ideas.",
+      "polish": "Dzisiaj zbuduję coś z przypadkowych pomysłów.",
+      "transliteration": "Dzisiaj zbudUję coś z przypadkowych poMYSłow.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Steal ideas, but make them yours.",
+      "polish": "Kradnij pomysły, ale przerób je na swoje.",
+      "transliteration": "KradnYJ poMYSły, ale przerób je na swoje.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Let the mess become the method.",
+      "polish": "Niech bałagan stanie się moją metodą.",
+      "transliteration": "NIEch bałAgan stanie się moją METodą.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I draw one idea before I talk.",
+      "polish": "Rysuję jeden pomysł, zanim zacznę mówić.",
+      "transliteration": "RYSUję jeden poMYSł, zanim zacznę mówIĆ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Creativity starts with curiosity, not talent.",
+      "polish": "Kreatywność zaczyna się od ciekawości, nie od talentu.",
+      "transliteration": "KreatywnOŚĆ zaCZYna się od cieKAwOści, nie od taLENTu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Beautiful day, isn't it?",
+      "polish": "Ale ładna pogoda, prawda?",
+      "transliteration": "Ale LADNA po-GO-DA, PRAW-da?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "How's the weather today?",
+      "polish": "Jak wygląda pogoda dzisiaj?",
+      "transliteration": "Jak WYGLĄ-DA po-GO-DA dzisiaj?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "It’s warming up, finally.",
+      "polish": "Wreszcie robi się cieplej.",
+      "transliteration": "WRESzcie roBI się cie-PLEJ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Did it rain overnight?",
+      "polish": "Przemokło przez noc?",
+      "transliteration": "PRZE-mo-kło przez NOC?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Looks like wind is picking up.",
+      "polish": "Wygląda, że wiatr się nasila.",
+      "transliteration": "WyGLa-da, że WIATR się NA-sila.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Is the storm coming?",
+      "polish": "Nadciąga burza?",
+      "transliteration": "NAD-cią-ga BUR-za?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "The sky is clearing up.",
+      "polish": "Niebo się wypogadza.",
+      "transliteration": "nie-BO się wy-po-GADZA.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "polish": "Potrzebuję dziś zobaczyć lekarza.",
+      "transliteration": "pot-RZE-bu-ję DZIŚ zo-baczyĆ le-KAR-za",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Can I book an appointment, please?",
+      "polish": "Czy mogę umówić wizytę, proszę?",
+      "transliteration": "czy mo-GĘ u-MÓ-wić WI-zy-tę PRO-szę",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Is there a family doctor nearby?",
+      "polish": "Czy w pobliżu jest lekarz rodzinny?",
+      "transliteration": "czy w po-BLI-żu jest le-KARZ ro-DZIN-ny",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Where is the clinic entrance?",
+      "polish": "Gdzie jest wejście do przychodni?",
+      "transliteration": "gdzie jest WEJ-ście do przy-CHO-DNI",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Do you accept walk-ins right now?",
+      "polish": "Czy przyjmujecie bez rejestracji od razu?",
+      "transliteration": "czy PRZYjmu-jecie bez re-JESTRA-cji od RA-zu",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "My prescription is from a different doctor.",
+      "polish": "Mam receptę od innego lekarza.",
+      "transliteration": "mam re-CEPT-ę od IN-ne-go le-KAR-za",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "Can you refill it today, please?",
+      "polish": "Czy mogą mi to zrealizować dziś, proszę?",
+      "transliteration": "czy mo-gą mi TO zre-A-LI-ZO-wać DZIŚ PRO-szę",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T21:08:15.181176"
     }
   ],
-  "last_updated": "2026-11-11T10:28:17.287894"
+  "last_updated": "2026-11-12T21:08:15.181176"
 }
