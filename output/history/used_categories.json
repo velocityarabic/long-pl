@@ -1,1 +1,101 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Forgiveness",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Motivation",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Love",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Hope",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Success",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Strength",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Growth",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2020-01-18"
+    },
+    {
+      "category": "Confidence",
+      "date": "2020-01-19"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2020-01-20"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2020-01-21"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2020-01-22"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2020-01-23"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2020-01-24"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:19.540595"
+}
