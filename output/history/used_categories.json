@@ -127,7 +127,39 @@
     {
       "category": "Doctor & Pharmacy",
       "date": "2026-11-12"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T21:08:15.193860"
+  "last_updated": "2026-11-13T20:40:51.952647"
 }

@@ -17671,7 +17671,399 @@
       "transliteration": "czy mo-gą mi TO zre-A-LI-ZO-wać DZIŚ PRO-szę",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-12T21:08:15.181176"
+    },
+    {
+      "english": "One song can reset my day.",
+      "polish": "Jedna piosenka potrafi mi naprawić dzień.",
+      "transliteration": "Jedna piosenka POTRAFI mi NAWPRAVIĆ dzień.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I get inspired by overhearing stories.",
+      "polish": "Inspiruje mnie, gdy przypadkiem słyszę czyjeś historie.",
+      "transliteration": "InSPIRUJE mnie, gdy PRZYPADEK ślyszę czyjeś HISTORIE.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Morning coffee, then I write.",
+      "polish": "Poranna kawa i potem piszę.",
+      "transliteration": "POranNA KAwa i POtem piSZĘ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "A walk outside clears my head.",
+      "polish": "Spacer na zewnątrz czyści mi głowę, naprawdę.",
+      "transliteration": "SPACER na ZEWnATrz czyści mi GŁOwę, NAprawdę.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Try one small risk today.",
+      "polish": "Spróbuj dziś jednego małego ryzyka.",
+      "transliteration": "SPRObuj DZIŚ jednego MAłego RYzyka.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I steal ideas from everyday conversations.",
+      "polish": "Kradnę pomysły z codziennych rozmów.",
+      "transliteration": "KRAdnę poMYSły z coDZIENnych ROzmów.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I keep a notebook for sparks.",
+      "polish": "Noszę zeszyt, żeby łapać pomysły w biegu.",
+      "transliteration": "NOszę ZE szyt, żeby ŁAPAĆ poMYSły w BIEgu.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Where is the nearest tram stop?",
+      "polish": "Gdzie jest najbliższy przystanek tramwajowy?",
+      "transliteration": "Gdzie jest naJbliższy przystanek tramwajowy?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Does this bus go to the center?",
+      "polish": "Czy ten autobus jedzie do centrum?",
+      "transliteration": "Czy ten auTobus jeździ do cenTrum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "How often does the metro run?",
+      "polish": "Co ile minut jedzie metro?",
+      "transliteration": "Co iLE miNut jeździ meTro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I need a day ticket, please.",
+      "polish": "Poproszę bilet dzienny.",
+      "transliteration": "PoPROszę bilet Dzienny.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "How much is a single ticket?",
+      "polish": "Ile kosztuje bilet jednorazowy?",
+      "transliteration": "Ile koSZtuje biLet jednorazowy?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Where do I validate the ticket?",
+      "polish": "Gdzie mam skasować bilet?",
+      "transliteration": "Gdzie mam skaSkoWać biLet?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Are there discounts for students?",
+      "polish": "Czy studenci mają zniżki?",
+      "transliteration": "Czy stuDENci maJą zniŻki?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I breathe in, I let go.",
+      "polish": "Wdech i puszczam, co mnie trzyma.",
+      "transliteration": "VDECH i PUSZCZAM, co mnie TRZYMA.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Pause. Listen to your body.",
+      "polish": "Zrób pauzę, posłuchaj swojego ciała.",
+      "transliteration": "ZROB PAUZĘ, poSŁUCHAJ SVOJEgo CHTIAŁA.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "My mind can rest right now.",
+      "polish": "Mój umysł może odpocząć już teraz.",
+      "transliteration": "MÓJ uMYŚŁ może odPOCZĄĆ YUŻ teRAZ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Quiet thoughts, steady breath, okay.",
+      "polish": "Ciche myśli, spokojny oddech, będzie dobrze.",
+      "transliteration": "CIHE myŚLI, SPOKOjNY odDECH, BĘDZIE doBRZE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I choose calm over urgency.",
+      "polish": "Wybieram spokój zamiast pośpiechu.",
+      "transliteration": "WYBIERAM SPOKÓJ zamiast poŚPIECHU.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "No rush, I’m right here.",
+      "polish": "Bez pośpiechu, jestem tu i teraz.",
+      "transliteration": "BEZ poŚPIECHU, JESTEM tu i TEraz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m safe, even when it’s loud.",
+      "polish": "Jestem bezpieczny, nawet gdy jest głośno.",
+      "transliteration": "JESTEM BEZPIECZNY, naWET gdy JEST GŁOŚNO.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Chill, it’s not that deep.",
+      "polish": "Daj spokój, to nie jest takie straszne.",
+      "transliteration": "DAj SPOKÓJ, to nie Jest TAKie straszne",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m broke till payday.",
+      "polish": "Jestem na zero do wypłaty.",
+      "transliteration": "JESTem na ZEro do WYPłaTY",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "That’s a total scam.",
+      "polish": "To jest kompletna ściema.",
+      "transliteration": "to jest komPLETna ŚCIema",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "You’re talking trash, stop it.",
+      "polish": "Gadasz bzdury, daj spokój.",
+      "transliteration": "GA-dasz BZUry, daj SPOKÓJ",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m running late, sorry.",
+      "polish": "Spóźnię się, przepraszam.",
+      "transliteration": "spóź-NIĘ się, prze-PRA-szam",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Let’s meet, I’m free.",
+      "polish": "Wpadnę, jestem wolny.",
+      "transliteration": "Wpadnę, jeSTEM WOLny",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Mind your business, please.",
+      "polish": "Nie wtrącaj się, serio.",
+      "transliteration": "nie WRĄ-caj się, se-RIO",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I totally agree with you.",
+      "polish": "Zgadzam się z tobą w stu procentach.",
+      "transliteration": "zgadzam SIĘ z toBĄ v stu proCENtach",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Exactly, that's my opinion too.",
+      "polish": "Dokładnie, to jest też moja opinia.",
+      "transliteration": "dokładnie, to jest TEŻ MOJA opiNIA",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "That makes sense to me.",
+      "polish": "To brzmi dla mnie sensownie.",
+      "transliteration": "to BRZMI dla MNIE SENsownie",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I think you're right.",
+      "polish": "Myślę, że masz rację.",
+      "transliteration": "MYŚLĘ, że masz RAJĘ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "You said it perfectly.",
+      "polish": "Powiedziałeś to idealnie.",
+      "transliteration": "powiedZIAŁEŚ to iDEALnie",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "No way, I don't agree at all.",
+      "polish": "Nie ma mowy, nie zgadzam się w ogóle.",
+      "transliteration": "nie ma MOwy, nie zgadzam się w OGOle",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I see it differently.",
+      "polish": "Widzę to inaczej.",
+      "transliteration": "WiDZĘ to INaCZEJ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "My morning coffee makes me happy.",
+      "polish": "Poranna kawa naprawdę mnie cieszy.",
+      "transliteration": "Po-raN-na ka-WA na-praw-dę mnie CIE-szy",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I feel happy when I listen closely.",
+      "polish": "Jestem szczęśliwy, gdy uważnie słucham.",
+      "transliteration": "Jestem szCZĘ-śli-wy, gdy u-waż-nie SŁU-cham",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Good news always lifts my mood.",
+      "polish": "Dobra wiadomość od razu podnosi mnie na duchu.",
+      "transliteration": "DOb-ra wia-do-moŚĆ od ra-zu pod-NO-si mnie na DU-chu",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m happiest when I’m not rushing.",
+      "polish": "Najbardziej cieszę się, gdy nie muszę się spieszyć.",
+      "transliteration": "Naj-bar-dziej CIE-szę się, gdy nie mu-szę się SPIE-SZYĆ",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Our kitchen smells like home now.",
+      "polish": "W naszej kuchni pachnie jak w domu.",
+      "transliteration": "W na-szej KU-chni pach-nie jak w do-MU",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Kind words can change everything.",
+      "polish": "Wszystko może się odwrócić dzięki miłym słowom.",
+      "transliteration": "Wszys-tko mo-że się od-WRÓ-cić dzię-ki MI-łym SŁO-wom",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m grateful for quiet mornings.",
+      "polish": "Doceniam spokojne poranki, boładują mnie.",
+      "transliteration": "Do-cE-ni-am spoKOJ-ne po-RAN-ki, bo-ła-du-JĄ mnie",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m starting couch to 5K today.",
+      "polish": "Zaczynam plan z kanapy do 5 km dziś.",
+      "transliteration": "Zaczynam plan z ka-NAP-y do pięć ki-lo-me-TRO-w dziś.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Can you spot me on the bench?",
+      "polish": "Możesz mnie asekurować na ławce?",
+      "transliteration": "Mo-ZESZ mnie a-se-KU-ro-wać na ław-ce?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "My knee hurts when I go down.",
+      "polish": "Kolano boli mnie, kiedy schodzę.",
+      "transliteration": "KO-la-no bo-li mnie, KIEDY schodzę.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I need to stretch before training.",
+      "polish": "Muszę się rozciągnąć przed treningiem.",
+      "transliteration": "Mu-SZĘ się roz-cią-GNĄĆ przed TRE-ningiem.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I forgot my water bottle, sorry.",
+      "polish": "Zapomniałem butelki z wodą, wybacz.",
+      "transliteration": "Za-po-MNIA-łem bu-TEL-ki z wo-DĄ, wy-BACZ.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "That treadmill speed feels perfect today.",
+      "polish": "Tempo na bieżni dziś jest idealne.",
+      "transliteration": "TEM-po na BIE-żni dziś jest i-DE-al-ne.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Let’s cool down with a slow walk.",
+      "polish": "Zróbmy schłodzenie, idąc wolno.",
+      "transliteration": "ZRO-bmy schŁO-dze-nie, i-DĄC wol-no.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I need a calm reset today.",
+      "polish": "Dzisiaj potrzebuję spokojnego resetu.",
+      "transliteration": "Dzisay potrebuje spokojnego resetu.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Mind your pace, don’t rush.",
+      "polish": "Pilnuj tempa, nie spiesz się.",
+      "transliteration": "Pilnuj TEMpa, nie SPIESZ sie.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Let’s balance work and rest.",
+      "polish": "Zróbmy balans między pracą a odpoczynkiem.",
+      "transliteration": "ZroBmy baLANS mie dzy PRAcą a odPOczynkiem.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Coffee’s fine, but not too much.",
+      "polish": "Kawa jest okej, ale bez przesady.",
+      "transliteration": "Kawa jest oKEY, ale bez pRZEsydy.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I stretch to stay balanced.",
+      "polish": "Rozciągam się, żeby zachować równowagę.",
+      "transliteration": "RozCIągam sie, zeby zaCHOWAĆ RÓWnoWAGĘ.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "We’ll find the middle ground.",
+      "polish": "Znajdziemy środek, obie strony.",
+      "transliteration": "ZNAjdziemy SHROdek, oBIE STRONy.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "Keep your weight centered.",
+      "polish": "Trzymaj ciężar w centrum.",
+      "transliteration": "Trzymaj CIEżar v TSENtrum.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T20:40:51.941151"
     }
   ],
-  "last_updated": "2026-11-12T21:08:15.181176"
+  "last_updated": "2026-11-13T20:40:51.941151"
 }
