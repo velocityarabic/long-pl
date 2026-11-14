@@ -18063,7 +18063,399 @@
       "transliteration": "Trzymaj CIEżar v TSENtrum.",
       "category": "Balance",
       "generated_at": "2026-11-13T20:40:51.941151"
+    },
+    {
+      "english": "I’m here for a clear goal",
+      "polish": "Jestem tu, żeby mieć jasny cel.",
+      "transliteration": "Jestem TU, żeby MIEĆ jasny CEL.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "What’s your real purpose today?",
+      "polish": "Jaki jest twoj prawdziwy cel dzisiaj?",
+      "transliteration": "Jaki jest twoj PRAWDZIWY cel DZISIAJ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I want to make progress this week",
+      "polish": "Chcę zrobić krok do przodu w tym tygodniu, z sensem.",
+      "transliteration": "Chcę ZROBIĆ krok do PRZODU w tym TYDZIU, z SENSEM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "This job helps me reach my goals",
+      "polish": "Ta praca pomaga mi realizować moje cele.",
+      "transliteration": "Ta PRACA pomaga mi REALIZOWAĆ moje CELe.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "My purpose is simple, help others",
+      "polish": "Mój cel jest prosty, pomagać innym.",
+      "transliteration": "Mój CEL jest PROSTY, poMAGAĆ INNYM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Let’s agree on the outcome first",
+      "polish": "Ustalmy najpierw, jaki ma byc efekt.",
+      "transliteration": "Ustalmy NAJPIERW, jaki MA byc EFEKT.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’m doing this on purpose",
+      "polish": "Robię to świadomie, z własnej decyzji.",
+      "transliteration": "ROBIĘ to ŚWIADOMIE, z WŁASNEJ decyzji.",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Thanks for being so considerate",
+      "polish": "Dziękuję, że tak jesteś życzliwa",
+      "transliteration": "dzię KU JĘ, że tak JE steś ZY czli wa",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "That was really thoughtful of you",
+      "polish": "To było naprawdę życzliwe z twojej strony",
+      "transliteration": "to BY ŁO na PRAWDĘ ZY czli we z two JEC strony",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Here, take this, no worries",
+      "polish": "Proszę, weź to, bez żadnych obaw",
+      "transliteration": "pro sze, VEZ to, bez ŻAD nych o BAW",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "You made my day, seriously",
+      "polish": "Naprawdę zrobiłeś mi dzień, dziękuję",
+      "transliteration": "na PRAWDĘ zro BI łeś mi DZIeŃ, dzię KU JĘ",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I appreciate your help so much",
+      "polish": "Bardzo doceniam twoją pomoc",
+      "transliteration": "BAR dzo do ce niam two juch PO moc",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "You have a good heart",
+      "polish": "Masz dobre serce",
+      "transliteration": "MA sz DObre SER ce",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Let’s keep it kind and calm",
+      "polish": "Trzymajmy się życzliwości i spokoju",
+      "transliteration": "TRZY trzy MWe się ZY czli wo ści i SPO ko ju",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "polish": "Gdzie jest najbliższa apteka?",
+      "transliteration": "GDZE jest najblizsza apteka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "How do I get to the station?",
+      "polish": "Jak dojdę na dworzec?",
+      "transliteration": "Jak DOJDĘ na DWORZEC?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Is this the way to the airport?",
+      "polish": "Czy to jest droga na lotnisko?",
+      "transliteration": "Czy to JEST DROga na lotnisko?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Can you point me to the museum?",
+      "polish": "Czy możesz mi wskazać muzeum?",
+      "transliteration": "Czy MOŻESZ mi WSKAZAĆ muzeum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "What bus goes near the hospital?",
+      "polish": "Jaki autobus jedzie obok szpitala?",
+      "transliteration": "JAki autoBUS jeździ OBOK szpitala?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Which street is this, please?",
+      "polish": "Jaka to ulica?",
+      "transliteration": "JAKA to ULICA?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Do I turn left here?",
+      "polish": "Czy tutaj mam skręcić w lewo?",
+      "transliteration": "Czy TU taj mam SKRĘcić v LEWO?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Real friends show up, even late.",
+      "polish": "Prawdziwi przyjaciele pojawiają się, nawet późno.",
+      "transliteration": "Prawdziwi PRZY-JA-CIE-LE po-jaw-IĄ się, na-wet PÓŹ-no.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Thanks for always texting me back.",
+      "polish": "Dzięki, że zawsze odpisujesz na moje wiadomości.",
+      "transliteration": "DZIĘ-KI, że ZAW-sze od-PIS-u-jesz na MO-je wia-do-mo-SCI.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "We laugh, then we talk things through.",
+      "polish": "Śmiejemy się, a potem spokojnie to ogarniamy razem.",
+      "transliteration": "ŚMIE-JE-my się, a po-tem SPO-ko-jnIe to o-GAR-ni-a-my ra-zem.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "You can count on me, seriously.",
+      "polish": "Możesz na mnie liczyć, serio.",
+      "transliteration": "MO-żesz na MNIE li-CZYĆ, se-RIO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Let’s grab coffee and catch up.",
+      "polish": "Wpadnijmy na kawę i nadrobmy pogaduchy.",
+      "transliteration": "WPAD-ni-my na KA-wę i NA-drob-my po-GA-du-chi.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I trust you with my worries.",
+      "polish": "Uf am ci, nawet kiedy mam zmartwienia.",
+      "transliteration": "U-FAM ci, na-wet kie-dy mam zmar-TWI-e-nia.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "No drama, just honest talk.",
+      "polish": "Bez dram, tylko szczera rozmowa.",
+      "transliteration": "Bez DRAM, TYL-ko szcze-RA roz-MO-wa.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Slow down, it will work out.",
+      "polish": "Zwól na chwilę, to się ułoży.",
+      "transliteration": "ZWÓl na chwilę, to się uŁOży.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Give it time, really.",
+      "polish": "Daj temu czas, naprawdę.",
+      "transliteration": "DAj teMU czas, RZEczywiście.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Wait, the train might be delayed.",
+      "polish": "Poczekaj, może ten pociąg ma opóźnienie.",
+      "transliteration": "PO-cze-KAJ, moŻE ten poCIĄG ma oPÓŹnieniE.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "We can do this step by step.",
+      "polish": "Zrobimy to po kolei, spokojnie.",
+      "transliteration": "ZRO-bimy to po KOLEi, SPOkojnie.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Take a breath, don’t rush.",
+      "polish": "Weź oddech, nie spiesz się.",
+      "transliteration": "WĘŹ odDECH, nie spieSZ SIĘ.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Let’s wait and see, okay?",
+      "polish": "Poczekajmy i zobaczymy, dobrze?",
+      "transliteration": "PO-cze-KAJ-my i ZO-baCZYmy, do-BRZE?",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’ll hold on, just a moment.",
+      "polish": "Poczekaj, ja jeszcze wrócę za chwilę.",
+      "transliteration": "PO-czeKAJ, ja JESZCZE wróCĘ za chWIlę.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’ll make the call, even now.",
+      "polish": "Zadzwonię teraz, choć mi drży ręka.",
+      "transliteration": "Zadzwonię TERAZ, choĆ mi DRŻY ręka.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I can handle this awkward moment.",
+      "polish": "Dam radę w tej niezręcznej sytuacji.",
+      "transliteration": "DAM radę w tej niezRĘCZNEJ SYTUACJI.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "No more hiding, I speak up.",
+      "polish": "Dość ukrywania, mówię wprost.",
+      "transliteration": "Dość uKRYWAnia, mówię WPROST.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’m walking in, regardless of fear.",
+      "polish": "Wejdę tam, choć boję się jak dziecko.",
+      "transliteration": "WEJdę tam, choć boJĘ się jak DZIecko.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’ll ask for help, no shame.",
+      "polish": "Poproszę o pomoc, bez wstydu.",
+      "transliteration": "PoPROSZĘ o PoMOC, bez WI STU DU.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’ll be honest, even if it hurts.",
+      "polish": "Powiem prawdę, nawet jeśli zaboli.",
+      "transliteration": "PoWIEM prawdę, NAWET jesli ZA BOLi.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "I’ll set the boundary today.",
+      "polish": "Dzisiaj wyznaczę granicę i nie odpuszczę.",
+      "transliteration": "DZIŚiaj wyZNA CZĘ graNICĘ i nie odPUŚCZĘ.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Hi, I’m new here. Nice to meet you.",
+      "polish": "Cześć, jestem tu nowy, miło cię poznać.",
+      "transliteration": "Cześć, jestem tu nowy, miŁo cię poznać.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Hello! What’s your name?",
+      "polish": "Dzień dobry, jak masz na imię?",
+      "transliteration": "Dzień dobry, jak masz na imię?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Nice to meet you, I’m Alex.",
+      "polish": "Miło mi cię poznać, mam na imię Alex.",
+      "transliteration": "MiŁo mi cię poznać, mam na imię Alex.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Are you also waiting for the bus?",
+      "polish": "Czekasz też na ten autobus?",
+      "transliteration": "Czekasz też na ten autobus?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Good morning, how’s your day going?",
+      "polish": "Dzień dobry, jak mija ci dzień?",
+      "transliteration": "Dzień dobry, jak mija ci dzień?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Excuse me, do you speak English?",
+      "polish": "Przepraszam, mówisz po angielsku?",
+      "transliteration": "Przepraszam, mówisz PO angielsku?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Where are you from originally?",
+      "polish": "Skąd jesteś, tak naprawdę?",
+      "transliteration": "SkĄd jesteś, tak naprawdę?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Can we talk at home tonight?",
+      "polish": "Czy możemy porozmawiać dziś wieczorem w domu?",
+      "transliteration": "Czy możemy porozmawiać DZIś wieczorem w DOMu?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "My mom cooks, I help clean.",
+      "polish": "Mama gotuje, ja pomagam sprzątać.",
+      "transliteration": "MAMA gotuje, ja POmagam SPRZątać.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "We live together with my sister.",
+      "polish": "Mieszkamy razem z moją siostrą.",
+      "transliteration": "MIESzkamy RAzem z moją SIOstrą.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Dad is fixing the sink right now.",
+      "polish": "Tata właśnie naprawia zlew.",
+      "transliteration": "TATA właśNIE naprawia ZLEW.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "Our dog guards the hallway at night.",
+      "polish": "Nasz pies pilnuje korytarza w nocy.",
+      "transliteration": "Nasz PIES pilnuje koryTARza w NOCY.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "We need to buy new curtains.",
+      "polish": "Musimy kupić nowe zasłony do salonu.",
+      "transliteration": "MUsimy KUpić NOwe zasŁOny do SAloNU.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
+    },
+    {
+      "english": "The kids are at their grandparents now.",
+      "polish": "Dzieci są teraz u dziadków.",
+      "transliteration": "DZIEci są TEraz u DZIAdków.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:52:49.231814"
     }
   ],
-  "last_updated": "2026-11-13T20:40:51.941151"
+  "last_updated": "2026-11-14T18:52:49.231814"
 }
