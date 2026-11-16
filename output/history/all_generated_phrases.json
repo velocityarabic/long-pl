@@ -18847,7 +18847,399 @@
       "transliteration": "HER-ba-ta RA-no MNIE u-spo-ka-ja.",
       "category": "Daily Routine",
       "generated_at": "2026-11-15T19:29:59.690446"
+    },
+    {
+      "english": "This toast is for you tonight.",
+      "polish": "Ten toast jest dla ciebie dziś w nocy.",
+      "transliteration": "Ten toast JEST dla CIEBIE dziSia w NOcy.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Let s dance, just for fun.",
+      "polish": "Chodźmy potańczyć, dla czystej przyjemności.",
+      "transliteration": "ChoDŹmy poTAŃczyć, dla czysteJ przyJeMNOści.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Thanks for opening your home to us.",
+      "polish": "Dziękuję, że otworzyliście przed nami wasz dom.",
+      "transliteration": "DZIękuJĘ, że otWOrzyliście przeD naMI wasz DOM.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I brought sparkling water for everyone.",
+      "polish": "Przyniosłem dla wszystkich wodę z bąbelkami.",
+      "transliteration": "PRZYniosłem dla WSZYSTkich woDĘ z BĄBelkami.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Your party playlist feels perfect.",
+      "polish": "Twoja playlista na imprezie jest świetna.",
+      "transliteration": "TwoJA plAIlista na IMprezie jest ŚWIETna.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "That cake is gorgeous, seriously.",
+      "polish": "Ten tort jest piękny, naprawdę.",
+      "transliteration": "Ten TORT jest PIĘkny, RZECzywiŚcie.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Who wants seconds, I can serve.",
+      "polish": "Kto chce dokładkę, mogę rozdać.",
+      "transliteration": "Kto CHCE doKŁADkę, moGĘ rozDAĆ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I miss you, come here",
+      "polish": "Tęsknię za tobą, chodź tu",
+      "transliteration": "TES-knię ZA to-bą, CHOJDZ tu",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Your smile makes my day",
+      "polish": "Twoj uśmiech robi mi dzień",
+      "transliteration": "TWÓJ u-SMIECH robi mi DZIeŃ",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I choose you, again and again",
+      "polish": "Wybieram cię, wciąż i wciąż",
+      "transliteration": "WY-biERAM CIĘ, VŠCIĄŻ i VŠCIĄŻ",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Hold me for a minute",
+      "polish": "Przytul mnie na chwilę",
+      "transliteration": "PRZY-tuL mnie na CHWIL-ę",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I feel safe with you",
+      "polish": "Przy tobie czuję się bezpiecznie",
+      "transliteration": "PRZY to-bie CZU-ję się bez-PIEcz-nie",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "We fit together so well",
+      "polish": "Dobrze nam razem, naprawdę pasujemy",
+      "transliteration": "DOBRZE NAM RA-ZEM, na-PRAW-dę pa-SU-jemy",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I want to build with you",
+      "polish": "Chcę z tobą budować przyszłość",
+      "transliteration": "CHCĘ z to-bą bu-DO-wać PRZY-szłość",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Can I see the dessert menu?",
+      "polish": "Czy mogę prosić o menu deserów?",
+      "transliteration": "Czy mOGĘ prosić o MENU deSZE-rów?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "What do you recommend for tonight?",
+      "polish": "Co polecasz na dzisiejszy wieczór?",
+      "transliteration": "Co PO-lecasz na DZI-SIEJSzy wieCZÓR?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I’ll have the soup, please.",
+      "polish": "Poproszę zupę, proszę.",
+      "transliteration": "Po-pro-szę ZU-pę, proSZĘ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Is this homemade or store-bought?",
+      "polish": "Czy to jest domowe, czy kupowane?",
+      "transliteration": "Czy to jest DO-mowe, czy kuPOwane?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "polish": "Macie coś bezglutenowego?",
+      "transliteration": "MA-cie co ż bez-GLU-te-no-we-go?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Can we substitute fries for rice?",
+      "polish": "Czy mogę zamienić frytki na ryż?",
+      "transliteration": "Czy moGĘ zaMIEnić FRYtki na RYŻ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "What’s the house wine like?",
+      "polish": "Jakie jest wino domowe?",
+      "transliteration": "JA-kie jest WI-no doMOWE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Hope is growing, even quietly.",
+      "polish": "Nadzieja rośnie, nawet cicho.",
+      "transliteration": "Nadzieja ROŚNIE, nawet CIHO.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I choose hope, despite everything.",
+      "polish": "Wybieram nadzieję, mimo wszystko.",
+      "transliteration": "VYBIERAM NADZIEJĘ, mimo WSZYSTKO.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I can’t see it yet, but.",
+      "polish": "Jeszcze tego nie widzę, ale.",
+      "transliteration": "JESZCZE TEGO NIE WIDZĘ, ale.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Hold on, good things may arrive.",
+      "polish": "Trzymaj się, dobre rzeczy mogą nadejść.",
+      "transliteration": "TRZYMAJ SIĘ, DOBRE RZECZY mogą NAdEJŚĆ.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I text myself, you’re allowed to hope.",
+      "polish": "Piszę do siebie, że możesz mieć nadzieję.",
+      "transliteration": "PISZĘ do SIEBIE, że MOŻESZ mieć NADZIEJĘ.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Let tomorrow be kinder than today.",
+      "polish": "Niech jutro będzie łagodniejsze niż dziś.",
+      "transliteration": "NIECH JUTRO będzie łagodNIEJSZE niż DZIŚ.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "We’ll cross this bridge, step by step.",
+      "polish": "Przejdziemy przez to, krok po kroku.",
+      "transliteration": "PRZEJDZIEMY przez TO, KROK po KROKU.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Name it to tame it, softly",
+      "polish": "Nazwij to delikatnie, żeby to oswoić",
+      "transliteration": "NAZWIJ to delikatnie, ŻEBY to OSWOIĆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Feel your feet, right under you",
+      "polish": "Poczuj stopy, dokładnie tam, gdzie stoisz",
+      "transliteration": "POCZUJ stopy, DOKŁADNIE tam, GDZIE stoisz",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Scan the room, slowly, with curiosity",
+      "polish": "Rozejrzyj się spokojnie, z ciekawością",
+      "transliteration": "ROZJERZYJ się spokojnie, z CIEKAWOŚCIĄ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Relax your jaw, release the grip",
+      "polish": "Rozluźnij szczękę, puść to napięcie",
+      "transliteration": "ROZLUŹNIJ SZCZĘKĘ, PUŚĆ to NAPIĘCIE",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Unclench your hands, let go now",
+      "polish": "Odpuść dłonie, rozluźnij chwyt",
+      "transliteration": "ODPUŚĆ dłonie, ROZLUŹNIJ CHWYT",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Let a slow exhale change things",
+      "polish": "Spokojny, długi wydech potrafi wszystko zmienić",
+      "transliteration": "SPOKOJNY, długi WYDECH potrafi WSZYSTKO zmienić",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Turn toward the sound around you",
+      "polish": "Zwróć uwagę na dźwięki dookoła",
+      "transliteration": "ZWRÓĆ uwagę na DŹWIĘKI dookoła",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Turn setbacks into setups, keep going",
+      "polish": "Zamień porażki w przygotowania, idź dalej",
+      "transliteration": "Zamień PORAŻKI w PRZYGOTOWANIA, IDŹ daLEJ",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Practice daily, results follow naturally",
+      "polish": "Ćwicz codziennie, wyniki same przychodzą",
+      "transliteration": "ĆWICZ coDZIENNIE, WYNIKI saME przyCHODZĄ",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Get comfortable with hard work",
+      "polish": "Bądź oswojony z ciężką pracą",
+      "transliteration": "Bądź osWOJONY z CIĘŻKĄ praCĄ",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Say yes to the tough projects",
+      "polish": "Mów tak trudnym projektom, nawet gdy straszą",
+      "transliteration": "MÓW tak truDNym proJEKTOM, NAWET gdy STRASZĄ",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Build momentum, not just plans",
+      "polish": "Buduj rozpęd, nie tylko plany",
+      "transliteration": "BuDuj rozPĘD, NIE tylko plaNY",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Keep your promises, small and big",
+      "polish": "Dotrzymuj obietnic, tych małych i wielkich",
+      "transliteration": "DOTRZYMUJ oBIEcNIC, tych MAŁYCH i WIELKICH",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Learn fast, then apply what you learn",
+      "polish": "Ucz się szybko, potem wdrażaj to w życie",
+      "transliteration": "Ucz się SZYBKO, poTEM wdRAŻAJ to w ŻYcie",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I love learning the local etiquette.",
+      "polish": "Lubię uczyć się lokalnego savoir-vivre'u.",
+      "transliteration": "LUBIĘ Uczyć się lo-KAL-nego sa-va-ir-VIV-re-u.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "They welcome me with open arms.",
+      "polish": "Witają mnie naprawdę serdecznie.",
+      "transliteration": "WI-ta-ją mnie na-PRAW-dę SER-DEcz-NIE.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Today I join the singing together.",
+      "polish": "Dzisiaj dołączam do wspólnego śpiewu.",
+      "transliteration": "DZI-Siaj do-ŁĄ-czam do WSPÓL-ne-go ŚPIE-wu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I try the seasonal food, slowly.",
+      "polish": "Próbuję w tym sezonie lokalnych potraw, powoli.",
+      "transliteration": "PRÓ-bu-ję w tym se-zo-nie lo-KAL-nych po-TRAW, po-WO-li.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Festivals here feel timeless and alive.",
+      "polish": "Tutejsze festiwale wydają się wieczne i żywe.",
+      "transliteration": "TU-tejsze FE-sti-wa-le WY-dają się WIEczne i ŻYW-e.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I’m amazed by the craft and care.",
+      "polish": "Zachwyca mnie kunszt i staranność.",
+      "transliteration": "ZACH-wa-ca mnie KUNszt i sta-RAN-ność.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "We share stories by candlelight tonight.",
+      "polish": "Dzielimy się historiami przy świetle świec.",
+      "transliteration": "DZI-elimy się hi-STO-ri-a-mi przy ŚWIET-le sve-C.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I can handle hard conversations.",
+      "polish": "Potrafię poradzić sobie z trudnymi rozmowami.",
+      "transliteration": "Potrafie PORADZIC sobie z TRUDNYMI rozmowami.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I set a boundary, calmly.",
+      "polish": "Wyznaczam granice, spokojnie.",
+      "transliteration": "WYZ-NACZAM gra-NI-CE, SPOKOJNIE.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "My body keeps me steady.",
+      "polish": "Moje ciało mnie trzyma w równowadze.",
+      "transliteration": "MOJE CIA-ŁO mnie TRZYMA w RÓW-no-wa-dze.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I choose courage over comfort.",
+      "polish": "Wybieram odwagę zamiast wygody.",
+      "transliteration": "WY-BIE-RAM OD-wa-GE zamiast WY-go-dy.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I start small, and I persist.",
+      "polish": "Zaczynam od małych kroków i idę dalej.",
+      "transliteration": "ZA-CZAM od MA-ŁYCH kro-ków i IDE da-lej.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I can pause, then continue.",
+      "polish": "Mogę zrobić przerwę, i wrócić do działania.",
+      "transliteration": "MO-ge zro-bic PRZER-wę, i WRÓCIC do DZIA-ŁA-NIA.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "Today, I protect my energy.",
+      "polish": "Dzisiaj chronię swoją energię.",
+      "transliteration": "DZI-SAJ chro-NIĘ swoją eNER-gię.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T23:03:35.145724"
     }
   ],
-  "last_updated": "2026-11-15T19:29:59.690446"
+  "last_updated": "2026-11-16T23:03:35.145724"
 }
