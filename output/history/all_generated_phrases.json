@@ -19239,7 +19239,399 @@
       "transliteration": "DZI-SAJ chro-NIĘ swoją eNER-gię.",
       "category": "Strength",
       "generated_at": "2026-11-16T23:03:35.145724"
+    },
+    {
+      "english": "I’m leveling up, slowly and surely.",
+      "polish": "POSTEPNIE się podnoszę, krok po kroku.",
+      "transliteration": "PO step nie sI pod no SZĘ, krok po kro KU.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Today I choose progress over perfection.",
+      "polish": "Dziś wybieram postęp zamiast perfekcji.",
+      "transliteration": "Dziś vy BYer am postep zamiast per FEKcji.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m building confidence through small actions.",
+      "polish": "Buduję pewność siebie dzięki małym działaniom.",
+      "transliteration": "Bu DU je PEW ność sie bie dzięki MA łym DZIA łaniom.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "One hard thing, then I breathe.",
+      "polish": "Robię jedną trudną rzecz, a potem oddycham.",
+      "transliteration": "Ro BIĘ JEd ną TRUD ną rzecz, a po tem od Dycham.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I forgive myself, and I move on.",
+      "polish": "Wybaczam sobie, i idę dalej.",
+      "transliteration": "VY ba czam SO bie, i i DĘ da LEJ.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m learning to stay consistent.",
+      "polish": "Uczę się trzymać stały rytm.",
+      "transliteration": "U CHĘ się trzy mać STĄ y RYtm.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "My boundaries are part of growth.",
+      "polish": "Moje granice są częścią rozwoju.",
+      "transliteration": "MO jE gra ni ce sĄ ČĘ ścią roz VO ju.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "My gate changed again, has it?",
+      "polish": "Mój gate znowu się zmienił, prawda?",
+      "transliteration": "Mój gate ZNO-WU SIĘ ZMIE-NIŁ, PRA-wda?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Is there a cheaper transfer nearby?",
+      "polish": "Czy obok jest tańszy transfer?",
+      "transliteration": "Czy O-BOK JEST TAŃ-SZY trans-fer?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I think my suitcase was delayed.",
+      "polish": "Chyba mój walizka została opóźniona.",
+      "transliteration": "Chy-ba MÓJ wa-li-zka zo-sta-ŁA o-póź-NIO-na.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I missed my flight, can I rebook?",
+      "polish": "Spóźniłem się na lot, czy mogę go przełożyć?",
+      "transliteration": "Spóź-NI-łem SIĘ na LOT, czy mo-GĘ GO prze-ŁO-ŻYĆ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Do I need passport control again?",
+      "polish": "Czy znowu muszę przejść przez kontrolę paszportową?",
+      "transliteration": "Czy ZNO-WU MU-SZĘ przejść przez kon-tro-lę pa-szpor-to-wą?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Where can I charge my phone here?",
+      "polish": "Gdzie mogę tu naładować telefon?",
+      "transliteration": "G-dzie mo-gę TU na-ła-do-WAĆ te-le-fon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "How much is the airport taxi?",
+      "polish": "Ile kosztuje taksówka z lotniska?",
+      "transliteration": "I-le KO-stu-je tak-SÓW-ka z LOT-ni-ska?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Set boundaries, then protect your focus.",
+      "polish": "Ustal granice, a potem chroń swoją uwagę.",
+      "transliteration": "Ustal GRANICE, a potem CHROŃ swoją uwage.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Make one hard thing easier today.",
+      "polish": "Zrób dziś jeden trudny krok lżej.",
+      "transliteration": "ZRÓB dziś jeden TRUDNY krok lżej.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Clean one tiny area, feel clear.",
+      "polish": "Wyczyść jeden mały kąt, i od razu lżej w głowie.",
+      "transliteration": "WYCZYŚĆ jeden MAŁY kąt, i od razu LŻEJ w głowie.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Choose rest without guilt, seriously.",
+      "polish": "Odpoczywaj bez poczucia winy, naprawdę.",
+      "transliteration": "ODPOCZYWAJ bez poczuCIA WINY, naprawdę.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Talk to yourself like a friend.",
+      "polish": "Mów do siebie tak, jak mówisz do przyjaciela.",
+      "transliteration": "MÓW do siebie TAK, jak mówisz do przyjaciela.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Replace rumination with one next action.",
+      "polish": "Zamień rozmyślanie na jeden kolejny ruch.",
+      "transliteration": "ZAMIEŃ rozmyŚLA NIe na jeden KOLEJNY ruch.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Say what you want, out loud.",
+      "polish": "Powiedz na głos, czego chcesz.",
+      "transliteration": "POWIEDZ na GŁOS, czego CHCESZ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I feel anxious, but I can act.",
+      "polish": "Czuję niepokój, ale mogę działać.",
+      "transliteration": "CzUEję nIEpokoj, ale mogę dZiałać.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "My heart races when I remember.",
+      "polish": "Serce mi wali, gdy to sobie przypominam.",
+      "transliteration": "SERCe mi wali, gdy to sobIE przypominam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I want comfort, not solutions.",
+      "polish": "Chcę pocieszenia, nie rozwiązań.",
+      "transliteration": "CHcę pocIESzenia, nie rozwiązań.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m angry, and I’m choosing calm.",
+      "polish": "Jestem zła, i wybieram spokój.",
+      "transliteration": "JEStem zŁA, i vYbIeram spokÓj.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I feel safe when we slow down.",
+      "polish": "Czuję się bezpiecznie, gdy zwalniamy.",
+      "transliteration": "CzUję sIe bezPIecznie, gdy zvaLNIamy.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m quietly disappointed, not broken.",
+      "polish": "Jest mi cicho przykro, ale to nie koniec.",
+      "transliteration": "Jest mi cIcho priKRO, ale to nie KOniec.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m nervous, so I breathe out.",
+      "polish": "Jest mi nerwowo, więc wydycham powoli.",
+      "transliteration": "Jest mi nERwoWo, więc vYdycham poVOLi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I belong here, even in Polish.",
+      "polish": "Należę tu, nawet mówiąc po polsku.",
+      "transliteration": "NaleŻę tu, NAwet mowIąc po polsku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "My tone is calm, my pace is mine.",
+      "polish": "Mój ton jest spokojny, a tempo moje.",
+      "transliteration": "Moj ton jest SPOKOjny, a TEMpo moje.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I can ask, then try again.",
+      "polish": "Mogę dopytać, potem spróbować jeszcze raz.",
+      "transliteration": "MOGę dopYtać, potem spróBować jesZCze raz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I speak first, polish later.",
+      "polish": "Mówię najpierw, dopracuję później.",
+      "transliteration": "MowIĘ NAjpierw, dopracujĘ póŻniej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "When I stumble, I keep going.",
+      "polish": "Gdy potknę się w słowach, idę dalej.",
+      "transliteration": "Gdy POTknę się w SłoWach, iDĘ DAlej.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I don’t need perfect, just honest.",
+      "polish": "Nie muszę być perfekcyjny, wystarczy szczerość.",
+      "transliteration": "Nie MUSzę być perfekCYjny, WYSTarCZY szczeROŚĆ.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I choose clarity over speed.",
+      "polish": "Wybieram jasność zamiast szybkości.",
+      "transliteration": "WybierAM jasNoŚĆ zamiast szyBkoŚCI.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Could you clarify the priority order?",
+      "polish": "Czy możesz doprecyzować kolejność priorytetów?",
+      "transliteration": "Czy mozesz doprecyzowac kolejnosc priorytetow?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I need that document shared with me.",
+      "polish": "Potrzebuję, żeby ten dokument został mi udostępniony.",
+      "transliteration": "Potrzebuję, zeby ten dokument zostal mi udostępniony.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m ready, just confirm the start time.",
+      "polish": "Jestem gotowy, tylko potwierdź godzinę startu.",
+      "transliteration": "Jestem gotowy, tylko potwierdz godzine startu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Let’s keep this chat on track.",
+      "polish": "Trzymajmy tę rozmowę na właściwym torze.",
+      "transliteration": "Trzymajmy tę rozmowę na wlasciwym torze.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Can we align on deliverables today?",
+      "polish": "Czy możemy dziś ustalić, co dokładnie mamy dostarczyć?",
+      "transliteration": "Czy mozesmy dzis ustalic, co dokladnie mamy dostarczyc?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’ll check the inbox after this call.",
+      "polish": "Sprawdzę skrzynkę odbiorczą po tym spotkaniu.",
+      "transliteration": "Sprawdze skrzynke odbiorcza po tym spotkaniu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I’m stuck, where should I look first?",
+      "polish": "Jestem w kropce, od czego mam zacząć?",
+      "transliteration": "Jestem w kropce, od czego mam zaczac?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Thank you for making space for me.",
+      "polish": "Dziękuję, że robisz mi miejsce.",
+      "transliteration": "Dzię-ku-ję, że ro-bisz mi miej-sce.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I feel supported, thank you so much.",
+      "polish": "Czuję się wsparty, dziękuję ci bardzo.",
+      "transliteration": "Czu-ję się wsparty, dzię-ku-ję ci bar-dzo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Your help eased my heavy day.",
+      "polish": "Twoja pomoc odciążyła mój trudny dzień.",
+      "transliteration": "Two-ja po-moc od-cią-ży-ła mój trud-ny dzień.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Thanks for listening without fixing.",
+      "polish": "Dzięki za to, że słuchasz bez naprawiania.",
+      "transliteration": "Dzię-ki za to, że słu-chasz bez na-pra-wia-nia.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "I appreciate your steady presence today.",
+      "polish": "Doceniam twoją spokojną obecność dziś.",
+      "transliteration": "Do-ce-ni-am two-ją spo-kojną o- b ec-ność dziś.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Thank you for noticing my effort.",
+      "polish": "Dziękuję, że zauważasz mój wysiłek.",
+      "transliteration": "Dzię-ku-ję, że za-uwa-żasz mój wy-si-łek.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "You made me feel less alone.",
+      "polish": "Sprawiłeś, że czułem się mniej sam.",
+      "transliteration": "Spra-wi-łeś, że czu-łem się mniej sam.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Can I see the price tag up close?",
+      "polish": "Mogę zobaczyć cenę z bliska?",
+      "transliteration": "Mogę zobaczyć cenę z bliska?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Is there any discount today?",
+      "polish": "Czy dzisiaj jest jakaś zniżka?",
+      "transliteration": "Czy dzisiaj jest jakaś zniżka?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "What exactly is included in this price?",
+      "polish": "Co dokładnie jest w cenie?",
+      "transliteration": "Co dokłądnie jest w cenie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Do you offer student or loyalty discounts?",
+      "polish": "Macie zniżkę dla studentów albo z programu lojalnościowego?",
+      "transliteration": "Macie zniżkę dla studentów albo z programu lojalnościowego?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Can I pay by card or cash?",
+      "polish": "Mogę zapłacić kartą czy gotówką?",
+      "transliteration": "Mogę zapłacić kartą czy gotówką?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Is it cheaper if I buy two?",
+      "polish": "Jest taniej, jeśli wezmę dwa?",
+      "transliteration": "Jest taniej, jeśli wezmę dwa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
+    },
+    {
+      "english": "Do I get a warranty with this?",
+      "polish": "Czy jest na to gwarancja?",
+      "transliteration": "Czy jest na to gwarancja?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T21:57:13.647293"
     }
   ],
-  "last_updated": "2026-11-16T23:03:35.145724"
+  "last_updated": "2026-11-17T21:57:13.647293"
 }
