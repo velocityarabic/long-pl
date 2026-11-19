@@ -20023,7 +20023,399 @@
       "transliteration": "PROG-no-za MÓ-wi że bę-dzie CZEŚ-ci-o-we za-chmur-ze-nie",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-18T21:38:06.885783"
+    },
+    {
+      "english": "I start small, I keep going.",
+      "polish": "Zaczynam małe rzeczy, i idę dalej.",
+      "transliteration": "Zaczynam MAłe rzeczy, i idę DAlej.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "My pace is enough today.",
+      "polish": "Mój rytm wystarcza mi dzisiaj.",
+      "transliteration": "MÓJ rytm WYSTarcza mi DZISiaj.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I let worries pass through me.",
+      "polish": "Pozwalam zmartwieniom przejść przeze mnie.",
+      "transliteration": "PozWALam zmartwieniOM przejść PRZEze mnie.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I speak kindly to myself.",
+      "polish": "Mówię do siebie łagodnie.",
+      "transliteration": "MÓwię do sieBIE ŁAgodnie.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I choose one task, then breathe.",
+      "polish": "Wybieram jedno zadanie, potem oddycham spokojniej.",
+      "transliteration": "WybierAM JEDno zadanie, POtem oddycham SPOkojniej.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I clear my desk, then my mind.",
+      "polish": "Ogarniam biurko, a głowa robi się lżejsza.",
+      "transliteration": "OgarniAM BiuRko, a głoWA robi się LŻEjsza.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Fresh air counts as self care.",
+      "polish": "Świeże powietrze to też dbanie o siebie.",
+      "transliteration": "ŚWIEże powietrze to TEŻ dbanie o SIebie.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Hi, I’d like to open an account.",
+      "polish": "Dzień dobry, chcę założyć konto.",
+      "transliteration": "JEN dobry, CHCĘ założyć KON-to.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Do you accept foreign cash here?",
+      "polish": "Czy przyjmujecie gotówkę z zagranicy?",
+      "transliteration": "CZy priJMujecie GO-tówkę z zaGRA-ni-cy?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Can I exchange euros to zloty?",
+      "polish": "Czy mogę wymienić euro na złote?",
+      "transliteration": "CZy MO-gę WY-mie-nić eu-ro na ZWO-te?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "What’s the current exchange rate?",
+      "polish": "Jaki jest teraz kurs wymiany?",
+      "transliteration": "JA-ki JEST te-raz KURS WY-mia-ny?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I need change for a larger bill.",
+      "polish": "Poproszę resztę do większego nominału.",
+      "transliteration": "PoPRO-szę RESZ-tę do więkSZE-go no-mi-nału.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "My card is stuck in the machine.",
+      "polish": "Moja karta utknęła w bankomacie.",
+      "transliteration": "MO-ja KAR-ta utKNE-ła v ban-ko-ma-cie.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Can I block my card right now?",
+      "polish": "Czy mogę od razu zablokować kartę?",
+      "transliteration": "CZy MO-gę od RA-zu za-bloKOwać KAR-tę?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Switch off notifications, breathe for a sec.",
+      "polish": "Wyłącz powiadomienia, weź chwilę oddechu.",
+      "transliteration": "VY-łącz po-wia-do-ME-ni-a, weź CHWI-lę od-DE-chu.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I pause before I answer.",
+      "polish": "Robię pauzę, zanim odpowiem.",
+      "transliteration": "RO-bię PA-uzę, za-NIM od-po-wiem.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Sip water, then decide your next step.",
+      "polish": "Popij wodę, potem zdecyduj, co dalej.",
+      "transliteration": "PO-pij WO-dę, PO-tem zde-CY-duj, co da-LEJ.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Lighten up, you can handle this.",
+      "polish": "Odpuść sobie, dasz radę.",
+      "transliteration": "od-PUŚĆ so-bie, dasz RADę.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "My mind needs quiet, not more noise.",
+      "polish": "Moja głowa potrzebuje ciszy, nie hałasu.",
+      "transliteration": "MO-ja gło-wa po-TRE-bu-je CI-szy, nie ha-ŁA-su.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Slow down at crossings and elevators.",
+      "polish": "Zwodnij tempo, gdy wchodzisz do windy i na przejścia.",
+      "transliteration": "zwoD-NIJ TEM-po, gdy WCHOdZisz do WIN-dy i na prze-JA-ścia.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I take ten minutes to reset my mood.",
+      "polish": "Biorę dziesięć minut na reset nastroju.",
+      "transliteration": "BIE-rę dzie-SIĘĆ mi-nut na RESET na-stro-ju.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I agree, that's a smart point.",
+      "polish": "Zgadzam się, to jest sprytny argument.",
+      "transliteration": "zgadzam sie, to jest SPRYTNY argument",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Yes, I feel the same about it.",
+      "polish": "Tak, mam takie samo podejście.",
+      "transliteration": "tak, mam TAkie samo podejście",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I agree with you on this.",
+      "polish": "Na tym polega zgoda między nami.",
+      "transliteration": "na tym polega ZGOda między nami",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Absolutely, let's do it.",
+      "polish": "Oczywiście, róbmy to.",
+      "transliteration": "oczywiscie, ROBmy to",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "You nailed it, I agree.",
+      "polish": "Trafiłeś w sedno, zgadzam się.",
+      "transliteration": "trafiles w SEdno, ZGADZAM sie",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I think that’s the best way.",
+      "polish": "Myślę, że to najlepsze wyjście.",
+      "transliteration": "MYśle, ze to NAJlepsze wyjście",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Honestly, I agree with that.",
+      "polish": "Szczerze mówiąc, zgadzam się z tobą.",
+      "transliteration": "szczeRZE mowiac, ZGADZAM sie z TOba",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "No worries, I got you.",
+      "polish": "Nie ma sprawy, ogarniam cię.",
+      "transliteration": "Nie MA sprawy, ogarniam CIĘ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "You totally ghosted me, huh?",
+      "polish": "Zniknęłaś mi, co?",
+      "transliteration": "Zniknęłaś MI, CO?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "That’s my jam, seriously.",
+      "polish": "To jest mój klimat, serio.",
+      "transliteration": "To JEST mój KLImat, SERIO.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Stop flexing, nobody cares.",
+      "polish": "Nie popisuj się, nikt nie dba.",
+      "transliteration": "Nie POpisuj SIĘ, nikt nie DBA.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I’m so over this conversation.",
+      "polish": "Mam już dość tej rozmowy.",
+      "transliteration": "Mam JUŻ dość TEJ rozmowy.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Let’s bounce, it’s getting late.",
+      "polish": "Chodźmy, bo zaraz późno.",
+      "transliteration": "Chodźmy, bo ZARaz POŹno.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "You’re being shady, cut it.",
+      "polish": "Robisz się podejrzany, odpuść.",
+      "transliteration": "RObisz się podeJRZANY, odPUSZCZ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I need five minutes of silence.",
+      "polish": "Potrzebuję pięciu minut ciszy.",
+      "transliteration": "potrzebuJĘ PIAc MINU TISzy",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I go to a museum, slowly.",
+      "polish": "Idę do muzeum, powoli i uważnie.",
+      "transliteration": "iDĘ do MUZEum, poWOli i uWAŻnie",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "My shower thoughts turn into plans.",
+      "polish": "Myśli pod prysznicem zamieniają się w plany.",
+      "transliteration": "MYŚli pod prysZNIcem ZAmiEŃIAją SIĘ w PLA ny",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I ask people, what surprised you lately?",
+      "polish": "Pytam ludzi, co ostatnio cię zaskoczyło.",
+      "transliteration": "PYtam LUdzi, co oSTATnio CIĘ zaSKOczyło",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I save one bold sentence daily.",
+      "polish": "Zapisuję codziennie jedno odważne zdanie.",
+      "transliteration": "zaPIŞujĘ coDZIENnie JE no odWAŻne ZDA nie",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "A playlist at low volume works.",
+      "polish": "Gdy leci muzyka cicho, łatwiej myślę.",
+      "transliteration": "GDY leCI MU zyk a CIcho, ŁATwiej myŚlĘ",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I call a friend, then I write.",
+      "polish": "Dzwonię do kolegi, a potem siadam do pisania.",
+      "transliteration": "DZwoNIĘ do KOleGi, a POtem siA DAM do PI SA nia",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Which line goes to the airport?",
+      "polish": "Która linia jedzie na lotnisko?",
+      "transliteration": "Ktora LINia jedzie na lotnisko?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Is this bus going the right way?",
+      "polish": "Czy ten autobus jedzie w dobrą stronę?",
+      "transliteration": "Czy ten autobUS jedzie w DOBRĄ stronę?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Does this tram stop near my hotel?",
+      "polish": "Czy ten tramwaj zatrzymuje się przy moim hotelu?",
+      "transliteration": "Czy ten TRAMwaj zatrzymuje sie przy moim hoteLU?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "How do I transfer to another line?",
+      "polish": "Jak przesiadam się na inną linię?",
+      "transliteration": "Jak PRZESiada m sie na inną LINię?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Where can I buy a ticket machine?",
+      "polish": "Gdzie jest automat biletowy?",
+      "transliteration": "Gdzie jest AUMat biletoWY?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Can I pay by card on board?",
+      "polish": "Czy mogę zapłacić kartą w środku?",
+      "transliteration": "Czy mogę zapłaCIĆ KARTĄ w SRODKU?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "polish": "Czy akceptujecie płatności zbliżeniowe?",
+      "transliteration": "Czy akceptujecie płatNOŚCI zbliżeniowe?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I soften my shoulders, right now.",
+      "polish": "Miekczę ramiona, właśnie teraz.",
+      "transliteration": "MIEKczę RAMIONA, WŁAŚNIE TERAZ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I return to the present moment.",
+      "polish": "Wracam do tej chwili.",
+      "transliteration": "WRACAM DO TEJ CHWILI.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Let the tension melt away.",
+      "polish": "Niech napięcie odpłynie.",
+      "transliteration": "NIECH NAPIĘCIE ODpłynie.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I can be calm and honest.",
+      "polish": "Mogę być spokojny i szczery.",
+      "transliteration": "MOGĘ BYĆ SPOKOJNY I SZCZERY.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "My breath guides me home.",
+      "polish": "Mój oddech prowadzi mnie do domu.",
+      "transliteration": "MÓJ ODDECH PROWADZI MNIE DO DOMU.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "I pause, then choose my next step.",
+      "polish": "Zatrzymuję się, potem wybieram kolejny krok.",
+      "transliteration": "ZATRZYMUJĘ SIĘ, POTEM WYBIERAM KOLEJNY KROK.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
+    },
+    {
+      "english": "Thoughts can pass without me.",
+      "polish": "Myśli mogą przechodzić obok mnie.",
+      "transliteration": "MYŚLI MOGĄ PRZECHODZIĆ OBOK MNIE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T21:50:14.452402"
     }
   ],
-  "last_updated": "2026-11-18T21:38:06.885783"
+  "last_updated": "2026-11-19T21:50:14.452402"
 }
