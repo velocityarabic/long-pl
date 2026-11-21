@@ -383,7 +383,39 @@
     {
       "category": "Family & Home",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T21:33:49.171772"
+  "last_updated": "2026-11-21T20:16:24.457877"
 }

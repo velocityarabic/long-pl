@@ -20807,7 +20807,399 @@
       "transliteration": "WYniosę ŚMIECI po KOLACJI.",
       "category": "Family & Home",
       "generated_at": "2026-11-20T21:33:49.153550"
+    },
+    {
+      "english": "Hi, do you know where to sit?",
+      "polish": "Cześć, wie pani, gdzie mamy usiąść?",
+      "transliteration": "CzEść, wiE pani, gdZie mamy usIĄŚĆ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Hey, how do you say that in Polish?",
+      "polish": "Cześć, jak mówi się to po polsku?",
+      "transliteration": "CzEść, jak mÓwi siĘ to po pOlsku?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Sorry, may I introduce myself quickly?",
+      "polish": "Przepraszam, czy mogę się przedstawić?",
+      "transliteration": "P RZepraszam, czy mOgę s ię prZeDSTawić?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Hi! I’m here for the workshop.",
+      "polish": "Cześć, ja jestem na warsztatach.",
+      "transliteration": "CzEść, ja jestem na wARSztatach.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Are you a local, by any chance?",
+      "polish": "Jesteś stąd, może?",
+      "transliteration": "JEsteś stĄd, mOże?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "What’s your usual name in English?",
+      "polish": "Jak masz na imię po angielsku?",
+      "transliteration": "Jak masz na imiĘ po anGIeLSku?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Nice to meet you here, today.",
+      "polish": "Miło cię spotkać tutaj, dziś.",
+      "transliteration": "Milo cię spotkAĆ tuhA j, dz iś.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I’m choosing this for a reason.",
+      "polish": "Wybieram to z jakiegoś powodu,",
+      "transliteration": "vYbieram to z jakiegos powodu,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "What outcome do we want?",
+      "polish": "Jaki efekt chcemy osiągnąć,",
+      "transliteration": "jaki efekt chcemy osiagnac,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Let’s make it measurable.",
+      "polish": "Zróbmy to mierzalne,",
+      "transliteration": "zrobmy to mierzalne,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I’m aiming for a clear milestone.",
+      "polish": "Celuję w konkretny kamień milowy,",
+      "transliteration": "celuje v konkretny kamien milowy,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "My goal is calmer mornings.",
+      "polish": "Moim celem są spokojniejsze poranki,",
+      "transliteration": "moim celem sa spokojniejsze poranki,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I want to move, not drift.",
+      "polish": "Chcę ruszyć do przodu, a nie dryfować,",
+      "transliteration": "hche ruszyczy do przodu, a nie dryfowac,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I keep this purpose in mind.",
+      "polish": "Trzymam ten cel w głowie,",
+      "transliteration": "trzymam ten cel v glowye,",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I show up, no matter what.",
+      "polish": "Pokazuję się, niezależnie od tego, co będzie.",
+      "transliteration": "PokazUJE sIE, niezALEZnie od TOgo, co BĘDZIE.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I wait, and I keep working.",
+      "polish": "Czekam, i dalej pracuję.",
+      "transliteration": "CZEKAM, i DAlEj prACUJĘ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Breathe, then do the next bit.",
+      "polish": "Weź oddech, potem zrób ten kolejny krok.",
+      "transliteration": "Weź ODdech, potem ZROb ten KOlejny KROK.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Today is practice, not perfection.",
+      "polish": "Dzisiaj ćwiczę, nie muszę być idealny.",
+      "transliteration": "DZISiaj ĆWICZĘ, nie MUSZĘ być IDealny.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I fix it, even if it’s messy.",
+      "polish": "Naprawiam, nawet gdy to jeszcze bałagan.",
+      "transliteration": "naPRAWiam, NAwet gdy to jeszcze BAŁAGAN.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I won’t break, I’ll adjust.",
+      "polish": "Nie pękam, tylko się dostosowuję.",
+      "transliteration": "Nie PĘKAm, TYLko się dOSTOSOWUJĘ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "My effort counts, day by day.",
+      "polish": "Mój wysiłek się liczy, dzień po dniu.",
+      "transliteration": "mÓj WYSIŁek się LICZY, DZIeń po DZIEniu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "My allergy is getting worse fast",
+      "polish": "Moja alergia szybko się pogarsza",
+      "transliteration": "Moja alleRGIA SZYbko sIE pogarSZA",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I think this is anaphylaxis",
+      "polish": "Chyba to jest anafilaksja",
+      "transliteration": "CHyba to jest anaFILaksja",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I feel feverish and shaking",
+      "polish": "Mam gorączkę, czuję dreszcze",
+      "transliteration": "Mam goRĄczkę, cZUJE dRESzcze",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I have severe headache, please help",
+      "polish": "Mam bardzo silny ból głowy, proszę o pomoc",
+      "transliteration": "Mam BARdzo SIlny bÓL gŁoWY, proSZĘ o poMOC",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "My eyes hurt after a chemical splash",
+      "polish": "Boli mnie oko po kontakcie z chemią",
+      "transliteration": "BoLI MNIE oKO po KONtakcie z CHEmią",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I got a cut and it's bleeding a lot",
+      "polish": "Mam ranę, mocno krwawię",
+      "transliteration": "Mam RA nę, MOCno KRWAwIĘ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Stop the bleeding, please",
+      "polish": "Proszę, zatamuj krwawienie",
+      "transliteration": "PROsze, zaTAMuj KRWAwienie",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I forgive you, but boundaries stay.",
+      "polish": "Wybaczam ci, ale granice zostają.",
+      "transliteration": "VYbaczam ci, ale GRANice zOSTAją.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Let's start with a clean slate.",
+      "polish": "Zacznijmy od czystej karty.",
+      "transliteration": "ZaczNJMÝ od CZYStej karTY.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I choose peace over payback.",
+      "polish": "Wybieram spokój zamiast rewanżu.",
+      "transliteration": "VYbieram SPOkoJ zamiast rewanŻu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "You don't have to prove yourself.",
+      "polish": "Nie musisz nic udowadniać.",
+      "transliteration": "nie MUSISZ nic uDOVadniać.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I’ll let this go, slowly.",
+      "polish": "Pozwól mi to puścić, powoli.",
+      "transliteration": "POZwol mi to PUŚCIĆ, powoLI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Can we talk without blame today?",
+      "polish": "Czy możemy porozmawiać bez oskarżeń?",
+      "transliteration": "czy moŻemy poroZmawiać bez oSKARŻeń?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I hear you, and I still hurt.",
+      "polish": "Słyszę cię, i nadal mnie to boli.",
+      "transliteration": "sLYszę cię, i NADal mnie to boLI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I make tea and sit down",
+      "polish": "Robię herbatę i siadam spokojnie",
+      "transliteration": "roBIE herBaTY i SIADAM spoKOjnie",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I check my calendar before leaving",
+      "polish": "Sprawdzam kalendarz, zanim wyjdę",
+      "transliteration": "spraWDZAM kaLENdarz, zaNIM WYjdę",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I take a quick stretch break",
+      "polish": "Robię krótki rozciąg, żeby się rozruszać",
+      "transliteration": "ROBIĘ KROtki roZCIĄG, żeBY się roZruSZAĆ",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I pack my bag for later",
+      "polish": "Pakuję torbę na później, na wszelki wypadek",
+      "transliteration": "PAkuję TORbę na POŻniej, na WSZE:lki wyPAdek",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I eat something with real protein",
+      "polish": "Jem coś z prawdziwym białkiem",
+      "transliteration": "JEM coŚ z PRAWdziwym bIAłkiem",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I read a few pages on my commute",
+      "polish": "Czytam kilka stron w drodze",
+      "transliteration": "czyTAM KILka STRON w droDZE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I silence notifications during work blocks",
+      "polish": "Wyłączam powiadomienia na czas pracy",
+      "transliteration": "WYłąCZAM poWIAdoMIEń na CZAS praCY",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "What kind of bread is that?",
+      "polish": "Jaki to rodzaj chleba?",
+      "transliteration": "Jaki to RODZAJ chleba?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Is this croissant still warm?",
+      "polish": "Czy to jest jeszcze ciepły rogal?",
+      "transliteration": "Czy to jest JESZCZE ciepły rogal?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Can I taste a tiny bit first?",
+      "polish": "Czy mogę najpierw spróbować mały kawałek?",
+      "transliteration": "Czy mogę NAJPIERW spróbować mały KAWAŁEK?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I’ll take two pastries, please.",
+      "polish": "Poproszę dwa wypieki.",
+      "transliteration": "Poproszę DWA wypieki.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Do you bake daily, or sometimes?",
+      "polish": "Pieklicie codziennie, czy tylko czasem?",
+      "transliteration": "Pieklicie CODZIENNIE, czy TYLKO czasem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "What’s your recommendation for today?",
+      "polish": "Co polecasz na dziś?",
+      "transliteration": "Co poleCASZ na DZIŚ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I’ll sit by the window, please.",
+      "polish": "Poproszę stolik przy oknie.",
+      "transliteration": "Poproszę stolik PRZY oknie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Hi, it s me, quick question",
+      "polish": "Cześć, to ja, mam szybkie pytanie",
+      "transliteration": "Cheść, to ja, mam szybkIE pytanie",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Can you confirm the time, please?",
+      "polish": "Czy możesz potwierdzić godzinę?",
+      "transliteration": "Czy możESZ potwierdzić GOdzinę?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I missed your call, sorry.",
+      "polish": "Przepraszam, nie odebrałem, oddzwonię później",
+      "transliteration": "Przepraszam, nie odebrAłem, oddZvon ię póŹNIEJ",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Please leave a voicemail if I miss.",
+      "polish": "Jeśli nie odbiorę, zostaw wiadomość na poczcie głosowej",
+      "transliteration": "Jeśli nie odbiorę, ZOSTAW wiadomość na poczcie gŁOsowej",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "I need to reach you urgently.",
+      "polish": "Muszę się z tobą pilnie skontaktować",
+      "transliteration": "MuSZĘ się z toBĄ pilnie skontaktować",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Are we still meeting today?",
+      "polish": "Czy spotykamy się jeszcze dzisiaj?",
+      "transliteration": "Czy spotyKAMY się jeszcze DZISiaj?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Text me when you re free.",
+      "polish": "Napisz do mnie, kiedy będziesz wolny",
+      "transliteration": "NaPISZ do mnie, kieDY będziesz wolNY",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T20:16:24.443181"
     }
   ],
-  "last_updated": "2026-11-20T21:33:49.153550"
+  "last_updated": "2026-11-21T20:16:24.443181"
 }
