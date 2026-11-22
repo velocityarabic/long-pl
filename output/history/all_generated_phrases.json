@@ -21199,7 +21199,399 @@
       "transliteration": "NaPISZ do mnie, kieDY będziesz wolNY",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-21T20:16:24.443181"
+    },
+    {
+      "english": "Let’s set priorities for this week.",
+      "polish": "Ustalmy priorytety na ten tydzień.",
+      "transliteration": "Ustalmy prioRYtety na ten TYdzien.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "What could we do today, fast?",
+      "polish": "Co możemy zrobić dziś szybko?",
+      "transliteration": "CO możemy ZRObić DZIś SZYbko?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Let’s list options, then compare.",
+      "polish": "Zróbmy listę opcji, a potem je porównajmy.",
+      "transliteration": "Zrobmy LIstę OPcji, a poTEM je poRÓWnajmy.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "What’s the simplest next move?",
+      "polish": "Jaka jest najprostsza kolejna rzecz do zrobienia?",
+      "transliteration": "JAka jest najPROstsa koLEJna RZecz do ZRObienia?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Let’s choose a deadline we can meet.",
+      "polish": "Wybierzmy termin, który naprawdę damy radę dotrzymać.",
+      "transliteration": "VyBierzmy TERmin, ktoRY naprawDE damy RADę dotrZyMAĆ.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Who does what, step by step?",
+      "polish": "Kto za co odpowiada, krok po kroku?",
+      "transliteration": "KTO za CO odpoWiaDA, KROK po KROku?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Let’s keep a backup plan in mind.",
+      "polish": "Miejmy w głowie plan awaryjny.",
+      "transliteration": "Miejmy v GŁowie PLAN awaryjny.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I need momentum, not motivation.",
+      "polish": "Potřebuji ruch, nie motywację.",
+      "transliteration": "Potrzebuje RUCH, nie MOTywacje.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I start messy, then improve.",
+      "polish": "Zaczynam niedoskonale, potem to prostuję.",
+      "transliteration": "Zaczynam niedosKONale, potem to proSTUJĘ.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I make it easy to begin.",
+      "polish": "Ułatwiam sobie start, nawet dziś.",
+      "transliteration": "UłaTWiam sobie START, nawet DZIŚ.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Progress feels better when I notice it.",
+      "polish": "Kiedy widzę postęp, chce mi się więcej.",
+      "transliteration": "KIEdy widzę POSTĘP, chce mi się WIĘCEJ.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I reward effort, not outcome.",
+      "polish": "Doceniam starania, nie tylko wynik.",
+      "transliteration": "DoCENiam STArania, nie TYLko WYNik.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Small routines keep me steady.",
+      "polish": "Małe rytuały trzymają mnie w równym rytmie.",
+      "transliteration": "MAłe RYtułały TRZYmają mnie w RÓwnym RYtmie.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Today I study for future me.",
+      "polish": "Uczę się dla siebie za jakiś czas.",
+      "transliteration": "Uczę się dla siebie ZA jakiś CZAS.",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Tell me, what hopeful looks like?",
+      "polish": "Powiedz mi, jak wygląda nadzieja?",
+      "transliteration": "Powiedz mi, jak WYGLAda nADzieja?",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I’m keeping hope in my pocket.",
+      "polish": "Trzymam nadzieję w kieszeni.",
+      "transliteration": "Trzymam nADzieję w KIEszeni.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Hope sounds small, but it helps.",
+      "polish": "Nadzieja brzmi skromnie, ale pomaga.",
+      "transliteration": "NADzieja BRZmi SKROMnie, ale POMaga.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I’ll take hope, even if shaky.",
+      "polish": "Wezmę nadzieję, nawet jeśli się chwieję.",
+      "transliteration": "WZmię nADzieję, NAwet jeśli się CHWieję.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Let’s plan for better, gently.",
+      "polish": "Zaplanujmy lepsze dni, delikatnie.",
+      "transliteration": "ZaPLANujmy lepSZE dni, deLIkatnie.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I can hope, and still be honest.",
+      "polish": "Mogę mieć nadzieję i być szczera.",
+      "transliteration": "Mogę mieć nADzieję i BYĆ szcZERA.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Hope is a habit, not a wish.",
+      "polish": "Nadzieja to nawyk, nie życzenie.",
+      "transliteration": "NADzieja to naWYK, nie życZENie.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Own your wins, celebrate them fully",
+      "polish": "Świętuj swoje zwycięstwa, naprawdę doceniaj je.",
+      "transliteration": "Świętuj swoje zwycięstwa, naprawdę doceń je.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Ask, then act, within 24 hours",
+      "polish": "Zapytaj, a potem działaj, w ciągu doby.",
+      "transliteration": "Zapy taj, a potem działaj, w ciągu doBY.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Build credibility, one good deadline at a time",
+      "polish": "Buduj wiarygodność, dotrzymując terminów krok po kroku.",
+      "transliteration": "Buduj wiARYgodnośc, dotrzymu jąc terminów krok po kroku.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Say it clearly, then follow through",
+      "polish": "Powiedz jasno, a potem dowieź to do końca.",
+      "transliteration": "Powiedz JASNO, a potem dowiez to do końca.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Let results speak, not excuses",
+      "polish": "Nie tłumacz się, niech mówią wyniki.",
+      "transliteration": "Nie TŁUMa cz się, niech mówią WYNIKI.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Turn effort into measurable progress",
+      "polish": "Zamieniaj wysiłek w mierzalny postęp.",
+      "transliteration": "Zamieniaj WYSIŁEK w MIERZALNY POSTĘP.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Protect focus, silence the noisy doubts",
+      "polish": "Chroń skupienie, ucisz te hałaśliwe wątpliwości.",
+      "transliteration": "Chroń SKU Pienie, ucisz te hałaśli we WĄTpliwości.",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Could we get two forks, please?",
+      "polish": "Czy moglibyśmy prosić o dwa widelce?",
+      "transliteration": "czy mogLIBYSmy prosić o DWA WI-deLCE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Is tap water available here?",
+      "polish": "Macie wodę z kranu?",
+      "transliteration": "MAcie WOdę z KRanu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I’m allergic to peanuts, just so you know.",
+      "polish": "Jestem uczulony na orzeszki ziemne, tak dla pewności.",
+      "transliteration": "JESTEm uCUloNY na orzeSZki zieMNЕ, tak dla pewNOŚCI.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "No onions for me, please.",
+      "polish": "Poproszę bez cebuli.",
+      "transliteration": "POproszĘ bez ceBULi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "What’s the portion size like?",
+      "polish": "Jaka jest wielkość porcji?",
+      "transliteration": "JAKA jest wielKOŚĆ porCJI?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Could you recommend a light starter?",
+      "polish": "Polecilibyście coś lekkiego na przystawkę?",
+      "transliteration": "poLEciLIByŚcie coś lekKIEgo na PRZYSTawKĘ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Is there a kids menu?",
+      "polish": "Macie menu dla dzieci?",
+      "transliteration": "MAcie ME-nu dla DZIEci?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I can do this, one step.",
+      "polish": "Zrobię to, krok po kroku.",
+      "transliteration": "Zrobię TO, KROK po kroku.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "My body knows how to steady.",
+      "polish": "Moje ciało wie, jak się uspokoić.",
+      "transliteration": "Moje CIAŁO wie, JAK się uspokoić.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I speak my needs with calm.",
+      "polish": "Mówię, czego potrzebuję, spokojnie.",
+      "transliteration": "MÓWIĘ, czeGO POTRZEBUJE, SPOKOJNIE.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Strength is saying no, firmly.",
+      "polish": "Siła to umieć powiedzieć stanowczo nie.",
+      "transliteration": "SiŁA to umieć powiedzieć STANOWCZO nie.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I return to my breath, again.",
+      "polish": "Wracam do oddechu, znowu.",
+      "transliteration": "WRACAM do oddechu, ZNOWU.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I finish what I start today.",
+      "polish": "Dziś doprowadzam sprawy do końca.",
+      "transliteration": "DZIŚ doprowadzam SPRAWY do KOŃCA.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I keep my promises to myself.",
+      "polish": "Dotrzymuję obietnic wobec siebie.",
+      "transliteration": "DOTRZYMUJĘ obietNIC wobec siebie.",
+      "category": "Strength",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Tell me, do you feel it too?",
+      "polish": "Powiedz, czy ty też to czujesz?",
+      "transliteration": "PoWIEDZ, czy ty TObie też TO czuJESZ?",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I’m falling for you all over again.",
+      "polish": "Znowu zakochuję się w tobie.",
+      "transliteration": "ZNOwu zaKOchuJĘ się w TObie.",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Your laugh is my daily love.",
+      "polish": "Two śmiech jest moją codzienną miłością.",
+      "transliteration": "Two ŚMIEch jest moją coDZIEnną MIŁOŚĆIĄ.",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I choose kindness with you, always.",
+      "polish": "Zawsze wybieram dla ciebie dobroć.",
+      "transliteration": "ZAwsze WYbieRAM dla cieBIE doBROĆ.",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Let’s slow down, and just be.",
+      "polish": "Zwolnijmy, i po prostu bądźmy razem.",
+      "transliteration": "ZWOLNIMY, i po proSTU bĄdźMY raZEM.",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I want you, not the idea of you.",
+      "polish": "Chcę cię, nie wyobrażenie o tobie.",
+      "transliteration": "CHCĘ CIĘ, nie wyOBRAŻENIE o TObie.",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "When you’re near, my heart loosens.",
+      "polish": "Gdy jesteś blisko, moje serce mięknie.",
+      "transliteration": "Gdy jeSTEŚ blISko, moJE SERce MIĘkNIE.",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Tonight we share family recipes",
+      "polish": "Dzisiaj dzielimy się rodzinnymi przepisami.",
+      "transliteration": "Dzisiaj dzielimy sie rodzinnyMI przepiSami.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "They bless the bread before eating",
+      "polish": "Błogosławią chleb przed jedzeniem.",
+      "transliteration": "BłogosłaWIĄ chleb przed jeDzeniem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "We trade wishes during New Year",
+      "polish": "Wymieniamy życzenia w Nowy Rok.",
+      "transliteration": "WyMIENiamy żyCZE nia w NoWY Rok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "I watch folk dances in the square",
+      "polish": "Patrzę na ludowe tańce na rynku.",
+      "transliteration": "PaTRZĘ na LUdo we tańCE na rynKU.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Morning markets feel like community rituals",
+      "polish": "Poranne targi mają swój rytuał wspólnoty.",
+      "transliteration": "PoRANne tarG I mają swój rytUAŁ ws pÓlnoTY.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Someone offers a toast to everyone",
+      "polish": "Ktoś wznosi toast za wszystkich.",
+      "transliteration": "Ktoś wZNOsi toast za WSZYstkich.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "We light candles for remembrance",
+      "polish": "Zapalamy świeczki na znak pamięci.",
+      "transliteration": "ZaPLaMamy SWieczki na znak paMIęci.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T20:30:20.069391"
     }
   ],
-  "last_updated": "2026-11-21T20:16:24.443181"
+  "last_updated": "2026-11-22T20:30:20.069391"
 }
