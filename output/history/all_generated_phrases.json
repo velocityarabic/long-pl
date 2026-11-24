@@ -21591,7 +21591,399 @@
       "transliteration": "ZaPLaMamy SWieczki na znak paMIęci.",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-22T20:30:20.069391"
+    },
+    {
+      "english": "Cheers! Tonight is for celebrating you.",
+      "polish": "Na zdrowie, to wieczór, żeby świętować ciebie.",
+      "transliteration": "Na ZDRO-wie, to WIE-czór, żeby ŚWIĘ-to-wać CIĘ-biE.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Tell me, what should we toast to?",
+      "polish": "Powiedz mi, za co wznosimy toast?",
+      "transliteration": "Po-wiedz mi, ZA co WZNO-si-my TOAST?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I brought flowers for the occasion.",
+      "polish": "Przyniosłem kwiaty na tę okazję.",
+      "transliteration": "Przy-NIO-słem KWia-ty na TĘ o-KA-zję.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Let s take a group photo, now.",
+      "polish": "Zróbmy teraz wspólne zdjęcie, wszyscy razem.",
+      "transliteration": "ZRO-bmy te-raz WSPÓL-ne ZDJĘ-cie, WŚZY-scy RA-zem.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Music up, this is our moment.",
+      "polish": "Podkręćmy muzykę, to nasze chwile.",
+      "transliteration": "Pod-KRĘć-my MU-zy-kę, to NA-sze CHWI-le.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Where should I hang my coat?",
+      "polish": "Gdzie mogę zostawić płaszcz i torbę?",
+      "transliteration": "Gdzie mo-gę ZA-sta-wić PŁA-szcz i TOR-bę?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I m so excited to see everyone.",
+      "polish": "Jestem tak podekscytowany, że was wszystkich widzę.",
+      "transliteration": "Jestem tak po-DEK-scy-to-wa-ny, że WAS wszyst-kich WI-dzę.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Softly relax your shoulders, right now",
+      "polish": "Delikatnie rozluźnij barki, właśnie teraz.",
+      "transliteration": "Delikatnie rozluźnij bARKi, właŚNIE teRAZ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Notice sounds without getting pulled in",
+      "polish": "Zauważ dźwięki, nie daj się wciągnąć.",
+      "transliteration": "ZauWAŻ dźwiĘki, nie daj się wciĄgnąć.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Feel your breath at the nose",
+      "polish": "Poczuj oddech w nosie.",
+      "transliteration": "POczuj odDECH w noSIe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Unclench your face, let it soften",
+      "polish": "Rozluźnij twarz, pozwól jej zmięknąć.",
+      "transliteration": "ROZluźnij tWARZ, poZWO L jej zMIĘknąć.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Name one sensation, then let it pass",
+      "polish": "Nazwij jedną doznaną rzecz i pozwól jej przejść.",
+      "transliteration": "NAzWJ jedNĄ dozNA NĄ rzecz i poZWÓL jej przeJŚĆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Choose one kind thing to do",
+      "polish": "Wybierz jeden dobry gest dla siebie.",
+      "transliteration": "WyBIERZ jeDNEN dobRY gest dla SIebIE.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Let your gaze rest on one spot",
+      "polish": "Pozwól spojrzeniu na chwilę zatrzymać się w jednym punkcie.",
+      "transliteration": "PoZWO L spoJRZEniu na chwiLĘ zaTRZYMAĆ się w jedNYM punkCIE.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Can you resend the email, please?",
+      "polish": "Możesz proszę jeszcze raz wysłać ten email?",
+      "transliteration": "Mozesz prosze jeszcze raz wyslac ten email?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Let’s set a clear deadline together.",
+      "polish": "Ustalmy wspólnie konkretny termin.",
+      "transliteration": "Ustalmy wspolnie KONKRETNY termin.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I need the latest version, not old.",
+      "polish": "Potrzebuję najnowszej wersji, nie tej starej.",
+      "transliteration": "Potrzebuje najNOWSZEJ WERSJI, nie tej stalej.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Can we do a quick status check?",
+      "polish": "Czy zrobimy krótki przegląd statusu?",
+      "transliteration": "Czy zrobimy KROTki przeglad STATUSU?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Who owns this task, exactly?",
+      "polish": "Kto dokładnie jest właścicielem tego zadania?",
+      "transliteration": "Kto dokladnie jest wlascicielem tego ZADANIA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I’ll prepare notes before the meeting.",
+      "polish": "Przygotuję notatki przed spotkaniem.",
+      "transliteration": "Przygotuje NOTATKI przed spotkaniem.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Let me know if anything blocks us.",
+      "polish": "Daj mi znać, jeśli coś nas blokuje.",
+      "transliteration": "Daj mi znac, JESLI cos nas BLOKUJE.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Do you have a bigger discount card?",
+      "polish": "Macie większy rabat przy karcie stałego klienta?",
+      "transliteration": "Macie WIĘKSZY RABAT przy KARcie stałego KLIENTA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "What brand is this exactly?",
+      "polish": "Jaka to dokładnie marka?",
+      "transliteration": "Jaka to DOKŁADNIE MARka?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Does the price include the packaging?",
+      "polish": "Czy cena obejmuje też opakowanie?",
+      "transliteration": "Czy CENA obejmuje też OPAKOWANIE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "How much is shipping to my address?",
+      "polish": "Ile kosztuje dostawa na mój adres?",
+      "transliteration": "Ile KOSZTUJE doSTAWA na mój ADRES?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "What’s the return window, exactly?",
+      "polish": "Jaki jest termin zwrotu, dokładnie?",
+      "transliteration": "Jaki jest TERmin zwROtu, DOKŁADNIE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "polish": "Czy mogę zapłacić w ratach?",
+      "transliteration": "Czy mogę ZAPŁAcić W raTACH?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Is this the final price after offers?",
+      "polish": "Czy to jest cena ostateczna po promocjach?",
+      "transliteration": "Czy to jest CENA ostateczna po PROmocjach?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "My suitcase looks different, I think.",
+      "polish": "Moja walizka wygląda inaczej, chyba.",
+      "transliteration": "MOJA waliZKA WYGLĄDA inaCZEJ, CHYBA.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Can I get a boarding pass here?",
+      "polish": "Czy mogę tu dostać kartę pokładową?",
+      "transliteration": "CZY mogĘ TU doSTAĆ karTĘ POKŁAdoWĄ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Is there a faster security lane?",
+      "polish": "Czy jest szybsza kontrola bezpieczeństwa?",
+      "transliteration": "CZY jest szybsza konTROla bezPIEczEŃstwa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I already checked in online.",
+      "polish": "Meldowałem się online, już.",
+      "transliteration": "MELDOWAŁEM się ONline, JUŻ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "What time does the last shuttle leave?",
+      "polish": "O której godzinie odjeżdża ostatni bus?",
+      "transliteration": "O któREJ GODZINIE odJEżDŻA OSTATNI BUS?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I need a new seat assignment.",
+      "polish": "Potrzebuję nowego przypisania miejsca.",
+      "transliteration": "POtrZEbuję NOWEgo PRZYpisania MIEJSCA.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Can you help me change flights?",
+      "polish": "Pomoglibyście mi zmienić lot?",
+      "transliteration": "POmogLIbyście mi ZMIENIĆ LOT?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Write one sentence, then breathe.",
+      "polish": "Napisz jedno zdanie, potem weź oddech.",
+      "transliteration": "Napisz ODno zdanie, potem weź odDEch.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Choose curiosity over judgment today.",
+      "polish": "Wybierz ciekawość zamiast osądu.",
+      "transliteration": "WYbierz cieKAwość zaMIAST oSAdu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Ask, what’s the next kind step?",
+      "polish": "Zapytaj, co jest teraz najbliższym dobrym krokiem.",
+      "transliteration": "ZaPytaj, CO jest teRAZ najBLIŻszym doBrym kroKiem.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Let your body lead, not panic.",
+      "polish": "Niech ciało prowadzi, nie panika.",
+      "transliteration": "Niech CIAło proWADzi, nie paNIKA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Tidy thoughts like you tidy a desk.",
+      "polish": "Ułóż myśli jak biurko po sprzątaniu.",
+      "transliteration": "UŁÓŻ myśli jak BiuRko po sprząTANIU.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Make rest a plan, not a wish.",
+      "polish": "Zaplanuj odpoczynek, nie życzenie.",
+      "transliteration": "ZaPLAnuj odPOCzynek, nie żyCZEnie.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Say no kindly, then stand by it.",
+      "polish": "Powiedz grzecznie nie, i trzymaj się tego.",
+      "transliteration": "PoWIEDZ grzeczNIE nie, i TRZYmaj się TEgo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Today I try again, gently",
+      "polish": "Dzisiaj próbuję znów, delikatnie",
+      "transliteration": "Dzisiaj prÓbuję znów, delikatniE",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I’m building resilience, not just plans",
+      "polish": "Buduję odporność, nie tylko plany",
+      "transliteration": "BudujĘ otpOrność, nIE tylko plany",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I can learn from mistakes",
+      "polish": "Mogę uczyć się na błędach",
+      "transliteration": "Mogę uczyć sIĘ na bŁędach",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I’m noticing patterns in my life",
+      "polish": "Zauważam schematy w swoim życiu",
+      "transliteration": "ZauważAm schematy w svoim Życiu",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "Small change, big momentum for me",
+      "polish": "Mała zmiana, wielki rozpęd",
+      "transliteration": "Mała zmiana, wielki rozpĘd",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I choose progress, even when tired",
+      "polish": "Wybieram rozwój, nawet gdy jestem zmęczona",
+      "transliteration": "WybierAm rozwÓj, nawet gdy jestem zmęczOnA",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I’m letting my body lead today",
+      "polish": "Dzisiaj słucham sygnałów mojego ciała",
+      "transliteration": "Dzisiaj słuchAm sygnAłów mojego cIała",
+      "category": "Growth",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I feel uneasy, so I pause.",
+      "polish": "Czuję niepokój, więc robię pauzę.",
+      "transliteration": "CzUjĘ niepokOj, wiĘc robIĘ pauzĘ.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I m overwhelmed, but I m safe.",
+      "polish": "Jest mi przytłaczająco, ale jestem bezpieczny",
+      "transliteration": "Jest mi prYytŁaczaJąco, ale jestem bezpieczny/a.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "My chest feels tight, not forever.",
+      "polish": "Czuję ścisk w klatce piersiowej, nie na zawsze.",
+      "transliteration": "CzUję ścisk w Klatce piErsIOwej, nie na zawZE.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I m lonely, and I reach out.",
+      "polish": "Czuję się samotnie, więc się odzywam.",
+      "transliteration": "CzUję sIĘ samotnie, wiĘc siĘ odZywam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "That fear shrinks when I name it.",
+      "polish": "Ta obawa się zmniejsza, kiedy ją nazywam.",
+      "transliteration": "Ta obaWA siĘ zmnieJSza, kiEdY jĄ naZywam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I m frustrated, but I won t quit.",
+      "polish": "Jestem sfrustrowany",
+      "transliteration": "Jestem sfrustrowANY/a, ale nie reZygnUjĘ.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
+    },
+    {
+      "english": "I m jealous, and I check my needs.",
+      "polish": "Gdy czuję zazdrość, sprawdzam, czego mi brakuje.",
+      "transliteration": "Gdy czUjĘ zazDrOŚĆ, sprawDZam, czeGO mi brAkuje.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T01:14:13.388393"
     }
   ],
-  "last_updated": "2026-11-22T20:30:20.069391"
+  "last_updated": "2026-11-24T01:14:13.388393"
 }
