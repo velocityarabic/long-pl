@@ -511,7 +511,39 @@
     {
       "category": "Wisdom",
       "date": "2026-11-24"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-25"
     }
   ],
-  "last_updated": "2026-11-24T23:17:43.200531"
+  "last_updated": "2026-11-25T22:46:21.280853"
 }

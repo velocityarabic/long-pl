@@ -22375,7 +22375,399 @@
       "transliteration": "Ucz się SZYBKO, ale się nie WYPalaj.",
       "category": "Wisdom",
       "generated_at": "2026-11-24T23:17:43.188423"
+    },
+    {
+      "english": "I collect tiny surprises daily.",
+      "polish": "Zbieram codziennie drobne niespodzianki.",
+      "transliteration": "Zbieram CODZIENNIE drobne NIEspoDZIanki.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "What if I break the pattern?",
+      "polish": "A co, jeśli łamię schemat?",
+      "transliteration": "A co, JEŚLI łamię scheMAT?",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I make one weird first draft.",
+      "polish": "Robię jeden dziwny pierwszy szkic.",
+      "transliteration": "ROBIĘ jeDEN dziWNY pierwSZY szkic.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I swap tools, not the goal.",
+      "polish": "Zmieniam narzędzia, nie cel.",
+      "transliteration": "ZMIENIAM naRZĘdzia, nie CEL.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I talk to strangers for new angles.",
+      "polish": "Rozmawiam z obcymi, żeby złapać nowe kąty.",
+      "transliteration": "ROZmaWiam z obCYmi, żeby ZŁAPAĆ nowe KĄty.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I turn constraints into a creative game.",
+      "polish": "Zamieniam ograniczenia w kreatywną grę.",
+      "transliteration": "ZAMIENIAM ograNICZeNia w kreAYTYWną grę.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I sketch fast, then choose the best bits.",
+      "polish": "Szybko szkicuję, potem wybieram najlepsze fragmenty.",
+      "transliteration": "SZYbko SZIkuJĘ, POtem WYbieram najlepsze fragMENty.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Can I see a doctor now?",
+      "polish": "Czy mogę teraz zobaczyć lekarza?",
+      "transliteration": "Czy mogę TERAZ zobaczyć LEKARZA?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I need help with my symptoms.",
+      "polish": "Potrzebuję pomocy przy tych objawach.",
+      "transliteration": "POTRZEBUJĘ pomocy przy TYCH OBJAWACH.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Is there an urgent clinic?",
+      "polish": "Czy tu jest dyżurna przychodnia?",
+      "transliteration": "Czy TU jest dyZURNA PRZYCHODNIA?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I have a high fever.",
+      "polish": "Mam wysoką gorączkę.",
+      "transliteration": "Mam WYSOKĄ goRĄCZkę.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Where can I get blood tests?",
+      "polish": "Gdzie mogę zrobić badania krwi?",
+      "transliteration": "Gdzie mogę ZROBIĆ BAdania KRWI?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Do I need an appointment for the pharmacy?",
+      "polish": "Czy do apteki też trzeba umówić się?",
+      "transliteration": "Czy DO apteki też TRZEBA UMÓWIĆ się?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I’d like to buy pain relief.",
+      "polish": "Poproszę coś na ból.",
+      "transliteration": "PopROSZĘ coś na BÓL.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I relax my jaw, right now.",
+      "polish": "Rozluźniam szczękę, właśnie teraz.",
+      "transliteration": "Rozluźniam SZCZĘKĘ, wŁAŚNIE teRAZ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Let the exhale do the work.",
+      "polish": "Zrób miejsce na wydech.",
+      "transliteration": "Zrób MIEJSCE na wyDECH.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I unclench my hands, slowly.",
+      "polish": "Odwycam dłonie, powoli.",
+      "transliteration": "OdKLUczam DŁO-NIE, poWO-li.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Inhale calm, exhale everything else.",
+      "polish": "Wdech spokoju, wydech reszty.",
+      "transliteration": "WDECH SPOKOJU, wyDECH reS’TY.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "My shoulders can drop, no fight.",
+      "polish": "Mogę pozwolić, żeby ramiona opadły.",
+      "transliteration": "Mo-gĘ poZWO-lić, że-BY raMIO-na o-PADŁY.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I hear my breath, not the noise.",
+      "polish": "Słyszę oddech, a nie hałas.",
+      "transliteration": "SŁY-SZĘ od-DECH, a nie HA-ŁAS.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Right here, the moment holds me.",
+      "polish": "Tu i teraz, chwila mnie trzyma.",
+      "transliteration": "Tu i te-RAZ, chWI-la mnie TRZY-ma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "No cap, that was wild",
+      "polish": "Bez kitu, to było dzikie",
+      "transliteration": "Bez KITU, to BYŁO dzikie",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Say less, I get it",
+      "polish": "Mniej gadania, łapię",
+      "transliteration": "Mniej gadANIA, ŁAPIĘ",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "You serious right now?",
+      "polish": "Serio teraz?",
+      "transliteration": "SE-rio TE-raz?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "That vibe is kinda off",
+      "polish": "Ten vibe jest trochę nie tak",
+      "transliteration": "Ten VIBE jest TROCHĘ nie TAK",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I m not buying that",
+      "polish": "Nie kupuję tego",
+      "transliteration": "Nie KUPUJE tego",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Hold up, wait a sec",
+      "polish": "Chwila, poczekaj sekundę",
+      "transliteration": "CHWIla, poCZEKAJ SE-kundę",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "That s on you, dude",
+      "polish": "To twoja sprawka, no",
+      "transliteration": "To twoja SPRAW-ka, no",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Is there Wi‑Fi on this tram?",
+      "polish": "Czy jest Wi‑Fi w tym tramwaju?",
+      "transliteration": "Czy jest WI-Fi w tym TRAMWAJU?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "How do I report a lost item?",
+      "polish": "Gdzie mam zgłosić zgubiony przedmiot?",
+      "transliteration": "GDZIE mam zgłosİĆ zgubiony PRZEDMIOT?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "What time is the last metro?",
+      "polish": "O której jest ostatnie metro?",
+      "transliteration": "O KÓREJ jest OSTATNIE METRO?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Does this line run on Sundays?",
+      "polish": "Czy ta linia kursuje w niedzielę?",
+      "transliteration": "Czy ta LİNIA kursuje w NIEDZIELĘ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Is it crowded right now?",
+      "polish": "Czy jest teraz bardzo tłoczno?",
+      "transliteration": "Czy jest TERAZ bardzo TŁOCZNO?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Where is the elevator at the station?",
+      "polish": "Gdzie jest winda na stacji?",
+      "transliteration": "GDZIE jest WINDA na STACJI?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Is this tram accessible for wheelchairs?",
+      "polish": "Czy ten tramwaj jest przystosowany dla wózków?",
+      "transliteration": "Czy TEN tramwaj jest PRZYSTOSOWANY dla WÓZKÓW?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "You have a point, honestly.",
+      "polish": "Masz rację, szczerze.",
+      "transliteration": "Masz RAcję, SZCZERZE.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I’m with you on that.",
+      "polish": "Jestem z tobą w tej sprawie.",
+      "transliteration": "Jestem z TOBĄ w tej SPRAWie.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "That sounds fair to me.",
+      "polish": "To brzmi dla mnie rozsądnie.",
+      "transliteration": "TO BRZMI dla mnie ROZSĄDNIE.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I agree, and here’s why.",
+      "polish": "Zgadzam się, i mam na to powód.",
+      "transliteration": "ZgaDŻAM się, i mam na to POwÓD.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I completely share your concern.",
+      "polish": "W pełni podzielam twoje zmartwienie.",
+      "transliteration": "W pełni POdzielam twoje zmartwieniE.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I think that’s the right call.",
+      "polish": "Myślę, że to słuszna decyzja.",
+      "transliteration": "Myślę, że to słuszna deCYzja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "No, I don’t buy that.",
+      "polish": "Nie, nie kupuję tego.",
+      "transliteration": "Nie, nie KU-PU-JĘ teGO.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I want to pay by card.",
+      "polish": "Chcę zapłacić kartą.",
+      "transliteration": "Chce ZAPŁAcić KARtą.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Can I withdraw from this ATM?",
+      "polish": "Czy mogę wypłacić pieniądze z tego bankomatu?",
+      "transliteration": "Czy MO-gę WYPła-cić pie-NIĄdze z TE-go banko-MA-tu?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "My PIN keeps getting rejected.",
+      "polish": "Mój PIN jest ciągle odrzucany.",
+      "transliteration": "Mój PIN JEST CIĄgle OD-rzu-cA-ny.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Is there a cash withdrawal limit?",
+      "polish": "Czy jest limit wypłat z bankomatu?",
+      "transliteration": "Czy JEST limit WYPłat z banko-MA-tu?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "What exchange fee do you charge?",
+      "polish": "Ile wynosi prowizja za wymianę?",
+      "transliteration": "Ile WY-no-si pro-WI-zja za WY-mia-nę?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Can you do a card refund?",
+      "polish": "Czy mogą Państwo zrobić zwrot na kartę?",
+      "transliteration": "Czy MO-gą Pań-stwo ZRO-bić zwrot na KAR-tę?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I need a bank statement today.",
+      "polish": "Potrzebuję dziś potwierdzenia historii konta.",
+      "transliteration": "PoTRZE-bu-ję DZIŚ poTWIERdze-nia hi-sto-rii KON-ta.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Breathe in, then soften your shoulders.",
+      "polish": "Wdech, a potem zmiękcz ramiona.",
+      "transliteration": "Vdekh, a potem ZMIeKcz RAMiona.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Take a breath, answer with care.",
+      "polish": "Weź oddech, odpowiedz z rozwagą.",
+      "transliteration": "Veh oddech, odpoviedz z ROVaGą.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Stand tall, relax your jaw.",
+      "polish": "Stań prosto, rozluźnij szczękę.",
+      "transliteration": "Stañ PROSto, rozLuznij SCZEke.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Let the day slow down around you.",
+      "polish": "Niech dzień zwolni wokół ciebie.",
+      "transliteration": "Nekh DEN zvoLNI vokoŁ ciebie.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I check in with my body first.",
+      "polish": "Najpierw sprawdzam, co mówi ciało.",
+      "transliteration": "NajpIERv spravDzam, co MOVI CIAło.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Balance your screen time with outside air.",
+      "polish": "Zrób równowagę między ekranem a świeżym powietrzem.",
+      "transliteration": "Zrob ROWNoVAGę mezi ekRAmen a SVEZym povIetrzem.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "Keep your steps even, don’t yank.",
+      "polish": "Rób równe kroki, nie szarp.",
+      "transliteration": "Rovb rovNE kroki, ne SHARP.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T22:46:21.261497"
     }
   ],
-  "last_updated": "2026-11-24T23:17:43.188423"
+  "last_updated": "2026-11-25T22:46:21.261497"
 }
