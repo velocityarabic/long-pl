@@ -22767,7 +22767,399 @@
       "transliteration": "Rovb rovNE kroki, ne SHARP.",
       "category": "Balance",
       "generated_at": "2026-11-25T22:46:21.261497"
+    },
+    {
+      "english": "I tidy one corner, feel lighter.",
+      "polish": "Porządkuję jeden kącik, czuję się lżej.",
+      "transliteration": "PorządkUję jeden Kącik, cZuję się lżej.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I take a slow sip, relax.",
+      "polish": "Robię powolny łyk, uspokajam się.",
+      "transliteration": "Robię powolny łyk, uspokajAm sIę.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I step outside, and let it reset me.",
+      "polish": "Wychodzę na chwilę, pozwalam, żeby mnie odświeżyło.",
+      "transliteration": "WYchOdzę na chwilę, pozWalam, żeby mnie odŚwieżyło.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I say no to one extra thing.",
+      "polish": "Mówię nie na jedną dodatkową rzecz.",
+      "transliteration": "Mówię nie na JE-dną dOdAtkoWą rzecz.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I breathe in gratitude, not pressure.",
+      "polish": "Wdycham wdzięczność, nie presję.",
+      "transliteration": "WdyCham wdzięCZność, nie presJę.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I stretch my shoulders, I’m okay.",
+      "polish": "Rozciągam ramiona, jest okej.",
+      "transliteration": "Rozciągam ramiona, jest okej.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I choose music that lifts my mood.",
+      "polish": "Wybieram muzykę, która podnosi nastrój.",
+      "transliteration": "Wybieram muZykę, która podnosi NAStrój.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I write one honest paragraph now.",
+      "polish": "Piszę teraz jeden szczery akapit, od razu.",
+      "transliteration": "PISZĘ teraz JEden szczery aKAPIT, OD razu.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "A random photo sparks my story.",
+      "polish": "Zwykłe zdjęcie nagle rozpala moją historię.",
+      "transliteration": "ZwyKŁE zdJĘCIE NAGle rozPALa MOją HIStorIĘ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I change one tiny habit today.",
+      "polish": "Zmieniam dziś jeden drobiazg w nawyku.",
+      "transliteration": "ZMIENIAM DZIŚ jeDEN droBIAZG w NAwyku.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I read a page, then act.",
+      "polish": "Czytam stronę, a potem działam.",
+      "transliteration": "CzyTAM stronĘ, a poTEM DZIAŁAM.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I ask, what would make this easier?",
+      "polish": "Zadaję sobie pytanie, co sprawi, że to będzie lżejsze?",
+      "transliteration": "ZADAJĘ soBIE PYtaNIe, CO SPRAWI, że to bęDZIE LŻEjsze?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I listen for rhythm in everyday sounds.",
+      "polish": "Słucham rytmu codziennych dźwięków, i łapię pomysły.",
+      "transliteration": "SŁUcham RYtmu coDZIENnych DŹWIĘKÓW, i ŁApię poMYSŁY.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I cook something new, no perfection.",
+      "polish": "Gotuję coś nowego, bez dążenia do ideału.",
+      "transliteration": "GOtuję COŚ NOwego, bez dąŻENIA do iDEAŁU.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Hang in there, it s normal.",
+      "polish": "Wytrzymaj, to normalne.",
+      "transliteration": "vYtrzymaj, to NORmalne",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "It won t hurry, just keep going.",
+      "polish": "Nie musi się spieszyć, po prostu idź dalej.",
+      "transliteration": "nie MUSI się spIEszyć, po prostu idź DAlEj",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Let me think, give me a sec.",
+      "polish": "Daj mi chwilę, żebym pomyślał.",
+      "transliteration": "daj mi CHWilę, zeby poMYSŁał",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I hear you, let s slow down.",
+      "polish": "Słyszę cię, zwolnijmy trochę.",
+      "transliteration": "sŁySZĘ cię, zwoLNIjmy TROChę",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "We ll sort it, one thing at a time.",
+      "polish": "Ułożymy to, po kolei.",
+      "transliteration": "uŁOżymy to, po KOlei",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Go ahead, I can wait for you.",
+      "polish": "Proszę, poczekam na ciebie.",
+      "transliteration": "proSZE, poCZEkam na cieBIE",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Okay, I m not rushing my answer.",
+      "polish": "Dobrze, nie spieszę się z odpowiedzią.",
+      "transliteration": "DOBRze, nie spIEszę się z odPOWiedzią",
+      "category": "Patience",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Which way to the old town?",
+      "polish": "Gdzie jest droga do starego miasta?",
+      "transliteration": "Gdze jest droga do starego miasta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "How do I get to that park?",
+      "polish": "Jak dojść do tego parku?",
+      "transliteration": "Jak dojść do tego parku?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Can you help me find this street?",
+      "polish": "Czy może mi pan powiedzieć, jak trafić w tę ulicę?",
+      "transliteration": "Czy może mi pan powiedzieć, jak TRafić w tę ULICĘ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Is there a shortcut to the square?",
+      "polish": "Czy jest skrót na rynek?",
+      "transliteration": "Czy jest skrót na RYNEK?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "What’s the fastest way to downtown?",
+      "polish": "Jaka jest najszybsza droga do centrum?",
+      "transliteration": "Jaka jest NAJ-szybsza DRO-ga do CENTRUM?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Do buses stop near this building?",
+      "polish": "Czy przy tym budynku zatrzymują się autobusy?",
+      "transliteration": "Czy przy tym BUdynku zaTRZYMUJĄ się AU-tobusy?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Where can I catch a tram nearby?",
+      "polish": "Skąd najbliżej odjeżdża tramwaj?",
+      "transliteration": "SKĄD najbliżej OD-jeżdża TRAMwaj?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Could we have dinner as a family?",
+      "polish": "Czy możemy zjeść kolację całą rodziną?",
+      "transliteration": "Czy moŻemY ZJĘĆ kolacJĘ caŁĄ roDZINą?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Where should I put the keys?",
+      "polish": "Gdzie mam położyć klucze, kochanie?",
+      "transliteration": "Gdzie mam poŁoŻYć klucZE, koCHAnie?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Mom, can you help me with homework?",
+      "polish": "Mamo, możesz mi pomóc z pracą domową?",
+      "transliteration": "MaMo, moŻesz mi poMÓC z praCĄ doMOWĄ?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Dad, the mail came for you.",
+      "polish": "Tato, przyszła do ciebie poczta.",
+      "transliteration": "TAto, prYszła do cieBIE poczTA.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I like our weekly family tradition.",
+      "polish": "Lubię naszą rodzinną tradycję co tydzień.",
+      "transliteration": "LUbię naSZĄ roDZINną traDYcję co TYGdzień.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "The house smells like fresh bread.",
+      "polish": "W domu pachnie świeżym chlebem.",
+      "transliteration": "W doMU paCHNIE ŚwieŻym chLEbem.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Let’s open the windows for air.",
+      "polish": "Otwórzmy okna, niech wpadnie świeże powietrze.",
+      "transliteration": "oTWÓRzmy okNA, niech wPADnie ŚwieŻe poWIEtrze.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Thanks for listening so closely.",
+      "polish": "Dziękuję, że tak uważnie słuchałeś.",
+      "transliteration": "Dziękuję, że TAK UWAŻNIE słuchałeś.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "You always make it easier.",
+      "polish": "Zawsze mi to ułatwiasz.",
+      "transliteration": "Zawsze mi to ułatwIASZ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’m grateful you offered help.",
+      "polish": "Dziękuję, że zaproponowałeś pomoc.",
+      "transliteration": "Dziękuję, że zapROPOnowałeś poMOC.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "That was such a gentle move.",
+      "polish": "To była taka delikatna decyzja.",
+      "transliteration": "To była taka delIKATna decyzja.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I needed your calm right now.",
+      "polish": "Właśnie teraz potrzebowałem twojego spokoju.",
+      "transliteration": "WŁAŚNIE teraz POTRZEBowałem twojego SPOKOJU.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "You checked the details for me.",
+      "polish": "Sprawdziłeś te szczegóły dla mnie.",
+      "transliteration": "spRAWdziłeś te SZCZEgóły dla MNIE.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I appreciate your honesty and kindness.",
+      "polish": "Doceniam twoją szczerość i życzliwość.",
+      "transliteration": "DOCENIAM twoją SZCZErOŚĆ i ŻYCziWOŚĆ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’ll be brave and start anyway.",
+      "polish": "Będę odważny, i zacznę mimo wszystko.",
+      "transliteration": "BĘDĘ oDWAżny, i zaCZnę mimo WSZYSTko",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’ll tell the truth, gently.",
+      "polish": "Powiem prawdę, delikatnie.",
+      "transliteration": "POWIEM PRAWDĘ, deLIkatnie",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’ll admit I’m scared and go.",
+      "polish": "Przyznam, że się boję, i i tak pójdę.",
+      "transliteration": "PRZYZNAm, że SIĘ boJĘ, i i TAK POjdę",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’m going to face it now.",
+      "polish": "Zmierzam się z tym teraz, bez zwłoki.",
+      "transliteration": "ZMIERZam się z tym TEraz, bez zwŁoKI",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I choose calm over panic.",
+      "polish": "Wybieram spokój zamiast paniki.",
+      "transliteration": "wyBIEram SPOKÓJ zaMIAST paNIKI",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I will ask the question directly.",
+      "polish": "Zadaję to pytanie wprost, dziś.",
+      "transliteration": "ZAdaJĘ to pyTAniE wPROST, DZIŚ",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’ll stand up for myself.",
+      "polish": "Postawię się, kiedy trzeba.",
+      "transliteration": "poSTAWię się, KIEDy TRZEba",
+      "category": "Courage",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Where's the nearest rowing machine?",
+      "polish": "Gdzie jest najbliższy ergometr do wiosłowania?",
+      "transliteration": "Gdzie jest najblizszy ergometr do WIOSLOWANIA?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I think I need a lighter dumbbell.",
+      "polish": "Chyba potrzebuję lżejszych hantli.",
+      "transliteration": "Chyba POtrzebuję LZEszych HANTli.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Can I try the resistance band here?",
+      "polish": "Czy mogę tu przymierzyć gumę oporową?",
+      "transliteration": "Czy mogę tu PRZYmierzyć guMĘ OPOROWĄ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Please wipe the bench after me.",
+      "polish": "Proszę przetrzyj ławeczkę po mnie.",
+      "transliteration": "Prosze przetrzyj LAWĘczkę po MNIE.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "I’m sweating a lot, is that normal?",
+      "polish": "Strasznie się spociłem, to normalne?",
+      "transliteration": "STRASznie się SPOciłem, to NORMALne?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "My shoulders feel tight today.",
+      "polish": "Dzisiaj mam spięte barki.",
+      "transliteration": "Dzisiaj mam SPIĘTE BARki.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
+    },
+    {
+      "english": "Which muscles will this exercise work?",
+      "polish": "Jakie mięśnie ćwiczy to ćwiczenie?",
+      "transliteration": "JAKIE mięśnie ĆWICZY to ĆWICZENIE?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-26T22:36:40.085319"
     }
   ],
-  "last_updated": "2026-11-25T22:46:21.261497"
+  "last_updated": "2026-11-26T22:36:40.085319"
 }
